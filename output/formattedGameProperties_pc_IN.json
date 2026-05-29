@@ -1,2062 +1,5667 @@
 [
   {
     "productTitle": "1000xRESIST",
-    "productId": "9NPDN9R45JX4"
+    "productId": "9NPDN9R45JX4",
+    "releaseDate": "2025-11-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
+    }
   },
   {
     "productTitle": "33 Immortals (Game Preview)",
-    "productId": "9P8LR42PTRGJ"
+    "productId": "9P8LR42PTRGJ",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "9 Kings (Game Preview)",
-    "productId": "9NNM7PKZN3JF"
+    "productId": "9NNM7PKZN3JF",
+    "releaseDate": "2025-08-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 599,
+      "MSRP": 599,
+      "WholesalePrice": 419.31
+    }
   },
   {
     "productTitle": "A Game About Digging A Hole™",
-    "productId": "9NGLST31DG26"
+    "productId": "9NGLST31DG26",
+    "releaseDate": "2025-12-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 269,
+      "MSRP": 269,
+      "WholesalePrice": 188.3
+    }
   },
   {
     "productTitle": "A Plague Tale: Requiem - Windows",
-    "productId": "9N97RC576957"
+    "productId": "9N97RC576957",
+    "releaseDate": "2022-10-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 699.65,
+      "MSRP": 1999,
+      "WholesalePrice": 489.75
+    }
   },
   {
     "productTitle": "Abiotic Factor",
-    "productId": "9P4NV23Q6QC2"
+    "productId": "9P4NV23Q6QC2",
+    "releaseDate": "2025-07-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.3
+    }
   },
   {
     "productTitle": "Absolum",
-    "productId": "9NR6NJ401NBS"
+    "productId": "9NR6NJ401NBS",
+    "releaseDate": "2026-03-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1869,
+      "MSRP": 1869,
+      "WholesalePrice": 1308.31
+    }
   },
   {
     "productTitle": "Aerial_Knight's DropShot",
-    "productId": "9P59J86GHDGL"
+    "productId": "9P59J86GHDGL",
+    "releaseDate": "2026-02-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
+    }
   },
   {
     "productTitle": "Against the Storm",
-    "productId": "9NRLRJPV4HWL"
+    "productId": "9NRLRJPV4HWL",
+    "releaseDate": "2023-12-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 649.35,
+      "MSRP": 999,
+      "WholesalePrice": 454.54
+    }
   },
   {
     "productTitle": "Age of Empires Definitive Edition",
-    "productId": "9NJWTJSVGVLJ"
+    "productId": "9NJWTJSVGVLJ",
+    "releaseDate": "2019-08-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 116,
+      "MSRP": 464,
+      "WholesalePrice": 68.81
+    }
   },
   {
     "productTitle": "Age of Empires II: Definitive Edition",
-    "productId": "9N42SSSX2MTG"
+    "productId": "9N42SSSX2MTG",
+    "releaseDate": "2023-01-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 489.65,
+      "MSRP": 1399,
+      "WholesalePrice": 290.47
+    }
   },
   {
     "productTitle": "Age of Empires III: Definitive Edition",
-    "productId": "9N1HF804QXN4"
+    "productId": "9N1HF804QXN4",
+    "releaseDate": "2020-10-15",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 324.75,
+      "MSRP": 1299,
+      "WholesalePrice": 192.65
+    }
   },
   {
     "productTitle": "Age of Empires IV: Anniversary Edition",
-    "productId": "9N94NCGM1Q2N"
+    "productId": "9N94NCGM1Q2N",
+    "releaseDate": "2021-10-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 454.65,
+      "MSRP": 1299,
+      "WholesalePrice": 269.71
+    }
   },
   {
     "productTitle": "Age of Mythology: Retold",
-    "productId": "9NPKGVXPFRSX"
+    "productId": "9NPKGVXPFRSX",
+    "releaseDate": "2024-09-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 749.5,
+      "MSRP": 1499,
+      "WholesalePrice": 444.62
+    }
   },
   {
     "productTitle": "Albion Online",
-    "productId": "9PDC9X7BKZR3"
+    "productId": "9PDC9X7BKZR3",
+    "releaseDate": "2026-04-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Aliens: Dark Descent (Windows)",
-    "productId": "9N1M64W9XZQ7"
+    "productId": "9N1M64W9XZQ7",
+    "releaseDate": "2024-11-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 664.65,
+      "MSRP": 1899,
+      "WholesalePrice": 465.25
+    }
   },
   {
     "productTitle": "Aliens: Fireteam Elite",
-    "productId": "9PG28RXDG9GQ"
+    "productId": "9PG28RXDG9GQ",
+    "releaseDate": "2021-08-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 612.25,
+      "MSRP": 2449,
+      "WholesalePrice": 363.2
+    }
   },
   {
     "productTitle": "Among Us",
-    "productId": "9NG07QJNK38J"
+    "productId": "9NG07QJNK38J",
+    "releaseDate": "2021-12-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 161.4,
+      "MSRP": 269,
+      "WholesalePrice": 112.98
+    }
   },
   {
     "productTitle": "An Elder Scrolls Legend: Battlespire",
-    "productId": "9MVSRJWZBG9G"
+    "productId": "9MVSRJWZBG9G",
+    "releaseDate": "2022-08-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 279,
+      "MSRP": 279,
+      "WholesalePrice": 195.3
+    }
   },
   {
     "productTitle": "ANNO : Mutationem",
-    "productId": "9PMHGHXLGLJM"
+    "productId": "9PMHGHXLGLJM",
+    "releaseDate": "2023-09-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1049,
+      "MSRP": 1049,
+      "WholesalePrice": 734.3
+    }
   },
   {
     "productTitle": "Anno 1800™",
-    "productId": "9P2KNSPZ9292"
+    "productId": "9P2KNSPZ9292",
+    "releaseDate": "2019-04-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2999,
+      "MSRP": 2999,
+      "WholesalePrice": 2099.3
+    }
   },
   {
     "productTitle": "Another Crab's Treasure",
-    "productId": "9P97ZTRTH25W"
+    "productId": "9P97ZTRTH25W",
+    "releaseDate": "2024-04-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 479.6,
+      "MSRP": 1199,
+      "WholesalePrice": 335.72
+    }
   },
   {
     "productTitle": "Aphelion",
-    "productId": "9NK8947Z28XL"
+    "productId": "9NK8947Z28XL",
+    "releaseDate": "2026-04-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1609,
+      "MSRP": 1609,
+      "WholesalePrice": 1126.31
+    }
   },
   {
     "productTitle": "Ara History Untold: Anniversary Edition",
-    "productId": "9PDDRVKPF6KG"
+    "productId": "9PDDRVKPF6KG",
+    "releaseDate": "2024-09-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1279.6,
+      "MSRP": 3199,
+      "WholesalePrice": 759.08
+    }
   },
   {
     "productTitle": "ARK: Survival Ascended",
-    "productId": "9P33VJGVPHVP"
+    "productId": "9P33VJGVPHVP",
+    "releaseDate": "2023-11-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3895.37,
+      "MSRP": 3895.37,
+      "WholesalePrice": 2726.76
+    }
   },
   {
     "productTitle": "ARK: Ultimate Survivor Edition",
-    "productId": "9P686C1GJ91L"
+    "productId": "9P686C1GJ91L",
+    "releaseDate": "2021-05-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1899,
+      "MSRP": 1899,
+      "WholesalePrice": 1329.3
+    }
   },
   {
     "productTitle": "Arx Fatalis",
-    "productId": "9NXQKPGMHH9G"
+    "productId": "9NXQKPGMHH9G",
+    "releaseDate": "2021-06-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 414,
+      "MSRP": 414,
+      "WholesalePrice": 289.8
+    }
   },
   {
     "productTitle": "As Dusk Falls",
-    "productId": "9NR7XDNVP5SW"
+    "productId": "9NR7XDNVP5SW",
+    "releaseDate": "2022-07-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499.75,
+      "MSRP": 1999,
+      "WholesalePrice": 296.46
+    }
   },
   {
     "productTitle": "Asphalt Legends",
-    "productId": "9NZQPT0MWTD0"
+    "productId": "9NZQPT0MWTD0",
+    "releaseDate": "2018-07-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Assassin's Creed 2",
-    "productId": "9NN1M88HL5M6"
+    "productId": "9NN1M88HL5M6",
+    "releaseDate": "2010-03-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Assassin's Creed Brotherhood",
-    "productId": "9PGMNX4HG2C7"
+    "productId": "9PGMNX4HG2C7",
+    "releaseDate": "2011-03-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Assassin's Creed Chronicles – Russia",
-    "productId": "9MZHXGGM7HDJ"
+    "productId": "9MZHXGGM7HDJ",
+    "releaseDate": "2016-02-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Assassin's Creed Chronicles : China",
-    "productId": "9PJPZK79N5VG"
+    "productId": "9PJPZK79N5VG",
+    "releaseDate": "2015-04-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Assassin's Creed Freedom Cry - Standalone",
-    "productId": "9MZ1GSWX2G53"
+    "productId": "9MZ1GSWX2G53",
+    "releaseDate": "2013-12-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Assassin's Creed Origins",
-    "productId": "9NC2HVPRQQ9F"
+    "productId": "9NC2HVPRQQ9F",
+    "releaseDate": "2025-05-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 449.85,
+      "MSRP": 2999,
+      "WholesalePrice": 314.89
+    }
   },
   {
     "productTitle": "Assassin's Creed Revelations",
-    "productId": "9MZG3KH0PVZC"
+    "productId": "9MZG3KH0PVZC",
+    "releaseDate": "2011-12-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Assassin's Creed Rogue",
-    "productId": "9NV01PJJLXN2"
+    "productId": "9NV01PJJLXN2",
+    "releaseDate": "2015-03-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Assassin's Creed Unity",
-    "productId": "9N74SVVP5FS4"
+    "productId": "9N74SVVP5FS4",
+    "releaseDate": "2014-11-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Assassin's Creed® III Remastered",
-    "productId": "9NKD0MLJ3Z3X"
+    "productId": "9NKD0MLJ3Z3X",
+    "releaseDate": "2019-03-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Assassin's Creed® Odyssey",
-    "productId": "9PMB5879J2FW"
+    "productId": "9PMB5879J2FW",
+    "releaseDate": "2025-05-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 599.8,
+      "MSRP": 2999,
+      "WholesalePrice": 419.86
+    }
   },
   {
     "productTitle": "Assassin's Creed® Valhalla",
-    "productId": "9NMHP9SMZHGZ"
+    "productId": "9NMHP9SMZHGZ",
+    "releaseDate": "2020-11-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 749.75,
+      "MSRP": 2999,
+      "WholesalePrice": 524.82
+    }
   },
   {
     "productTitle": "Assassin’s Creed Chronicles: India",
-    "productId": "9N0QFT016SGV"
+    "productId": "9N0QFT016SGV",
+    "releaseDate": "2016-01-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Assassin’s Creed IV Black Flag - Gold Edition",
-    "productId": "9N3B9B7CSX3C"
+    "productId": "9N3B9B7CSX3C",
+    "releaseDate": "2013-11-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Assassin’s Creed Syndicate",
-    "productId": "9PHPDGTRVGGL"
+    "productId": "9PHPDGTRVGGL",
+    "releaseDate": "2015-11-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Assassin’s Creed® Mirage",
-    "productId": "9NRPWTTJHNBC"
+    "productId": "9NRPWTTJHNBC",
+    "releaseDate": "2025-08-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999.6,
+      "MSRP": 2499,
+      "WholesalePrice": 699.72
+    }
   },
   {
     "productTitle": "ASTRONEER",
-    "productId": "9NBLGGH43KZB"
+    "productId": "9NBLGGH43KZB",
+    "releaseDate": "2019-02-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 889.24
+    }
   },
   {
     "productTitle": "Atlas Fallen: Reign of Sand (Windows)",
-    "productId": "9NCGTG3KR2W9"
+    "productId": "9NCGTG3KR2W9",
+    "releaseDate": "2024-08-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 569.7,
+      "MSRP": 1899,
+      "WholesalePrice": 398.79
+    }
   },
   {
     "productTitle": "Atomfall",
-    "productId": "9NC4WDL5KZBL"
+    "productId": "9NC4WDL5KZBL",
+    "releaseDate": "2025-03-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3249,
+      "MSRP": 3249,
+      "WholesalePrice": 2274.3
+    }
   },
   {
     "productTitle": "Avatar: Frontiers of Pandora",
-    "productId": "9P8TK8GZ6G6V"
+    "productId": "9P8TK8GZ6G6V",
+    "releaseDate": "2025-07-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1364.35,
+      "MSRP": 2099,
+      "WholesalePrice": 955.05
+    }
   },
   {
     "productTitle": "Avowed Standard Edition",
-    "productId": "9MSVPJCHHRPR"
+    "productId": "9MSVPJCHHRPR",
+    "releaseDate": "2025-02-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1949.35,
+      "MSRP": 2999,
+      "WholesalePrice": 1156.39
+    }
   },
   {
     "productTitle": "Back to the Dawn",
-    "productId": "9PKWJSJ4NWC7"
+    "productId": "9PKWJSJ4NWC7",
+    "releaseDate": "2025-07-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1174,
+      "MSRP": 1174,
+      "WholesalePrice": 821.8
+    }
   },
   {
     "productTitle": "Balatro",
-    "productId": "9PK087LNGJC5"
+    "productId": "9PK087LNGJC5",
+    "releaseDate": "2024-02-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 824,
+      "MSRP": 824,
+      "WholesalePrice": 576.8
+    }
   },
   {
     "productTitle": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
-    "productId": "9NCNBWZSHZR5"
+    "productId": "9NCNBWZSHZR5",
+    "releaseDate": "2019-10-15",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3214.31,
+      "MSRP": 3214.31,
+      "WholesalePrice": 1906.8
+    }
   },
   {
     "productTitle": "BALL x PIT",
-    "productId": "9MWXF3SRD7QN"
+    "productId": "9MWXF3SRD7QN",
+    "releaseDate": "2025-10-15",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 552.08,
+      "MSRP": 824,
+      "WholesalePrice": 386.45
+    }
   },
   {
     "productTitle": "Banishers: Ghosts of New Eden",
-    "productId": "9NKFS43DLFFL"
+    "productId": "9NKFS43DLFFL",
+    "releaseDate": "2024-02-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1539.65,
+      "MSRP": 4399,
+      "WholesalePrice": 1077.75
+    }
   },
   {
     "productTitle": "Barbie™ Horse Trails",
-    "productId": "9N21ZCV0JW6V"
+    "productId": "9N21ZCV0JW6V",
+    "releaseDate": "2025-10-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1413.1,
+      "MSRP": 2174,
+      "WholesalePrice": 989.17
+    }
   },
   {
     "productTitle": "Batman™: Arkham Knight",
-    "productId": "BSLX1RNXR6H7"
+    "productId": "BSLX1RNXR6H7",
+    "releaseDate": "2015-06-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1700,
+      "MSRP": 1700,
+      "WholesalePrice": 1190
+    }
   },
   {
     "productTitle": "BATTLETECH",
-    "productId": "9NQVDQS2BC10"
+    "productId": "9NQVDQS2BC10",
+    "releaseDate": "2020-06-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2174,
+      "MSRP": 2174,
+      "WholesalePrice": 1521.8
+    }
   },
   {
     "productTitle": "Battletoads",
-    "productId": "9N7GCF5SGCXC"
+    "productId": "9N7GCF5SGCXC",
+    "releaseDate": "2020-08-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 109.9,
+      "MSRP": 1099,
+      "WholesalePrice": 65.19
+    }
   },
   {
     "productTitle": "Ben 10: Power Trip",
-    "productId": "9NJWFF2KHL6H"
+    "productId": "9NJWFF2KHL6H",
+    "releaseDate": "2020-10-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 568.4,
+      "MSRP": 1624,
+      "WholesalePrice": 397.88
+    }
   },
   {
     "productTitle": "Black Jacket",
-    "productId": "9NTXGKBW2HSM"
+    "productId": "9NTXGKBW2HSM",
+    "releaseDate": "2026-05-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1119,
+      "MSRP": 1119,
+      "WholesalePrice": 783.31
+    }
   },
   {
     "productTitle": "BlazBlue Entropy Effect X",
-    "productId": "9N8H4RRSRV2S"
+    "productId": "9N8H4RRSRV2S",
+    "releaseDate": "2026-02-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2619,
+      "MSRP": 2619,
+      "WholesalePrice": 1833.31
+    }
   },
   {
     "productTitle": "Bleeding Edge",
-    "productId": "9NX6XGVJ0J3D"
+    "productId": "9NX6XGVJ0J3D",
+    "releaseDate": "2020-03-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2358.81,
+      "MSRP": 2358.81,
+      "WholesalePrice": 1399.3
+    }
   },
   {
     "productTitle": "Blizzard® Arcade Collection PC",
-    "productId": "9NJRRVNZ8MRJ"
+    "productId": "9NJRRVNZ8MRJ",
+    "releaseDate": "2021-02-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Blue Prince",
-    "productId": "9PFRTPRQ569Q"
+    "productId": "9PFRTPRQ569Q",
+    "releaseDate": "2025-04-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1624,
+      "MSRP": 1624,
+      "WholesalePrice": 1136.8
+    }
   },
   {
     "productTitle": "Bluey: The Videogame",
-    "productId": "9N2J0FGV30DX"
+    "productId": "9N2J0FGV30DX",
+    "releaseDate": "2023-11-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 760.9,
+      "MSRP": 2174,
+      "WholesalePrice": 532.63
+    }
   },
   {
     "productTitle": "Bounty Star",
-    "productId": "9P66TM1HLGLX"
+    "productId": "9P66TM1HLGLX",
+    "releaseDate": "2025-10-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1124,
+      "MSRP": 1124,
+      "WholesalePrice": 786.8
+    }
   },
   {
     "productTitle": "Brawlhalla",
-    "productId": "9MXMZ39GVHPG"
+    "productId": "9MXMZ39GVHPG",
+    "releaseDate": "2025-12-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Brawlhalla",
-    "productId": "C3B1V55CDL0C"
+    "productId": "C3B1V55CDL0C",
+    "releaseDate": "2018-11-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Brews & Bastards",
-    "productId": "9PPR10S4JNLV"
+    "productId": "9PPR10S4JNLV",
+    "releaseDate": "2025-09-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 724,
+      "MSRP": 724,
+      "WholesalePrice": 506.8
+    }
   },
   {
     "productTitle": "Broken Age",
-    "productId": "9MZZNL8J2MSZ"
+    "productId": "9MZZNL8J2MSZ",
+    "releaseDate": "2017-06-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 206,
+      "MSRP": 824,
+      "WholesalePrice": 144.2
+    }
   },
   {
     "productTitle": "Brotato",
-    "productId": "9P9VNSQK1W3K"
+    "productId": "9P9VNSQK1W3K",
+    "releaseDate": "2024-01-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 269,
+      "MSRP": 269,
+      "WholesalePrice": 188.3
+    }
   },
   {
     "productTitle": "Call of Duty®: Black Ops 6 - Standard Edition (Windows)",
-    "productId": "9PNCL2R6G8D0"
+    "productId": "9PNCL2R6G8D0",
+    "releaseDate": "2024-11-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 5599,
+      "MSRP": 5599,
+      "WholesalePrice": 3919.31
+    }
   },
   {
     "productTitle": "Call of Duty®: Black Ops 7 - Cross-Gen Bundle",
-    "productId": "9N8KMNW6942X"
+    "productId": "9N8KMNW6942X",
+    "releaseDate": "2025-11-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 5999,
+      "MSRP": 5999,
+      "WholesalePrice": 4199.31
+    }
   },
   {
     "productTitle": "Call of Duty®: Modern Warfare® - Digital Standard Edition (Windows)",
-    "productId": "9NMPDV49K4TX"
+    "productId": "9NMPDV49K4TX",
+    "releaseDate": "2026-03-31",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1781.67,
+      "MSRP": 5399,
+      "WholesalePrice": 1247.17
+    }
   },
   {
     "productTitle": "Call of Duty®: Modern Warfare® II - Standard Edition (Windows)",
-    "productId": "9P7RQ1QFFF8R"
+    "productId": "9P7RQ1QFFF8R",
+    "releaseDate": "2025-07-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2239.6,
+      "MSRP": 5599,
+      "WholesalePrice": 1567.72
+    }
   },
   {
     "productTitle": "Call of Duty®: Modern Warfare® III - Standard Edition (Windows)",
-    "productId": "9NDKFJ6XDX2M"
+    "productId": "9NDKFJ6XDX2M",
+    "releaseDate": "2025-07-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2239.6,
+      "MSRP": 5599,
+      "WholesalePrice": 1567.72
+    }
   },
   {
     "productTitle": "Call of Duty®: Warzone™",
-    "productId": "9NNFG8BQRCXL"
+    "productId": "9NNFG8BQRCXL",
+    "releaseDate": "2022-11-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Call of Duty®: WWII (Windows)",
-    "productId": "9P3QS4LX8BM9"
+    "productId": "9P3QS4LX8BM9",
+    "releaseDate": "2024-12-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 5399,
+      "MSRP": 5399,
+      "WholesalePrice": 3779.3
+    }
   },
   {
     "productTitle": "Call of the Elder Gods",
-    "productId": "9PF697TG7PP7"
+    "productId": "9PF697TG7PP7",
+    "releaseDate": "2026-05-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 789,
+      "MSRP": 789,
+      "WholesalePrice": 552.31
+    }
   },
   {
     "productTitle": "Call of the Wild: The Angler™",
-    "productId": "9NDC5LJS839S"
+    "productId": "9NDC5LJS839S",
+    "releaseDate": "2023-08-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 406,
+      "MSRP": 1624,
+      "WholesalePrice": 284.2
+    }
   },
   {
     "productTitle": "Car Mechanic Simulator 2021",
-    "productId": "9NH019ZFFHTV"
+    "productId": "9NH019ZFFHTV",
+    "releaseDate": "2023-06-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1624,
+      "MSRP": 1624,
+      "WholesalePrice": 1136.8
+    }
   },
   {
     "productTitle": "Celeste",
-    "productId": "BWMQL2RPWBHB"
+    "productId": "BWMQL2RPWBHB",
+    "releaseDate": "2018-01-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 224.75,
+      "MSRP": 899,
+      "WholesalePrice": 133.32
+    }
   },
   {
     "productTitle": "Child of Light",
-    "productId": "9NP1LC5MX609"
+    "productId": "9NP1LC5MX609",
+    "releaseDate": "2014-04-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Chivalry 2",
-    "productId": "9N7CJX93ZGWN"
+    "productId": "9N7CJX93ZGWN",
+    "releaseDate": "2021-06-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 434.8,
+      "MSRP": 2174,
+      "WholesalePrice": 304.36
+    }
   },
   {
     "productTitle": "Cities: Skylines - Windows 10 Edition",
-    "productId": "9NWVC7XP3PFD"
+    "productId": "9NWVC7XP3PFD",
+    "releaseDate": "2017-05-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2174,
+      "MSRP": 2174,
+      "WholesalePrice": 1521.8
+    }
   },
   {
     "productTitle": "Cities: Skylines II - PC Edition",
-    "productId": "9PGZ346PSLN0"
+    "productId": "9PGZ346PSLN0",
+    "releaseDate": "2023-10-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2724,
+      "MSRP": 2724,
+      "WholesalePrice": 1906.8
+    }
   },
   {
     "productTitle": "Clair Obscur: Expedition 33",
-    "productId": "9PPT8K6GQHRZ"
+    "productId": "9PPT8K6GQHRZ",
+    "releaseDate": "2025-04-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2043,
+      "MSRP": 2724,
+      "WholesalePrice": 1430.1
+    }
   },
   {
     "productTitle": "Clone Drone in the Danger Zone",
-    "productId": "9NKHKBQJSSC3"
+    "productId": "9NKHKBQJSSC3",
+    "releaseDate": "2023-11-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1296.81,
+      "MSRP": 1296.81,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "CloverPit",
-    "productId": "9P8V7HR160B4"
+    "productId": "9P8V7HR160B4",
+    "releaseDate": "2025-11-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 549,
+      "MSRP": 549,
+      "WholesalePrice": 384.3
+    }
   },
   {
     "productTitle": "Commandos: Origins (Win)",
-    "productId": "9PDH7X3J5CZT"
+    "productId": "9PDH7X3J5CZT",
+    "releaseDate": "2025-04-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2043,
+      "MSRP": 2724,
+      "WholesalePrice": 1430.1
+    }
   },
   {
     "productTitle": "Construction Simulator",
-    "productId": "9NLFZVMSQ7CC"
+    "productId": "9NLFZVMSQ7CC",
+    "releaseDate": "2022-09-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2249,
+      "MSRP": 2249,
+      "WholesalePrice": 1574.31
+    }
   },
   {
     "productTitle": "Control Ultimate Edition",
-    "productId": "9P7LVXNVQ6K7"
+    "productId": "9P7LVXNVQ6K7",
+    "releaseDate": "2024-03-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 299.9,
+      "MSRP": 2999,
+      "WholesalePrice": 209.93
+    }
   },
   {
     "productTitle": "Cooking Simulator Windows",
-    "productId": "9PLGBZWN65RG"
+    "productId": "9PLGBZWN65RG",
+    "releaseDate": "2022-08-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "Crackdown 3",
-    "productId": "9NXR6469DM2P"
+    "productId": "9NXR6469DM2P",
+    "releaseDate": "2019-02-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 399.8,
+      "MSRP": 1999,
+      "WholesalePrice": 237.17
+    }
   },
   {
     "productTitle": "Crash Bandicoot™ 4: It’s About Time (PC)",
-    "productId": "9NMW7RJ8FP94"
+    "productId": "9NMW7RJ8FP94",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Crash Bandicoot™ N. Sane Trilogy",
-    "productId": "9NJ2FD5HJ7SB"
+    "productId": "9NJ2FD5HJ7SB",
+    "releaseDate": "2024-05-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1332.4,
+      "MSRP": 3331,
+      "WholesalePrice": 932.68
+    }
   },
   {
     "productTitle": "Crashout Crew",
-    "productId": "9NJJVQZ3BVPX"
+    "productId": "9NJJVQZ3BVPX",
+    "releaseDate": "2026-05-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 287.2,
+      "MSRP": 359,
+      "WholesalePrice": 201.04
+    }
   },
   {
     "productTitle": "Cricket 24: The Official Game Of The Ashes",
-    "productId": "9NKF2SZ630ZH"
+    "productId": "9NKF2SZ630ZH",
+    "releaseDate": "2024-06-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2999,
+      "MSRP": 2999,
+      "WholesalePrice": 2099.3
+    }
   },
   {
     "productTitle": "Crime Scene Cleaner",
-    "productId": "9NGZ1M3N98P2"
+    "productId": "9NGZ1M3N98P2",
+    "releaseDate": "2025-04-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2249,
+      "MSRP": 2249,
+      "WholesalePrice": 1574.31
+    }
   },
   {
     "productTitle": "Crusader Kings III",
-    "productId": "9N7GG222GTTH"
+    "productId": "9N7GG222GTTH",
+    "releaseDate": "2020-09-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2724,
+      "MSRP": 2724,
+      "WholesalePrice": 1906.8
+    }
   },
   {
     "productTitle": "Crypt Custodian",
-    "productId": "9PLG24BMTP3T"
+    "productId": "9PLG24BMTP3T",
+    "releaseDate": "2024-08-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "Day of the Tentacle Remastered",
-    "productId": "9NKK6CX54183"
+    "productId": "9NKK6CX54183",
+    "releaseDate": "2020-10-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999,
+      "MSRP": 999,
+      "WholesalePrice": 592.63
+    }
   },
   {
     "productTitle": "DayZ",
-    "productId": "BSR9NLHVF1KL"
+    "productId": "BSR9NLHVF1KL",
+    "releaseDate": "2019-03-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1349.55,
+      "MSRP": 2999,
+      "WholesalePrice": 944.68
+    }
   },
   {
     "productTitle": "Dead by Daylight Windows",
-    "productId": "9NMS4SFNBGBH"
+    "productId": "9NMS4SFNBGBH",
+    "releaseDate": "2019-10-31",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1159,
+      "MSRP": 1159,
+      "WholesalePrice": 811.3
+    }
   },
   {
     "productTitle": "Dead Cells",
-    "productId": "9NKVX66J0ZSK"
+    "productId": "9NKVX66J0ZSK",
+    "releaseDate": "2019-09-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1349,
+      "MSRP": 1349,
+      "WholesalePrice": 944.3
+    }
   },
   {
     "productTitle": "Dead Island 2 (Windows)",
-    "productId": "9N92LSHFZ935"
+    "productId": "9N92LSHFZ935",
+    "releaseDate": "2024-10-31",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 449.85,
+      "MSRP": 2999,
+      "WholesalePrice": 314.89
+    }
   },
   {
     "productTitle": "Dead Static Drive",
-    "productId": "9MXWL7VJ2SJW"
+    "productId": "9MXWL7VJ2SJW",
+    "releaseDate": "2025-11-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1674,
+      "MSRP": 1674,
+      "WholesalePrice": 993.05
+    }
   },
   {
     "productTitle": "Death Howl",
-    "productId": "9PD9SZGNCMDZ"
+    "productId": "9PD9SZGNCMDZ",
+    "releaseDate": "2025-12-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
+    }
   },
   {
     "productTitle": "DEATH STRANDING DIRECTOR'S CUT",
-    "productId": "9NQGN8TGNT8P"
+    "productId": "9NQGN8TGNT8P",
+    "releaseDate": "2024-11-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1249.5,
+      "MSRP": 2499,
+      "WholesalePrice": 874.65
+    }
   },
   {
     "productTitle": "DEATHLOOP",
-    "productId": "9P5Z4530318L"
+    "productId": "9P5Z4530318L",
+    "releaseDate": "2022-09-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 799.8,
+      "MSRP": 3999,
+      "WholesalePrice": 559.86
+    }
   },
   {
     "productTitle": "Deep Rock Galactic",
-    "productId": "9NHFVWX1V7QJ"
+    "productId": "9NHFVWX1V7QJ",
+    "releaseDate": "2020-05-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 699,
+      "MSRP": 699,
+      "WholesalePrice": 489.3
+    }
   },
   {
     "productTitle": "Deep Rock Galactic: Survivor",
-    "productId": "9PHGQPRBBSXK"
+    "productId": "9PHGQPRBBSXK",
+    "releaseDate": "2025-09-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 699,
+      "MSRP": 699,
+      "WholesalePrice": 489.3
+    }
   },
   {
     "productTitle": "Descenders",
-    "productId": "C37XBX7DCBZ0"
+    "productId": "C37XBX7DCBZ0",
+    "releaseDate": "2019-05-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1300,
+      "MSRP": 1300,
+      "WholesalePrice": 910
+    }
   },
   {
     "productTitle": "Descenders Next (Game Preview)",
-    "productId": "9N66JJQFX3RX"
+    "productId": "9N66JJQFX3RX",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1624,
+      "MSRP": 1624,
+      "WholesalePrice": 1136.8
+    }
   },
   {
     "productTitle": "Diablo®",
-    "productId": "9N16SLB6FB96"
+    "productId": "9N16SLB6FB96",
+    "releaseDate": "1997-01-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Diablo® II: Resurrected™ PC",
-    "productId": "9NPSLX5HNN3H"
+    "productId": "9NPSLX5HNN3H",
+    "releaseDate": "2021-09-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Diablo® III: Reaper of Souls™ – Ultimate Evil Edition PC",
-    "productId": "9N9DKMNL85XZ"
+    "productId": "9N9DKMNL85XZ",
+    "releaseDate": "2014-03-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Diablo® IV PC",
-    "productId": "9N0H62KZ3BXV"
+    "productId": "9N0H62KZ3BXV",
+    "releaseDate": "2023-06-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Dice A Million",
-    "productId": "9N3NTDPJCD9Z"
+    "productId": "9N3NTDPJCD9Z",
+    "releaseDate": "2026-02-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 969,
+      "MSRP": 969,
+      "WholesalePrice": 678.31
+    }
   },
   {
     "productTitle": "DIRT 5",
-    "productId": "9PJGM0T0827V"
+    "productId": "9PJGM0T0827V",
+    "releaseDate": "2020-11-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1139.7,
+      "MSRP": 3799,
+      "WholesalePrice": 797.79
+    }
   },
   {
     "productTitle": "Disco Elysium - The Final Cut",
-    "productId": "9NTRS771L8HL"
+    "productId": "9NTRS771L8HL",
+    "releaseDate": "2021-10-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2565.31,
+      "MSRP": 2565.31,
+      "WholesalePrice": 1521.8
+    }
   },
   {
     "productTitle": "Dishonored 2",
-    "productId": "9MW4RJDRSF78"
+    "productId": "9MW4RJDRSF78",
+    "releaseDate": "2019-10-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 269.8,
+      "MSRP": 1349,
+      "WholesalePrice": 188.86
+    }
   },
   {
     "productTitle": "Dishonored® Definitive Edition (PC)",
-    "productId": "9P1N07XDL1D4"
+    "productId": "9P1N07XDL1D4",
+    "releaseDate": "2021-03-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 249.75,
+      "MSRP": 999,
+      "WholesalePrice": 174.82
+    }
   },
   {
     "productTitle": "Dishonored®: Death of the Outsider™ (PC)",
-    "productId": "9MVF0PGV94F7"
+    "productId": "9MVF0PGV94F7",
+    "releaseDate": "2021-06-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 274.8,
+      "MSRP": 1374,
+      "WholesalePrice": 192.36
+    }
   },
   {
     "productTitle": "Disney Dreamlight Valley",
-    "productId": "9NSF0BGH8D86"
+    "productId": "9NSF0BGH8D86",
+    "releaseDate": "2022-09-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1521.8,
+      "MSRP": 2174,
+      "WholesalePrice": 1065.26
+    }
   },
   {
     "productTitle": "Disneyland Adventures",
-    "productId": "9N6Z8DQXSQWH"
+    "productId": "9N6Z8DQXSQWH",
+    "releaseDate": "2017-10-31",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 329.7,
+      "MSRP": 1099,
+      "WholesalePrice": 195.58
+    }
   },
   {
     "productTitle": "Dome Keeper",
-    "productId": "9P8XKV2D5DZ5"
+    "productId": "9P8XKV2D5DZ5",
+    "releaseDate": "2025-12-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1349,
+      "MSRP": 1349,
+      "WholesalePrice": 944.31
+    }
   },
   {
     "productTitle": "Donut County",
-    "productId": "9N6V2181GHLM"
+    "productId": "9N6V2181GHLM",
+    "releaseDate": "2018-12-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 699,
+      "MSRP": 699,
+      "WholesalePrice": 489.3
+    }
   },
   {
     "productTitle": "DOOM + DOOM II",
-    "productId": "9P46M5JQ2PTF"
+    "productId": "9P46M5JQ2PTF",
+    "releaseDate": "2024-08-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 369.6,
+      "MSRP": 924,
+      "WholesalePrice": 258.72
+    }
   },
   {
     "productTitle": "DOOM 3",
-    "productId": "9NSL68D814GC"
+    "productId": "9NSL68D814GC",
+    "releaseDate": "2019-07-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 369.6,
+      "MSRP": 924,
+      "WholesalePrice": 258.72
+    }
   },
   {
     "productTitle": "DOOM 64",
-    "productId": "9MXND4PQLK3W"
+    "productId": "9MXND4PQLK3W",
+    "releaseDate": "2020-03-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 165.6,
+      "MSRP": 414,
+      "WholesalePrice": 115.92
+    }
   },
   {
     "productTitle": "DOOM Eternal Standard Edition (PC)",
-    "productId": "9PK09BL31FK1"
+    "productId": "9PK09BL31FK1",
+    "releaseDate": "2020-12-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 624.75,
+      "MSRP": 2499,
+      "WholesalePrice": 437.32
+    }
   },
   {
     "productTitle": "DOOM: The Dark Ages",
-    "productId": "9PH9X0760B0T"
+    "productId": "9PH9X0760B0T",
+    "releaseDate": "2025-05-15",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1979.67,
+      "MSRP": 5999,
+      "WholesalePrice": 1385.76
+    }
   },
   {
     "productTitle": "DreamWorks Gabby’s Dollhouse: Ready to Party",
-    "productId": "9NFQ1XMXDLN6"
+    "productId": "9NFQ1XMXDLN6",
+    "releaseDate": "2025-09-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1413.1,
+      "MSRP": 2174,
+      "WholesalePrice": 989.17
+    }
   },
   {
     "productTitle": "DREDGE",
-    "productId": "9MSVVM5NS9L6"
+    "productId": "9MSVVM5NS9L6",
+    "releaseDate": "2023-03-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 799.6,
+      "MSRP": 1999,
+      "WholesalePrice": 559.72
+    }
   },
   {
     "productTitle": "Drop Duchy - Complete Edition",
-    "productId": "9NXVPTB0FXSZ"
+    "productId": "9NXVPTB0FXSZ",
+    "releaseDate": "2026-01-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1719,
+      "MSRP": 1719,
+      "WholesalePrice": 1203.31
+    }
   },
   {
     "productTitle": "Dungeons Of Hinterberg",
-    "productId": "9PGX472J0RJP"
+    "productId": "9PGX472J0RJP",
+    "releaseDate": "2024-07-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1149,
+      "MSRP": 1149,
+      "WholesalePrice": 804.31
+    }
   },
   {
     "productTitle": "Easy Delivery Co.",
-    "productId": "9PDC8J1BSV8B"
+    "productId": "9PDC8J1BSV8B",
+    "releaseDate": "2026-03-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 969,
+      "MSRP": 969,
+      "WholesalePrice": 678.31
+    }
   },
   {
     "productTitle": "Echo Generation 2",
-    "productId": "9N17PD34G54M"
+    "productId": "9N17PD34G54M",
+    "releaseDate": "2026-05-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1869,
+      "MSRP": 1869,
+      "WholesalePrice": 1308.31
+    }
   },
   {
     "productTitle": "Egging On",
-    "productId": "9PDKDBQGG2N2"
+    "productId": "9PDKDBQGG2N2",
+    "releaseDate": "2025-11-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1119,
+      "MSRP": 1119,
+      "WholesalePrice": 783.31
+    }
   },
   {
     "productTitle": "Enlisted",
-    "productId": "9NHKL695M9F2"
+    "productId": "9NHKL695M9F2",
+    "releaseDate": "2021-04-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Enlisted Xbox One",
-    "productId": "9PF432CVQBXT"
+    "productId": "9PF432CVQBXT",
+    "releaseDate": "2021-10-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Escape Simulator",
-    "productId": "9NKBDN695GTT"
+    "productId": "9NKBDN695GTT",
+    "releaseDate": "2026-05-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 899,
+      "MSRP": 899,
+      "WholesalePrice": 629.31
+    }
   },
   {
     "productTitle": "Escape the Backrooms",
-    "productId": "9MW15L8FRT9P"
+    "productId": "9MW15L8FRT9P",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 614,
+      "MSRP": 614,
+      "WholesalePrice": 429.81
+    }
   },
   {
     "productTitle": "Eternal Strands",
-    "productId": "9NNKJNRKFT0G"
+    "productId": "9NNKJNRKFT0G",
+    "releaseDate": "2025-01-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2249,
+      "MSRP": 2249,
+      "WholesalePrice": 1574.31
+    }
   },
   {
     "productTitle": "Evil West (Windows)",
-    "productId": "9PC49MD70881"
+    "productId": "9PC49MD70881",
+    "releaseDate": "2024-03-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 459.8,
+      "MSRP": 2299,
+      "WholesalePrice": 321.86
+    }
   },
   {
     "productTitle": "Fallout",
-    "productId": "9N42CT1J5WGW"
+    "productId": "9N42CT1J5WGW",
+    "releaseDate": "2021-06-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 824,
+      "MSRP": 824,
+      "WholesalePrice": 576.8
+    }
   },
   {
     "productTitle": "Fallout 2",
-    "productId": "9P1JS86M9SXH"
+    "productId": "9P1JS86M9SXH",
+    "releaseDate": "2021-06-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 824,
+      "MSRP": 824,
+      "WholesalePrice": 576.8
+    }
   },
   {
     "productTitle": "Fallout 3: Game of the Year Edition",
-    "productId": "9NBZ9JF6TFMD"
+    "productId": "9NBZ9JF6TFMD",
+    "releaseDate": "2021-06-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.3
+    }
   },
   {
     "productTitle": "Fallout 4",
-    "productId": "C3KLDKZBHNCZ"
+    "productId": "C3KLDKZBHNCZ",
+    "releaseDate": "2015-11-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 599.6,
+      "MSRP": 1499,
+      "WholesalePrice": 419.72
+    }
   },
   {
     "productTitle": "Fallout 76 (PC)",
-    "productId": "9NKGNMNK3K3Z"
+    "productId": "9NKGNMNK3K3Z",
+    "releaseDate": "2020-07-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 624.75,
+      "MSRP": 2499,
+      "WholesalePrice": 437.32
+    }
   },
   {
     "productTitle": "Fallout Tactics",
-    "productId": "9NDV7FRVD7ML"
+    "productId": "9NDV7FRVD7ML",
+    "releaseDate": "2021-06-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 824,
+      "MSRP": 824,
+      "WholesalePrice": 576.8
+    }
   },
   {
     "productTitle": "Fallout: New Vegas Ultimate Edition",
-    "productId": "9MZR11JRF7BX"
+    "productId": "9MZR11JRF7BX",
+    "releaseDate": "2021-06-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.3
+    }
   },
   {
     "productTitle": "FAR CRY 3",
-    "productId": "9PN0MPNNP92J"
+    "productId": "9PN0MPNNP92J",
+    "releaseDate": "2025-08-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 249.75,
+      "MSRP": 999,
+      "WholesalePrice": 174.82
+    }
   },
   {
     "productTitle": "FAR CRY 3 BLOOD DRAGON",
-    "productId": "9P06W7K6Q3C6"
+    "productId": "9P06W7K6Q3C6",
+    "releaseDate": "2013-05-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "FAR CRY 4",
-    "productId": "9PMTJMML92S4"
+    "productId": "9PMTJMML92S4",
+    "releaseDate": "2019-03-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 299.8,
+      "MSRP": 1499,
+      "WholesalePrice": 209.86
+    }
   },
   {
     "productTitle": "Far Cry New Dawn",
-    "productId": "9NSRHJ8DJT2M"
+    "productId": "9NSRHJ8DJT2M",
+    "releaseDate": "2025-05-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 449.8,
+      "MSRP": 2249,
+      "WholesalePrice": 314.86
+    }
   },
   {
     "productTitle": "FAR CRY PRIMAL",
-    "productId": "9P8X98F4BDC9"
+    "productId": "9P8X98F4BDC9",
+    "releaseDate": "2025-07-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 249.75,
+      "MSRP": 999,
+      "WholesalePrice": 174.82
+    }
   },
   {
     "productTitle": "Far Cry® 5",
-    "productId": "9MVQXW1RJVCN"
+    "productId": "9MVQXW1RJVCN",
+    "releaseDate": "2025-05-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 449.85,
+      "MSRP": 2999,
+      "WholesalePrice": 314.89
+    }
   },
   {
     "productTitle": "Far Cry® 6",
-    "productId": "9N661LCNBH8J"
+    "productId": "9N661LCNBH8J",
+    "releaseDate": "2023-12-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 749.75,
+      "MSRP": 2999,
+      "WholesalePrice": 524.82
+    }
   },
   {
     "productTitle": "Farming Simulator 25 (PC)",
-    "productId": "9PM709J61828"
+    "productId": "9PM709J61828",
+    "releaseDate": "2024-11-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1999,
+      "MSRP": 1999,
+      "WholesalePrice": 1399.31
+    }
   },
   {
     "productTitle": "FBC: Firebreak",
-    "productId": "9PDCN8Z4HKRN"
+    "productId": "9PDCN8Z4HKRN",
+    "releaseDate": "2025-06-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 899.4,
+      "MSRP": 1499,
+      "WholesalePrice": 629.58
+    }
   },
   {
     "productTitle": "FINAL FANTASY",
-    "productId": "9P20JCF7BV93"
+    "productId": "9P20JCF7BV93",
+    "releaseDate": "2024-09-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 599.4,
+      "MSRP": 999,
+      "WholesalePrice": 355.57
+    }
   },
   {
     "productTitle": "FINAL FANTASY II",
-    "productId": "9P8S1MN4066K"
+    "productId": "9P8S1MN4066K",
+    "releaseDate": "2024-09-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 599.4,
+      "MSRP": 999,
+      "WholesalePrice": 355.57
+    }
   },
   {
     "productTitle": "FINAL FANTASY III",
-    "productId": "9NWDPFPPK30V"
+    "productId": "9NWDPFPPK30V",
+    "releaseDate": "2024-09-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 899.4,
+      "MSRP": 1499,
+      "WholesalePrice": 533.54
+    }
   },
   {
     "productTitle": "FINAL FANTASY IV",
-    "productId": "9N8C07SS8C9D"
+    "productId": "9N8C07SS8C9D",
+    "releaseDate": "2024-09-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 899.4,
+      "MSRP": 1499,
+      "WholesalePrice": 533.54
+    }
   },
   {
     "productTitle": "FINAL FANTASY V",
-    "productId": "9N9C8SV0S16W"
+    "productId": "9N9C8SV0S16W",
+    "releaseDate": "2024-09-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 889.24
+    }
   },
   {
     "productTitle": "Firefighting Simulator - The Squad",
-    "productId": "9NBZ7Z3JRXQ8"
+    "productId": "9NBZ7Z3JRXQ8",
+    "releaseDate": "2022-12-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1624,
+      "MSRP": 1624,
+      "WholesalePrice": 1136.8
+    }
   },
   {
     "productTitle": "Firewatch",
-    "productId": "BQQKG9H2STC0"
+    "productId": "BQQKG9H2STC0",
+    "releaseDate": "2016-09-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1769.99,
+      "MSRP": 1769.99,
+      "WholesalePrice": 1050
+    }
   },
   {
     "productTitle": "Football Manager 26",
-    "productId": "9PD0Z90216RJ"
+    "productId": "9PD0Z90216RJ",
+    "releaseDate": "2025-11-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4499,
+      "MSRP": 4499,
+      "WholesalePrice": 3149.31
+    }
   },
   {
     "productTitle": "Football Manager 26 Console",
-    "productId": "9NMNZ4CK59DM"
+    "productId": "9NMNZ4CK59DM",
+    "releaseDate": "2025-11-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4499,
+      "MSRP": 4499,
+      "WholesalePrice": 3149.31
+    }
   },
   {
     "productTitle": "FOR HONOR - Standard Edition",
-    "productId": "9PDWSL3BZ6WS"
+    "productId": "9PDWSL3BZ6WS",
+    "releaseDate": "2017-02-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "For The King II",
-    "productId": "9NVC9KWJVLT0"
+    "productId": "9NVC9KWJVLT0",
+    "releaseDate": "2024-12-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1229,
+      "MSRP": 1229,
+      "WholesalePrice": 860.3
+    }
   },
   {
     "productTitle": "Fortnite",
-    "productId": "BT5P2X999VH2"
+    "productId": "BT5P2X999VH2",
+    "releaseDate": "2019-04-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Forza Horizon 5 Standard Edition",
-    "productId": "9NKX70BBCDRN"
+    "productId": "9NKX70BBCDRN",
+    "releaseDate": "2021-11-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1999.5,
+      "MSRP": 3999,
+      "WholesalePrice": 1186.14
+    }
   },
   {
     "productTitle": "Forza Horizon 6 Standard Edition",
-    "productId": "9N431PX143P8"
+    "productId": "9N431PX143P8",
+    "releaseDate": "2026-05-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 5499,
+      "MSRP": 5499,
+      "WholesalePrice": 3262.12
+    }
   },
   {
     "productTitle": "Forza Motorsport Standard Edition",
-    "productId": "9PLKVSWR299F"
+    "productId": "9PLKVSWR299F",
+    "releaseDate": "2023-10-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3249.5,
+      "MSRP": 6499,
+      "WholesalePrice": 1927.67
+    }
   },
   {
     "productTitle": "FragPunk",
-    "productId": "9MW715J1P29D"
+    "productId": "9MW715J1P29D",
+    "releaseDate": "2025-04-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Frostpunk 2",
-    "productId": "9N0KN24FWP6B"
+    "productId": "9N0KN24FWP6B",
+    "releaseDate": "2024-09-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2449,
+      "MSRP": 2449,
+      "WholesalePrice": 1714.3
+    }
   },
   {
     "productTitle": "Full Throttle Remastered",
-    "productId": "9P3ZRGNQVC7D"
+    "productId": "9P3ZRGNQVC7D",
+    "releaseDate": "2020-10-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999,
+      "MSRP": 999,
+      "WholesalePrice": 592.63
+    }
   },
   {
     "productTitle": "Gang Beasts",
-    "productId": "BPQZT43FWD49"
+    "productId": "BPQZT43FWD49",
+    "releaseDate": "2019-03-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 359.6,
+      "MSRP": 899,
+      "WholesalePrice": 251.72
+    }
   },
   {
     "productTitle": "Gears 5 Game of the Year Edition",
-    "productId": "9P4KMR76PLLQ"
+    "productId": "9P4KMR76PLLQ",
+    "releaseDate": "2020-12-15",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3999,
+      "MSRP": 3999,
+      "WholesalePrice": 2799.3
+    }
   },
   {
     "productTitle": "Gears of War 4",
-    "productId": "9NBLGGH4PBBM"
+    "productId": "9NBLGGH4PBBM",
+    "releaseDate": "2016-10-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1299,
+      "MSRP": 1299,
+      "WholesalePrice": 909.3
+    }
   },
   {
     "productTitle": "Gears of War: Reloaded",
-    "productId": "9P8PS6993LSL"
+    "productId": "9P8PS6993LSL",
+    "releaseDate": "2025-08-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2499,
+      "MSRP": 2499,
+      "WholesalePrice": 1482.46
+    }
   },
   {
     "productTitle": "Gears of War: Ultimate Edition for Windows 10",
-    "productId": "9NBLGGH3SHM5"
+    "productId": "9NBLGGH3SHM5",
+    "releaseDate": "2016-02-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1299,
+      "MSRP": 1299,
+      "WholesalePrice": 909.3
+    }
   },
   {
     "productTitle": "Gears Tactics",
-    "productId": "9NN3HCKW5TPC"
+    "productId": "9NN3HCKW5TPC",
+    "releaseDate": "2020-11-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2699,
+      "MSRP": 2699,
+      "WholesalePrice": 1889.3
+    }
   },
   {
     "productTitle": "Generation Zero®",
-    "productId": "C20WW4W29FQ1"
+    "productId": "C20WW4W29FQ1",
+    "releaseDate": "2019-03-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 449.8,
+      "MSRP": 2249,
+      "WholesalePrice": 314.86
+    }
   },
   {
     "productTitle": "Genesis Noir: Windows Edition",
-    "productId": "9MWGGC7JH35B"
+    "productId": "9MWGGC7JH35B",
+    "releaseDate": "2021-03-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 824,
+      "MSRP": 824,
+      "WholesalePrice": 576.8
+    }
   },
   {
     "productTitle": "Genshin Impact",
-    "productId": "9N7TFFRRZCC9"
+    "productId": "9N7TFFRRZCC9",
+    "releaseDate": "2024-11-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Ghostwire: Tokyo",
-    "productId": "9PKP39CL0C8D"
+    "productId": "9PKP39CL0C8D",
+    "releaseDate": "2023-04-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999.75,
+      "MSRP": 3999,
+      "WholesalePrice": 699.82
+    }
   },
   {
     "productTitle": "Goat Simulator 3: Windows Edition",
-    "productId": "9PDS2N82QNXG"
+    "productId": "9PDS2N82QNXG",
+    "releaseDate": "2023-12-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1874,
+      "MSRP": 1874,
+      "WholesalePrice": 1311.8
+    }
   },
   {
     "productTitle": "Golf With Your Friends (Windows Version)",
-    "productId": "9MVK5W0HMRP7"
+    "productId": "9MVK5W0HMRP7",
+    "releaseDate": "2020-07-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 149.9,
+      "MSRP": 1499,
+      "WholesalePrice": 104.93
+    }
   },
   {
     "productTitle": "Great God Grove",
-    "productId": "9N36BLQF3FX6"
+    "productId": "9N36BLQF3FX6",
+    "releaseDate": "2024-11-15",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "Grim Fandango Remastered",
-    "productId": "9PC288TN7R8K"
+    "productId": "9PC288TN7R8K",
+    "releaseDate": "2020-10-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999,
+      "MSRP": 999,
+      "WholesalePrice": 592.63
+    }
   },
   {
     "productTitle": "Grounded",
-    "productId": "9PJTHRNVH62H"
+    "productId": "9PJTHRNVH62H",
+    "releaseDate": "2022-09-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1349.5,
+      "MSRP": 2699,
+      "WholesalePrice": 800.55
+    }
   },
   {
     "productTitle": "Grounded 2",
-    "productId": "9P77PG7DK0W2"
+    "productId": "9P77PG7DK0W2",
+    "releaseDate": "2025-07-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2499,
+      "MSRP": 2499,
+      "WholesalePrice": 1482.46
+    }
   },
   {
     "productTitle": "Hades",
-    "productId": "9P8DL6W0JBB8"
+    "productId": "9P8DL6W0JBB8",
+    "releaseDate": "2021-08-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1591.81,
+      "MSRP": 1591.81,
+      "WholesalePrice": 944.3
+    }
   },
   {
     "productTitle": "Hades II",
-    "productId": "9PCR3Z2MSM4T"
+    "productId": "9PCR3Z2MSM4T",
+    "releaseDate": "2026-04-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1309,
+      "MSRP": 1309,
+      "WholesalePrice": 916.31
+    }
   },
   {
     "productTitle": "Halls of Torment",
-    "productId": "9NMNMS626R59"
+    "productId": "9NMNMS626R59",
+    "releaseDate": "2025-10-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 449.25,
+      "MSRP": 599,
+      "WholesalePrice": 314.47
+    }
   },
   {
     "productTitle": "Halo Infinite",
-    "productId": "9NP1P1WFS0LB"
+    "productId": "9NP1P1WFS0LB",
+    "releaseDate": "2021-12-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1649.67,
+      "MSRP": 4999,
+      "WholesalePrice": 978.61
+    }
   },
   {
     "productTitle": "Halo Wars 2: Standard Edition",
-    "productId": "9NBLGGH515BD"
+    "productId": "9NBLGGH515BD",
+    "releaseDate": "2017-02-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2274,
+      "MSRP": 2274,
+      "WholesalePrice": 1348.99
+    }
   },
   {
     "productTitle": "Halo Wars: Definitive Edition",
-    "productId": "9NBLGGH5WLR0"
+    "productId": "9NBLGGH5WLR0",
+    "releaseDate": "2017-04-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 464,
+      "MSRP": 464,
+      "WholesalePrice": 275.26
+    }
   },
   {
     "productTitle": "Halo: Spartan Assault",
-    "productId": "9WZDNCRFHWFH"
+    "productId": "9WZDNCRFHWFH",
+    "releaseDate": "2013-07-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 164,
+      "MSRP": 164,
+      "WholesalePrice": 97.29
+    }
   },
   {
     "productTitle": "Halo: Spartan Strike",
-    "productId": "9WZDNCRFJBFJ"
+    "productId": "9WZDNCRFJBFJ",
+    "releaseDate": "2014-11-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 164,
+      "MSRP": 164,
+      "WholesalePrice": 97.29
+    }
   },
   {
     "productTitle": "Halo: The Master Chief Collection",
-    "productId": "9NTM9HXNLSZX"
+    "productId": "9NTM9HXNLSZX",
+    "releaseDate": "2019-12-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3499,
+      "MSRP": 3499,
+      "WholesalePrice": 2075.68
+    }
   },
   {
     "productTitle": "Hellblade: Senua's Sacrifice",
-    "productId": "9NCLP4LV5K7Z"
+    "productId": "9NCLP4LV5K7Z",
+    "releaseDate": "2018-04-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499.75,
+      "MSRP": 1999,
+      "WholesalePrice": 349.82
+    }
   },
   {
     "productTitle": "Herdling",
-    "productId": "9NNHK7K8RV9C"
+    "productId": "9NNHK7K8RV9C",
+    "releaseDate": "2025-08-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1124,
+      "MSRP": 1124,
+      "WholesalePrice": 786.81
+    }
   },
   {
     "productTitle": "Heretic + Hexen",
-    "productId": "9NC7NRD0CM11"
+    "productId": "9NC7NRD0CM11",
+    "releaseDate": "2025-08-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1049,
+      "MSRP": 1049,
+      "WholesalePrice": 734.3
+    }
   },
   {
     "productTitle": "Heroes of Might and Magic 3 - Complete Edition",
-    "productId": "9P96BJ164SL8"
+    "productId": "9P96BJ164SL8",
+    "releaseDate": "1999-02-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 704,
+      "MSRP": 704,
+      "WholesalePrice": 492.81
+    }
   },
   {
     "productTitle": "Heroes of Might and Magic II - Gold Edition",
-    "productId": "9N5TWT260Q8H"
+    "productId": "9N5TWT260Q8H",
+    "releaseDate": "1996-10-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 704,
+      "MSRP": 704,
+      "WholesalePrice": 492.81
+    }
   },
   {
     "productTitle": "Heroes of Might and Magic: Olden Era (Game Preview)",
-    "productId": "9P2TFCCRKMRD"
+    "productId": "9P2TFCCRKMRD",
+    "releaseDate": "2026-04-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
+    }
   },
   {
     "productTitle": "Heroes of the Storm™",
-    "productId": "9PBRN7JS4XPC"
+    "productId": "9PBRN7JS4XPC",
+    "releaseDate": "2015-06-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Hi-Fi RUSH",
-    "productId": "9NFTC552K3GJ"
+    "productId": "9NFTC552K3GJ",
+    "releaseDate": "2023-01-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2499,
+      "MSRP": 2499,
+      "WholesalePrice": 1749.3
+    }
   },
   {
     "productTitle": "High On Life",
-    "productId": "9NL4714VTLRS"
+    "productId": "9NL4714VTLRS",
+    "releaseDate": "2022-12-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2174,
+      "MSRP": 2174,
+      "WholesalePrice": 1521.8
+    }
   },
   {
     "productTitle": "High On Life 2",
-    "productId": "9NF6XPSBTTGB"
+    "productId": "9NF6XPSBTTGB",
+    "releaseDate": "2026-02-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4499,
+      "MSRP": 4499,
+      "WholesalePrice": 3149.31
+    }
   },
   {
     "productTitle": "Hogwarts Legacy",
-    "productId": "9MT5NJ5W7B8Z"
+    "productId": "9MT5NJ5W7B8Z",
+    "releaseDate": "2023-02-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4399,
+      "MSRP": 4399,
+      "WholesalePrice": 3079.3
+    }
   },
   {
     "productTitle": "Hollow Knight: Silksong",
-    "productId": "9N116V0599HB"
+    "productId": "9N116V0599HB",
+    "releaseDate": "2025-09-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 880,
+      "MSRP": 880,
+      "WholesalePrice": 616
+    }
   },
   {
     "productTitle": "Hollow Knight: Voidheart Edition",
-    "productId": "9MW9469V91LM"
+    "productId": "9MW9469V91LM",
+    "releaseDate": "2018-09-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 974,
+      "MSRP": 974,
+      "WholesalePrice": 577.8
+    }
   },
   {
     "productTitle": "House Flipper",
-    "productId": "9NBFGKQLMV33"
+    "productId": "9NBFGKQLMV33",
+    "releaseDate": "2020-02-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1385.31,
+      "MSRP": 1385.31,
+      "WholesalePrice": 821.8
+    }
   },
   {
     "productTitle": "Human Fall Flat",
-    "productId": "BSMZH25V6V46"
+    "productId": "BSMZH25V6V46",
+    "releaseDate": "2017-05-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 799,
+      "MSRP": 799,
+      "WholesalePrice": 559.3
+    }
   },
   {
     "productTitle": "Hungry Shark World",
-    "productId": "9P57SQHVWND7"
+    "productId": "9P57SQHVWND7",
+    "releaseDate": "2018-07-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "I Am Your Beast",
-    "productId": "9PF9FQGH89WM"
+    "productId": "9PF9FQGH89WM",
+    "releaseDate": "2025-06-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "Immortals Fenyx Rising™",
-    "productId": "9NFPNPLR8VBK"
+    "productId": "9NFPNPLR8VBK",
+    "releaseDate": "2025-05-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 559.8,
+      "MSRP": 2799,
+      "WholesalePrice": 391.86
+    }
   },
   {
     "productTitle": "Indiana Jones and the Great Circle",
-    "productId": "9N8FQ28Z6QX3"
+    "productId": "9N8FQ28Z6QX3",
+    "releaseDate": "2024-12-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 5199.2,
+      "MSRP": 6499,
+      "WholesalePrice": 3639.44
+    }
   },
   {
     "productTitle": "INDIKA",
-    "productId": "9N020KFQG301"
+    "productId": "9N020KFQG301",
+    "releaseDate": "2024-05-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1349,
+      "MSRP": 1349,
+      "WholesalePrice": 944.3
+    }
   },
   {
     "productTitle": "inKONBINI: One Store. Many Stories",
-    "productId": "9NVV0M74W05C"
+    "productId": "9NVV0M74W05C",
+    "releaseDate": "2026-04-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999,
+      "MSRP": 999,
+      "WholesalePrice": 699.31
+    }
   },
   {
     "productTitle": "Inscryption",
-    "productId": "9P8NSTDMZ11P"
+    "productId": "9P8NSTDMZ11P",
+    "releaseDate": "2023-04-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "INSIDE",
-    "productId": "C17GQF31D617"
+    "productId": "C17GQF31D617",
+    "releaseDate": "2016-06-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 651.95
+    }
   },
   {
     "productTitle": "Jurassic World Evolution 2",
-    "productId": "9MWHMJ0SRBXV"
+    "productId": "9MWHMJ0SRBXV",
+    "releaseDate": "2021-11-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2974,
+      "MSRP": 2974,
+      "WholesalePrice": 2081.8
+    }
   },
   {
     "productTitle": "Kabuto Park",
-    "productId": "9NM4WQ7TTH3J"
+    "productId": "9NM4WQ7TTH3J",
+    "releaseDate": "2026-05-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 449,
+      "MSRP": 449,
+      "WholesalePrice": 314.31
+    }
   },
   {
     "productTitle": "Keeper",
-    "productId": "9NCJWHHMVHR0"
+    "productId": "9NCJWHHMVHR0",
+    "releaseDate": "2025-10-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 974.35,
+      "MSRP": 1499,
+      "WholesalePrice": 578
+    }
   },
   {
     "productTitle": "KILL IT WITH FIRE! 2",
-    "productId": "9MXHL3TT792F"
+    "productId": "9MXHL3TT792F",
+    "releaseDate": "2025-11-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1119,
+      "MSRP": 1119,
+      "WholesalePrice": 783.31
+    }
   },
   {
     "productTitle": "Killer Instinct: Anniversary Edition",
-    "productId": "9N04NS8TP202"
+    "productId": "9N04NS8TP202",
+    "releaseDate": "2023-11-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2699,
+      "MSRP": 2699,
+      "WholesalePrice": 1601.11
+    }
   },
   {
     "productTitle": "Kiln",
-    "productId": "9MW53ZKZH168"
+    "productId": "9MW53ZKZH168",
+    "releaseDate": "2026-04-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 899.25,
+      "MSRP": 1199,
+      "WholesalePrice": 533.46
+    }
   },
   {
     "productTitle": "Kingdom Come: Deliverance",
-    "productId": "9P3T7HVKM6D0"
+    "productId": "9P3T7HVKM6D0",
+    "releaseDate": "2019-08-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 699,
+      "MSRP": 699,
+      "WholesalePrice": 489.3
+    }
   },
   {
     "productTitle": "Kingdom Come: Deliverance II",
-    "productId": "9N4W31HSMVVD"
+    "productId": "9N4W31HSMVVD",
+    "releaseDate": "2025-02-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3999,
+      "MSRP": 3999,
+      "WholesalePrice": 2799.3
+    }
   },
   {
     "productTitle": "Kingdom Two Crowns",
-    "productId": "BWT2GPVWCH2F"
+    "productId": "BWT2GPVWCH2F",
+    "releaseDate": "2018-12-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "Lara Croft and the Guardian of Light (PC)",
-    "productId": "9NS37Q75LBCG"
+    "productId": "9NS37Q75LBCG",
+    "releaseDate": "2025-09-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 108.6,
+      "MSRP": 724,
+      "WholesalePrice": 76.02
+    }
   },
   {
     "productTitle": "Lara Croft and the Temple of Osiris",
-    "productId": "C3553MB4P5TT"
+    "productId": "C3553MB4P5TT",
+    "releaseDate": "2014-12-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 168,
+      "MSRP": 1120,
+      "WholesalePrice": 99.66
+    }
   },
   {
     "productTitle": "League of Legends",
-    "productId": "9PB301R051CQ"
+    "productId": "9PB301R051CQ",
+    "releaseDate": "2022-12-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Legend of Mana",
-    "productId": "9P2S2QVRB97N"
+    "productId": "9P2S2QVRB97N",
+    "releaseDate": "2024-09-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 873.95,
+      "MSRP": 2497,
+      "WholesalePrice": 518.44
+    }
   },
   {
     "productTitle": "Legends of Runeterra",
-    "productId": "9P9XGNFNF11R"
+    "productId": "9P9XGNFNF11R",
+    "releaseDate": "2022-12-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "LEGO® Star Wars™: The Skywalker Saga",
-    "productId": "BRMKDCZT0C4L"
+    "productId": "BRMKDCZT0C4L",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Like a Dragon: Infinite Wealth",
-    "productId": "9P00SVGWDJCP"
+    "productId": "9P00SVGWDJCP",
+    "releaseDate": "2024-01-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4399,
+      "MSRP": 4399,
+      "WholesalePrice": 2609.58
+    }
   },
   {
     "productTitle": "Like a Dragon: Pirate Yakuza in Hawaii",
-    "productId": "9P1303FCXW6X"
+    "productId": "9P1303FCXW6X",
+    "releaseDate": "2025-02-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1199.75,
+      "MSRP": 4799,
+      "WholesalePrice": 711.71
+    }
   },
   {
     "productTitle": "LIMBO",
-    "productId": "9PNG83MDD6SH"
+    "productId": "9PNG83MDD6SH",
+    "releaseDate": "2021-07-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 552,
+      "MSRP": 552,
+      "WholesalePrice": 327.46
+    }
   },
   {
     "productTitle": "Little Kitty, Big City",
-    "productId": "9NF5S7MLM8XT"
+    "productId": "9NF5S7MLM8XT",
+    "releaseDate": "2024-05-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 809.4,
+      "MSRP": 1349,
+      "WholesalePrice": 566.58
+    }
   },
   {
     "productTitle": "Little Nightmares Enhanced Edition",
-    "productId": "9N8Q6DRTG22H"
+    "productId": "9N8Q6DRTG22H",
+    "releaseDate": "2025-10-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 889.24
+    }
   },
   {
     "productTitle": "Little Nightmares II Enhanced Edition - Windows",
-    "productId": "9PBM67RXX3V8"
+    "productId": "9PBM67RXX3V8",
+    "releaseDate": "2025-07-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1999,
+      "MSRP": 1999,
+      "WholesalePrice": 1185.85
+    }
   },
   {
     "productTitle": "Little Rocket Lab",
-    "productId": "9N3M5D5ZSW34"
+    "productId": "9N3M5D5ZSW34",
+    "releaseDate": "2025-10-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "Lost in Random: The Eternal Die",
-    "productId": "9N72G399183F"
+    "productId": "9N72G399183F",
+    "releaseDate": "2025-06-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1349,
+      "MSRP": 1349,
+      "WholesalePrice": 944.3
+    }
   },
   {
     "productTitle": "Lost Records: Bloom & Rage",
-    "productId": "9N3F1LW9HC6C"
+    "productId": "9N3F1LW9HC6C",
+    "releaseDate": "2025-02-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1004.4,
+      "MSRP": 1674,
+      "WholesalePrice": 703.08
+    }
   },
   {
     "productTitle": "Luna Abyss",
-    "productId": "9PLBH9J0XGR8"
+    "productId": "9PLBH9J0XGR8",
+    "releaseDate": "2026-05-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2249,
+      "MSRP": 2249,
+      "WholesalePrice": 1574.31
+    }
   },
   {
     "productTitle": "Manor Lords (Game Preview)",
-    "productId": "9P5F966564FS"
+    "productId": "9P5F966564FS",
+    "releaseDate": "2023-10-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.3
+    }
   },
   {
     "productTitle": "MARVEL Cosmic Invasion",
-    "productId": "9N79TQTZTQQ4"
+    "productId": "9N79TQTZTQQ4",
+    "releaseDate": "2025-12-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1686.75,
+      "MSRP": 2249,
+      "WholesalePrice": 1180.73
+    }
   },
   {
     "productTitle": "Mecha BREAK",
-    "productId": "9N1BZS0V3K0C"
+    "productId": "9N1BZS0V3K0C",
+    "releaseDate": "2025-07-02",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "MechWarrior 5: Clans",
-    "productId": "9P9FJCK32PMT"
+    "productId": "9P9FJCK32PMT",
+    "releaseDate": "2024-10-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1624,
+      "MSRP": 1624,
+      "WholesalePrice": 1136.8
+    }
   },
   {
     "productTitle": "MechWarrior 5: Mercenaries",
-    "productId": "9PB86W3JK8Z5"
+    "productId": "9PB86W3JK8Z5",
+    "releaseDate": "2021-05-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 766.52,
+      "MSRP": 1916.31,
+      "WholesalePrice": 454.72
+    }
   },
   {
     "productTitle": "Medieval Dynasty",
-    "productId": "9PDDP6ML6XHF"
+    "productId": "9PDDP6ML6XHF",
+    "releaseDate": "2022-10-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1899,
+      "MSRP": 1899,
+      "WholesalePrice": 1329.3
+    }
   },
   {
     "productTitle": "MENACE (Game Preview)",
-    "productId": "9NQCJ397CQ6P"
+    "productId": "9NQCJ397CQ6P",
+    "releaseDate": "2026-02-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
+    }
   },
   {
     "productTitle": "Metaphor: ReFantazio",
-    "productId": "9N5DV8310XP7"
+    "productId": "9N5DV8310XP7",
+    "releaseDate": "2024-10-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 5699,
+      "MSRP": 5699,
+      "WholesalePrice": 3380.77
+    }
   },
   {
     "productTitle": "Microsoft Bubble",
-    "productId": "9NM8GHT6CXN4"
+    "productId": "9NM8GHT6CXN4",
+    "releaseDate": "2026-03-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
-    "productId": "9PMQDM08SNK9"
+    "productId": "9PMQDM08SNK9",
+    "releaseDate": "2022-11-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1399.65,
+      "MSRP": 3999,
+      "WholesalePrice": 830.3
+    }
   },
   {
     "productTitle": "Microsoft Flight Simulator 2024 - Standard Edition",
-    "productId": "9P2VGCTBMM52"
+    "productId": "9P2VGCTBMM52",
+    "releaseDate": "2024-11-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3750,
+      "MSRP": 5000,
+      "WholesalePrice": 2224.58
+    }
   },
   {
     "productTitle": "Microsoft Jewel",
-    "productId": "9NC9M1NCZ7SD"
+    "productId": "9NC9M1NCZ7SD",
+    "releaseDate": "2026-05-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Microsoft Mahjong",
-    "productId": "9WZDNCRFHWCP"
+    "productId": "9WZDNCRFHWCP",
+    "releaseDate": "2012-07-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Microsoft Solitaire Collection",
-    "productId": "9WZDNCRFHWD2"
+    "productId": "9WZDNCRFHWD2",
+    "releaseDate": "2012-07-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Minami Lane",
-    "productId": "9NRL00D96M3R"
+    "productId": "9NRL00D96M3R",
+    "releaseDate": "2025-07-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 269,
+      "MSRP": 269,
+      "WholesalePrice": 188.3
+    }
   },
   {
     "productTitle": "Minecraft Dungeons for Windows + Launcher",
-    "productId": "9NB6BVL3MTG4"
+    "productId": "9NB6BVL3MTG4",
+    "releaseDate": "2021-11-02",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 651.95
+    }
   },
   {
     "productTitle": "Minecraft Legends for Windows + Launcher",
-    "productId": "9NM395CH685J"
+    "productId": "9NM395CH685J",
+    "releaseDate": "2023-04-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1070.4,
+      "MSRP": 2676,
+      "WholesalePrice": 749.28
+    }
   },
   {
     "productTitle": "Minecraft Preview for Windows",
-    "productId": "9P5X4QVLC2XR"
+    "productId": "9P5X4QVLC2XR",
+    "releaseDate": "2022-02-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Minecraft: Java & Bedrock Edition for PC",
-    "productId": "9NXP44L49SHJ"
+    "productId": "9NXP44L49SHJ",
+    "releaseDate": "2022-06-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2605,
+      "MSRP": 2605,
+      "WholesalePrice": 1545.34
+    }
   },
   {
     "productTitle": "Minishoot' Adventures",
-    "productId": "9N5PKH0KW2L1"
+    "productId": "9N5PKH0KW2L1",
+    "releaseDate": "2026-03-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1119,
+      "MSRP": 1119,
+      "WholesalePrice": 783.31
+    }
   },
   {
     "productTitle": "MIO: Memories in Orbit",
-    "productId": "9NP86K57SQM3"
+    "productId": "9NP86K57SQM3",
+    "releaseDate": "2026-01-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1331.2,
+      "MSRP": 1664,
+      "WholesalePrice": 931.84
+    }
   },
   {
     "productTitle": "Mixtape",
-    "productId": "9NH0MSG29X6L"
+    "productId": "9NH0MSG29X6L",
+    "releaseDate": "2026-05-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 899,
+      "MSRP": 899,
+      "WholesalePrice": 629.31
+    }
   },
   {
     "productTitle": "MONOPOLY Madness",
-    "productId": "9MTP0GJ0Q3MG"
+    "productId": "9MTP0GJ0Q3MG",
+    "releaseDate": "2021-09-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Monster Sanctuary (Windows Version)",
-    "productId": "9PBWWQGXVMKC"
+    "productId": "9PBWWQGXVMKC",
+    "releaseDate": "2020-12-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 374.75,
+      "MSRP": 1499,
+      "WholesalePrice": 262.32
+    }
   },
   {
     "productTitle": "Monster Train 2",
-    "productId": "9NJC29JG70LM"
+    "productId": "9NJC29JG70LM",
+    "releaseDate": "2025-05-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1011.75,
+      "MSRP": 1349,
+      "WholesalePrice": 708.22
+    }
   },
   {
     "productTitle": "Monsters are Coming!",
-    "productId": "9PJBKF27C16M"
+    "productId": "9PJBKF27C16M",
+    "releaseDate": "2025-11-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 674,
+      "MSRP": 674,
+      "WholesalePrice": 471.81
+    }
   },
   {
     "productTitle": "Moonlighter",
-    "productId": "9P8XJRLCLH2P"
+    "productId": "9P8XJRLCLH2P",
+    "releaseDate": "2018-05-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "Moonlighter 2: The Endless Vault (Game Preview)",
-    "productId": "9NDJX252Q5BW"
+    "productId": "9NDJX252Q5BW",
+    "releaseDate": "2025-11-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2249,
+      "MSRP": 2249,
+      "WholesalePrice": 1574.31
+    }
   },
   {
     "productTitle": "Mortal Kombat™ 1",
-    "productId": "9N7271QN4SGB"
+    "productId": "9N7271QN4SGB",
+    "releaseDate": "2023-09-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2999,
+      "MSRP": 2999,
+      "WholesalePrice": 2099.3
+    }
   },
   {
     "productTitle": "MOTORSLICE",
-    "productId": "9P0073G9FW5Z"
+    "productId": "9P0073G9FW5Z",
+    "releaseDate": "2026-05-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
+    }
   },
   {
     "productTitle": "Mount & Blade II: Bannerlord",
-    "productId": "9PDHWZ7X3P03"
+    "productId": "9PDHWZ7X3P03",
+    "releaseDate": "2022-10-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 612.25,
+      "MSRP": 2449,
+      "WholesalePrice": 363.2
+    }
   },
   {
     "productTitle": "Moving Out 2",
-    "productId": "9P88K6NQW12H"
+    "productId": "9P88K6NQW12H",
+    "releaseDate": "2023-08-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 839.65,
+      "MSRP": 2399,
+      "WholesalePrice": 587.75
+    }
   },
   {
     "productTitle": "MULLET MADJACK",
-    "productId": "9PG8TV30NN9H"
+    "productId": "9PG8TV30NN9H",
+    "releaseDate": "2025-03-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "My Friend Peppa Pig",
-    "productId": "9NDJLXD2X2DM"
+    "productId": "9NDJLXD2X2DM",
+    "releaseDate": "2021-10-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2174,
+      "MSRP": 2174,
+      "WholesalePrice": 1521.8
+    }
   },
   {
     "productTitle": "My Friendly Neighborhood",
-    "productId": "9MWV1MV9LWF4"
+    "productId": "9MWV1MV9LWF4",
+    "releaseDate": "2025-07-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1299,
+      "MSRP": 1299,
+      "WholesalePrice": 909.3
+    }
   },
   {
     "productTitle": "NARAKA: BLADEPOINT",
-    "productId": "9P8SQQJ5T94B"
+    "productId": "9P8SQQJ5T94B",
+    "releaseDate": "2023-07-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "NBA 2K26 Standard Edition (Windows PC)",
-    "productId": "9N2FJQC9NTX6"
+    "productId": "9N2FJQC9NTX6",
+    "releaseDate": "2026-04-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499.9,
+      "MSRP": 4999,
+      "WholesalePrice": 349.93
+    }
   },
   {
     "productTitle": "Neon Abyss",
-    "productId": "9PLWSGHFQ4PS"
+    "productId": "9PLWSGHFQ4PS",
+    "releaseDate": "2020-07-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 374.75,
+      "MSRP": 1499,
+      "WholesalePrice": 262.32
+    }
   },
   {
     "productTitle": "NEW MONOPOLY®",
-    "productId": "9NTJMT7D8VVV"
+    "productId": "9NTJMT7D8VVV",
+    "releaseDate": "2024-09-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "New Super Lucky's Tale",
-    "productId": "9MZN3SMXN824"
+    "productId": "9MZN3SMXN824",
+    "releaseDate": "2020-08-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1916.31,
+      "MSRP": 1916.31,
+      "WholesalePrice": 1136.8
+    }
   },
   {
     "productTitle": "Ni no Kuni II: Revenant Kingdom PRINCE’S EDITION",
-    "productId": "9N732VFPMWKT"
+    "productId": "9N732VFPMWKT",
+    "releaseDate": "2023-03-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1160,
+      "MSRP": 5800,
+      "WholesalePrice": 812
+    }
   },
   {
     "productTitle": "Ni no Kuni Wrath of the White Witch™ Remastered",
-    "productId": "9P7SL78VHVMF"
+    "productId": "9P7SL78VHVMF",
+    "releaseDate": "2022-09-15",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 599.8,
+      "MSRP": 2999,
+      "WholesalePrice": 419.86
+    }
   },
   {
     "productTitle": "Nickelodeon All-Star Brawl 2",
-    "productId": "9PN0LC4CNLPT"
+    "productId": "9PN0LC4CNLPT",
+    "releaseDate": "2023-11-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 544.8,
+      "MSRP": 2724,
+      "WholesalePrice": 381.36
+    }
   },
   {
     "productTitle": "Nine Sols",
-    "productId": "9N3LGKGF3CC2"
+    "productId": "9N3LGKGF3CC2",
+    "releaseDate": "2024-11-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1624,
+      "MSRP": 1624,
+      "WholesalePrice": 1136.8
+    }
   },
   {
     "productTitle": "NINJA GAIDEN 2 Black",
-    "productId": "9N51FH42VQDS"
+    "productId": "9N51FH42VQDS",
+    "releaseDate": "2025-01-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1737,
+      "MSRP": 3474,
+      "WholesalePrice": 1030.42
+    }
   },
   {
     "productTitle": "NINJA GAIDEN 4 Standard Edition",
-    "productId": "9N7358JZPX1Z"
+    "productId": "9N7358JZPX1Z",
+    "releaseDate": "2025-10-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3299.4,
+      "MSRP": 5499,
+      "WholesalePrice": 1957.27
+    }
   },
   {
     "productTitle": "NINJA GAIDEN: Ragebound",
-    "productId": "9PGFSLP8GWQK"
+    "productId": "9PGFSLP8GWQK",
+    "releaseDate": "2025-07-31",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 944.3,
+      "MSRP": 1349,
+      "WholesalePrice": 661.01
+    }
   },
   {
     "productTitle": "No Man's Sky",
-    "productId": "BQVQTL3PCH05"
+    "productId": "BQVQTL3PCH05",
+    "releaseDate": "2018-07-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1299.6,
+      "MSRP": 3249,
+      "WholesalePrice": 909.72
+    }
   },
   {
     "productTitle": "Nova Roma (Game Preview)",
-    "productId": "9NBNFBQ546DT"
+    "productId": "9NBNFBQ546DT",
+    "releaseDate": "2026-03-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999,
+      "MSRP": 999,
+      "WholesalePrice": 699.31
+    }
   },
   {
     "productTitle": "OddBallers™",
-    "productId": "9N4WHFF9HJ7H"
+    "productId": "9N4WHFF9HJ7H",
+    "releaseDate": "2023-01-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "One Lonely Outpost",
-    "productId": "9NRCM30L6GRQ"
+    "productId": "9NRCM30L6GRQ",
+    "releaseDate": "2025-03-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 899,
+      "MSRP": 899,
+      "WholesalePrice": 629.3
+    }
   },
   {
     "productTitle": "Ori and the Blind Forest: Definitive Edition",
-    "productId": "9NBLGGH1Z6FB"
+    "productId": "9NBLGGH1Z6FB",
+    "releaseDate": "2016-03-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 259.8,
+      "MSRP": 1299,
+      "WholesalePrice": 154.12
+    }
   },
   {
     "productTitle": "Ori and the Will of the Wisps",
-    "productId": "9N8CD0XZKLP4"
+    "productId": "9N8CD0XZKLP4",
+    "releaseDate": "2020-03-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499.75,
+      "MSRP": 1999,
+      "WholesalePrice": 296.46
+    }
   },
   {
     "productTitle": "Outbound",
-    "productId": "9PFWZMT737GG"
+    "productId": "9PFWZMT737GG",
+    "releaseDate": "2026-05-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1869,
+      "MSRP": 1869,
+      "WholesalePrice": 1308.31
+    }
   },
   {
     "productTitle": "Overcooked! 2",
-    "productId": "9PGB72NFG5JN"
+    "productId": "9PGB72NFG5JN",
+    "releaseDate": "2020-04-02",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499.75,
+      "MSRP": 1999,
+      "WholesalePrice": 349.82
+    }
   },
   {
     "productTitle": "Overthrown",
-    "productId": "9MT5KSV3RCWD"
+    "productId": "9MT5KSV3RCWD",
+    "releaseDate": "2026-03-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1349,
+      "MSRP": 1349,
+      "WholesalePrice": 944.3
+    }
   },
   {
     "productTitle": "Overwatch®",
-    "productId": "C1C4DZJPBC2V"
+    "productId": "C1C4DZJPBC2V",
+    "releaseDate": "2016-05-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Overwatch® PC",
-    "productId": "9P36DQX6W9CS"
+    "productId": "9P36DQX6W9CS",
+    "releaseDate": "2023-08-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Pacific Drive",
-    "productId": "9PNKG0WBL61W"
+    "productId": "9PNKG0WBL61W",
+    "releaseDate": "2025-10-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 568.4,
+      "MSRP": 1624,
+      "WholesalePrice": 397.88
+    }
   },
   {
     "productTitle": "Palworld (Game Preview)",
-    "productId": "9NKV34XDW014"
+    "productId": "9NKV34XDW014",
+    "releaseDate": "2024-01-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1624,
+      "MSRP": 1624,
+      "WholesalePrice": 1136.8
+    }
   },
   {
     "productTitle": "Pax Dei",
-    "productId": "9PHGK0538TXM"
+    "productId": "9PHGK0538TXM",
+    "releaseDate": "2025-10-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1624,
+      "MSRP": 1624,
+      "WholesalePrice": 1136.8
+    }
   },
   {
     "productTitle": "Pentiment",
-    "productId": "9NX6K9HN4F4K"
+    "productId": "9NX6K9HN4F4K",
+    "releaseDate": "2022-11-15",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 649.5,
+      "MSRP": 1299,
+      "WholesalePrice": 385.3
+    }
   },
   {
     "productTitle": "Persona 4 Golden",
-    "productId": "9PK4B09SMN5C"
+    "productId": "9PK4B09SMN5C",
+    "releaseDate": "2023-01-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1664,
+      "MSRP": 1664,
+      "WholesalePrice": 987.12
+    }
   },
   {
     "productTitle": "Phoenix Point",
-    "productId": "9P1P5Q3BNM7J"
+    "productId": "9P1P5Q3BNM7J",
+    "releaseDate": "2019-12-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3249,
+      "MSRP": 3249,
+      "WholesalePrice": 2274.3
+    }
   },
   {
     "productTitle": "Pigeon Simulator",
-    "productId": "9NRHQLZX3900"
+    "productId": "9NRHQLZX3900",
+    "releaseDate": "2025-11-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1119,
+      "MSRP": 1119,
+      "WholesalePrice": 783.31
+    }
   },
   {
     "productTitle": "Pillars of Eternity 2: Deadfire - Ultimate Edition (PC)",
-    "productId": "9N8N7NZSVTG3"
+    "productId": "9N8N7NZSVTG3",
+    "releaseDate": "2021-03-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3249,
+      "MSRP": 3249,
+      "WholesalePrice": 2274.3
+    }
   },
   {
     "productTitle": "Pillars of Eternity: Definitive Edition",
-    "productId": "9N1P6T7ZQ2KF"
+    "productId": "9N1P6T7ZQ2KF",
+    "releaseDate": "2020-03-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 543.5,
+      "MSRP": 2174,
+      "WholesalePrice": 322.41
+    }
   },
   {
     "productTitle": "Planet Coaster 2",
-    "productId": "9PK5WS0HXQKQ"
+    "productId": "9PK5WS0HXQKQ",
+    "releaseDate": "2024-11-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3524,
+      "MSRP": 3524,
+      "WholesalePrice": 2466.8
+    }
   },
   {
     "productTitle": "Planet of Lana II",
-    "productId": "9PL89B9HCZ9W"
+    "productId": "9PL89B9HCZ9W",
+    "releaseDate": "2026-03-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
+    }
   },
   {
     "productTitle": "PlateUp!",
-    "productId": "9P2HHT3VS7MP"
+    "productId": "9P2HHT3VS7MP",
+    "releaseDate": "2024-02-15",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "Police Simulator: Patrol Officers",
-    "productId": "9P0NPLQ9P1DB"
+    "productId": "9P0NPLQ9P1DB",
+    "releaseDate": "2022-11-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1624,
+      "MSRP": 1624,
+      "WholesalePrice": 1136.8
+    }
   },
   {
     "productTitle": "PowerWash Simulator",
-    "productId": "9NHDJC0NW20M"
+    "productId": "9NHDJC0NW20M",
+    "releaseDate": "2022-07-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2080,
+      "MSRP": 2080,
+      "WholesalePrice": 1233.9
+    }
   },
   {
     "productTitle": "PowerWash Simulator 2",
-    "productId": "9P45GGDTFNSM"
+    "productId": "9P45GGDTFNSM",
+    "releaseDate": "2025-10-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1000,
+      "MSRP": 1000,
+      "WholesalePrice": 700.01
+    }
   },
   {
     "productTitle": "Prey",
-    "productId": "9PBC1QFBW563"
+    "productId": "9PBC1QFBW563",
+    "releaseDate": "2019-06-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 274.8,
+      "MSRP": 1374,
+      "WholesalePrice": 192.36
+    }
   },
   {
     "productTitle": "Prince of Persia The Lost Crown",
-    "productId": "9PJ8CKFDWWLF"
+    "productId": "9PJ8CKFDWWLF",
+    "releaseDate": "2025-07-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1119.6,
+      "MSRP": 2799,
+      "WholesalePrice": 783.72
+    }
   },
   {
     "productTitle": "Psychonauts (Windows 10)",
-    "productId": "9NCT87FKQ4GM"
+    "productId": "9NCT87FKQ4GM",
+    "releaseDate": "2021-05-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 137.25,
+      "MSRP": 549,
+      "WholesalePrice": 81.42
+    }
   },
   {
     "productTitle": "Psychonauts 2",
-    "productId": "9NBR2VXT87SJ"
+    "productId": "9NBR2VXT87SJ",
+    "releaseDate": "2021-08-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999.75,
+      "MSRP": 3999,
+      "WholesalePrice": 593.07
+    }
   },
   {
     "productTitle": "Quake",
-    "productId": "9P1Z43KRNQD4"
+    "productId": "9P1Z43KRNQD4",
+    "releaseDate": "2021-08-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 824,
+      "MSRP": 824,
+      "WholesalePrice": 576.8
+    }
   },
   {
     "productTitle": "Quake 4",
-    "productId": "9P2JXK37PFLZ"
+    "productId": "9P2JXK37PFLZ",
+    "releaseDate": "2022-08-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 674,
+      "MSRP": 674,
+      "WholesalePrice": 471.8
+    }
   },
   {
     "productTitle": "Quake II",
-    "productId": "9P7L9H478GGV"
+    "productId": "9P7L9H478GGV",
+    "releaseDate": "2023-08-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499,
+      "MSRP": 499,
+      "WholesalePrice": 349.3
+    }
   },
   {
     "productTitle": "Quake III Arena",
-    "productId": "9NWNLS28ZG37"
+    "productId": "9NWNLS28ZG37",
+    "releaseDate": "2021-08-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1249,
+      "MSRP": 1249,
+      "WholesalePrice": 874.3
+    }
   },
   {
     "productTitle": "Quantum Break",
-    "productId": "9NBLGGH6H0RV"
+    "productId": "9NBLGGH6H0RV",
+    "releaseDate": "2016-04-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 139.8,
+      "MSRP": 699,
+      "WholesalePrice": 82.93
+    }
   },
   {
     "productTitle": "Quarantine Zone: The Last Check",
-    "productId": "9P9446P7D9TZ"
+    "productId": "9P9446P7D9TZ",
+    "releaseDate": "2026-01-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
+    }
   },
   {
     "productTitle": "Rabbids: Party of Legends",
-    "productId": "9PJLNG7448C6"
+    "productId": "9PJLNG7448C6",
+    "releaseDate": "2022-06-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "RAGE 2 (PC)",
-    "productId": "9P2J7WHV0K4N"
+    "productId": "9P2J7WHV0K4N",
+    "releaseDate": "2019-11-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 359.8,
+      "MSRP": 1799,
+      "WholesalePrice": 251.86
+    }
   },
   {
     "productTitle": "Rain World",
-    "productId": "9PNPFBPLGCMW"
+    "productId": "9PNPFBPLGCMW",
+    "releaseDate": "2023-07-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 674.4,
+      "MSRP": 1124,
+      "WholesalePrice": 472.08
+    }
   },
   {
     "productTitle": "RAYMAN LEGENDS",
-    "productId": "9NQ4M2DG11L0"
+    "productId": "9NQ4M2DG11L0",
+    "releaseDate": "2013-08-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "ReCore",
-    "productId": "9NBLGGH1Z6FQ"
+    "productId": "9NBLGGH1Z6FQ",
+    "releaseDate": "2016-09-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 260,
+      "MSRP": 1300,
+      "WholesalePrice": 154.23
+    }
   },
   {
     "productTitle": "Redfall",
-    "productId": "9P8JRMWRQP4H"
+    "productId": "9P8JRMWRQP4H",
+    "releaseDate": "2023-05-02",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1599.5,
+      "MSRP": 3199,
+      "WholesalePrice": 1119.65
+    }
   },
   {
     "productTitle": "Relic Hunters Legend",
-    "productId": "9P81K2C8RBF4"
+    "productId": "9P81K2C8RBF4",
+    "releaseDate": "2025-08-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1299,
+      "MSRP": 1299,
+      "WholesalePrice": 909.3
+    }
   },
   {
     "productTitle": "Relooted",
-    "productId": "9PPP5344B3LS"
+    "productId": "9PPP5344B3LS",
+    "releaseDate": "2026-02-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1119,
+      "MSRP": 1119,
+      "WholesalePrice": 783.31
+    }
   },
   {
     "productTitle": "REMATCH",
-    "productId": "9N5K7HWXL4Q6"
+    "productId": "9N5K7HWXL4Q6",
+    "releaseDate": "2025-06-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 809.4,
+      "MSRP": 1349,
+      "WholesalePrice": 566.58
+    }
   },
   {
     "productTitle": "Remnant II® - Standard Edition",
-    "productId": "9P9278ZMGQLJ"
+    "productId": "9P9278ZMGQLJ",
+    "releaseDate": "2023-07-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2724,
+      "MSRP": 2724,
+      "WholesalePrice": 1906.8
+    }
   },
   {
     "productTitle": "REPLACED",
-    "productId": "9NV3L234VGXD"
+    "productId": "9NV3L234VGXD",
+    "releaseDate": "2026-04-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
+    }
   },
   {
     "productTitle": "RESIDENT EVIL 2",
-    "productId": "BWMH951M3G3P"
+    "productId": "BWMH951M3G3P",
+    "releaseDate": "2019-01-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 589.99,
+      "MSRP": 2949.99,
+      "WholesalePrice": 350
+    }
   },
   {
     "productTitle": "RESIDENT EVIL 3 for Windows",
-    "productId": "9P7T44TTDL7M"
+    "productId": "9P7T44TTDL7M",
+    "releaseDate": "2024-02-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 562.25,
+      "MSRP": 2249,
+      "WholesalePrice": 333.54
+    }
   },
   {
     "productTitle": "RESIDENT EVIL 7 biohazard",
-    "productId": "9NBLGGH4SPK6"
+    "productId": "9NBLGGH4SPK6",
+    "releaseDate": "2017-01-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1769.99,
+      "MSRP": 1769.99,
+      "WholesalePrice": 1050
+    }
   },
   {
     "productTitle": "Resident Evil Village",
-    "productId": "9N2S04LGXXH4"
+    "productId": "9N2S04LGXXH4",
+    "releaseDate": "2021-05-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 599.75,
+      "MSRP": 2399,
+      "WholesalePrice": 355.78
+    }
   },
   {
     "productTitle": "Retro Classics",
-    "productId": "9MTVJ3HHTQGS"
+    "productId": "9MTVJ3HHTQGS",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Return to Castle Wolfenstein",
-    "productId": "9N1WT4X26SHW"
+    "productId": "9N1WT4X26SHW",
+    "releaseDate": "2022-08-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 229,
+      "MSRP": 229,
+      "WholesalePrice": 160.3
+    }
   },
   {
     "productTitle": "Riders Republic Standard Edition",
-    "productId": "9N1XDDL50X5F"
+    "productId": "9N1XDDL50X5F",
+    "releaseDate": "2021-10-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499.75,
+      "MSRP": 1999,
+      "WholesalePrice": 349.82
+    }
   },
   {
     "productTitle": "Rise of Nations: Extended Edition",
-    "productId": "9NS84HCWZD8B"
+    "productId": "9NS84HCWZD8B",
+    "releaseDate": "2017-09-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 274.75,
+      "MSRP": 1099,
+      "WholesalePrice": 162.98
+    }
   },
   {
     "productTitle": "Rise of the Tomb Raider",
-    "productId": "9NBLGGH6CRSZ"
+    "productId": "9NBLGGH6CRSZ",
+    "releaseDate": "2016-01-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 299.85,
+      "MSRP": 1999,
+      "WholesalePrice": 177.87
+    }
   },
   {
     "productTitle": "RoadCraft",
-    "productId": "9N4J937WLFPZ"
+    "productId": "9N4J937WLFPZ",
+    "releaseDate": "2025-05-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499.4,
+      "MSRP": 2499,
+      "WholesalePrice": 1049.58
+    }
   },
   {
     "productTitle": "Roadside Research (Game Preview)",
-    "productId": "9PFNXM9G4N83"
+    "productId": "9PFNXM9G4N83",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 969,
+      "MSRP": 969,
+      "WholesalePrice": 678.31
+    }
   },
   {
     "productTitle": "RoboCop: Rogue City",
-    "productId": "9PKF2LDFPXTN"
+    "productId": "9PKF2LDFPXTN",
+    "releaseDate": "2023-11-02",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999.6,
+      "MSRP": 2499,
+      "WholesalePrice": 699.72
+    }
   },
   {
     "productTitle": "Roboquest",
-    "productId": "9P47S7NJGWZL"
+    "productId": "9P47S7NJGWZL",
+    "releaseDate": "2023-11-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 874,
+      "MSRP": 874,
+      "WholesalePrice": 518.47
+    }
   },
   {
     "productTitle": "Rocket League®",
-    "productId": "C125W9BG2K0V"
+    "productId": "C125W9BG2K0V",
+    "releaseDate": "2016-02-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "ROUTINE",
-    "productId": "9PCJT6TLCGGV"
+    "productId": "9PCJT6TLCGGV",
+    "releaseDate": "2025-12-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1869,
+      "MSRP": 1869,
+      "WholesalePrice": 1308.31
+    }
   },
   {
     "productTitle": "Rush: A DisneyPixar Adventure",
-    "productId": "9P3PL76N0KWZ"
+    "productId": "9P3PL76N0KWZ",
+    "releaseDate": "2017-10-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 329.7,
+      "MSRP": 1099,
+      "WholesalePrice": 195.58
+    }
   },
   {
     "productTitle": "Scott Pilgrim vs. The World™: The Game – Complete Edition",
-    "productId": "9N51RG58SFS8"
+    "productId": "9N51RG58SFS8",
+    "releaseDate": "2021-01-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Sea of Thieves: 2026 Edition",
-    "productId": "9P2N57MC619K"
+    "productId": "9P2N57MC619K",
+    "releaseDate": "2018-03-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1224.65,
+      "MSRP": 3499,
+      "WholesalePrice": 726.48
+    }
   },
   {
     "productTitle": "Senua’s Saga: Hellblade II",
-    "productId": "9PMBB7NGHV95"
+    "productId": "9PMBB7NGHV95",
+    "releaseDate": "2024-05-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099.75,
+      "MSRP": 4399,
+      "WholesalePrice": 652.39
+    }
   },
   {
     "productTitle": "Shadow of the Tomb Raider Definitive Edition",
-    "productId": "BNQQ3WVBNZCQ"
+    "productId": "BNQQ3WVBNZCQ",
+    "releaseDate": "2019-11-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 374.85,
+      "MSRP": 2499,
+      "WholesalePrice": 222.36
+    }
   },
   {
     "productTitle": "Shadowrun Returns PC",
-    "productId": "9NF0RBL8SZL6"
+    "productId": "9NF0RBL8SZL6",
+    "releaseDate": "2023-05-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "Shadowrun: Dragonfall - Director's Cut PC",
-    "productId": "9NMCRMS6WN78"
+    "productId": "9NMCRMS6WN78",
+    "releaseDate": "2023-05-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "Shadowrun: Hong Kong - Extended Edition PC",
-    "productId": "9NK2DT3K7DTF"
+    "productId": "9NK2DT3K7DTF",
+    "releaseDate": "2023-05-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "Sifu",
-    "productId": "9P7PF6ZP3958"
+    "productId": "9P7PF6ZP3958",
+    "releaseDate": "2023-03-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 543.5,
+      "MSRP": 2174,
+      "WholesalePrice": 380.45
+    }
   },
   {
     "productTitle": "Skull and Bones",
-    "productId": "9P7X7VL05K48"
+    "productId": "9P7X7VL05K48",
+    "releaseDate": "2025-07-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 279.9,
+      "MSRP": 2799,
+      "WholesalePrice": 195.93
+    }
   },
   {
     "productTitle": "Slay The Spire",
-    "productId": "9MZQR8317S3B"
+    "productId": "9MZQR8317S3B",
+    "releaseDate": "2019-06-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1349,
+      "MSRP": 1349,
+      "WholesalePrice": 944.3
+    }
   },
   {
     "productTitle": "Sledding Game",
-    "productId": "9N9C1TB18R3B"
+    "productId": "9N9C1TB18R3B",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 359,
+      "MSRP": 359,
+      "WholesalePrice": 251.31
+    }
   },
   {
     "productTitle": "SMITE 2 (Game Preview)",
-    "productId": "9NV8W1KJSQLL"
+    "productId": "9NV8W1KJSQLL",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Sniper Elite: Resistance",
-    "productId": "9MXRG5GCRPXZ"
+    "productId": "9MXRG5GCRPXZ",
+    "releaseDate": "2025-01-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3249,
+      "MSRP": 3249,
+      "WholesalePrice": 2274.3
+    }
   },
   {
     "productTitle": "SnowRunner (Windows 10)",
-    "productId": "9NP6WL1XQDBW"
+    "productId": "9NP6WL1XQDBW",
+    "releaseDate": "2021-05-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 479.6,
+      "MSRP": 1199,
+      "WholesalePrice": 335.72
+    }
   },
   {
     "productTitle": "SOPA - Tale of the Stolen Potato",
-    "productId": "9N221ZTFGQB0"
+    "productId": "9N221ZTFGQB0",
+    "releaseDate": "2025-10-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1124.25,
+      "MSRP": 1499,
+      "WholesalePrice": 786.98
+    }
   },
   {
     "productTitle": "South of Midnight",
-    "productId": "9NJCVGS6T30K"
+    "productId": "9NJCVGS6T30K",
+    "releaseDate": "2025-04-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "South Park: The Stick of Truth",
-    "productId": "9NQ26CN8MZ1R"
+    "productId": "9NQ26CN8MZ1R",
+    "releaseDate": "2014-03-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "South Park™: The Fractured but Whole™",
-    "productId": "9NDQ5PS0447L"
+    "productId": "9NDQ5PS0447L",
+    "releaseDate": "2017-10-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2099,
+      "MSRP": 2099,
+      "WholesalePrice": 1469.3
+    }
   },
   {
     "productTitle": "Spiritfarer®: Farewell Edition",
-    "productId": "9NG5L58FD3X5"
+    "productId": "9NG5L58FD3X5",
+    "releaseDate": "2020-08-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1974,
+      "MSRP": 1974,
+      "WholesalePrice": 1171.02
+    }
   },
   {
     "productTitle": "SPLITGATE: Arena Reloaded",
-    "productId": "9PF5Q1B0FHSL"
+    "productId": "9PF5Q1B0FHSL",
+    "releaseDate": "2025-05-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "SpongeBob SquarePants™: The Patrick Star Game",
-    "productId": "9NMF3KXT4P4G"
+    "productId": "9NMF3KXT4P4G",
+    "releaseDate": "2024-10-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1087,
+      "MSRP": 2174,
+      "WholesalePrice": 760.9
+    }
   },
   {
     "productTitle": "Spray Paint Simulator",
-    "productId": "9NDKXPQBBNJN"
+    "productId": "9NDKXPQBBNJN",
+    "releaseDate": "2025-05-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 824,
+      "MSRP": 824,
+      "WholesalePrice": 576.8
+    }
   },
   {
     "productTitle": "Spyro™ Reignited Trilogy",
-    "productId": "9NLD3ZRWF8DT"
+    "productId": "9NLD3ZRWF8DT",
+    "releaseDate": "2024-04-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1165.85,
+      "MSRP": 3331,
+      "WholesalePrice": 816.09
+    }
   },
   {
     "productTitle": "Star Trucker",
-    "productId": "9MT19Q3CRMQZ"
+    "productId": "9MT19Q3CRMQZ",
+    "releaseDate": "2024-09-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1349,
+      "MSRP": 1349,
+      "WholesalePrice": 944.3
+    }
   },
   {
     "productTitle": "Star Wars Outlaws",
-    "productId": "9N59CT2NKDPV"
+    "productId": "9N59CT2NKDPV",
+    "releaseDate": "2025-07-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1469.7,
+      "MSRP": 4899,
+      "WholesalePrice": 1028.79
+    }
   },
   {
     "productTitle": "StarCraft® II Campaign Collection",
-    "productId": "9PB7921QZ087"
+    "productId": "9PB7921QZ087",
+    "releaseDate": "2010-07-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "StarCraft® Remastered",
-    "productId": "9N2GWLMCHJTN"
+    "productId": "9N2GWLMCHJTN",
+    "releaseDate": "2017-08-15",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Stardew Valley",
-    "productId": "9MWR1NC6VQ6L"
+    "productId": "9MWR1NC6VQ6L",
+    "releaseDate": "2021-12-02",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 972.31,
+      "MSRP": 972.31,
+      "WholesalePrice": 576.8
+    }
   },
   {
     "productTitle": "Starfield",
-    "productId": "9NCJSXWZTP88"
+    "productId": "9NCJSXWZTP88",
+    "releaseDate": "2023-09-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2783.2,
+      "MSRP": 3479,
+      "WholesalePrice": 1948.24
+    }
   },
   {
     "productTitle": "Starlink: Battle for Atlas™",
-    "productId": "9PL427M642BV"
+    "productId": "9PL427M642BV",
+    "releaseDate": "2019-04-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Starsand Island",
-    "productId": "9P86LLDCL5CC"
+    "productId": "9P86LLDCL5CC",
+    "releaseDate": "2026-02-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2071.3,
+      "MSRP": 2959,
+      "WholesalePrice": 1449.91
+    }
   },
   {
     "productTitle": "State of Decay 2: Juggernaut Edition",
-    "productId": "9NT4X7P8B9NB"
+    "productId": "9NT4X7P8B9NB",
+    "releaseDate": "2018-05-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 406,
+      "MSRP": 1624,
+      "WholesalePrice": 240.85
+    }
   },
   {
     "productTitle": "STEEP",
-    "productId": "9NWDKGFHMZK3"
+    "productId": "9NWDKGFHMZK3",
+    "releaseDate": "2025-07-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 224.85,
+      "MSRP": 1499,
+      "WholesalePrice": 157.39
+    }
   },
   {
     "productTitle": "Stellaris",
-    "productId": "9NXQPGMR917R"
+    "productId": "9NXQPGMR917R",
+    "releaseDate": "2019-10-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3749,
+      "MSRP": 3749,
+      "WholesalePrice": 2624.31
+    }
   },
   {
     "productTitle": "Subnautica 2 (Game Preview)",
-    "productId": "9PJPCB188SVG"
+    "productId": "9PJPCB188SVG",
+    "releaseDate": "2026-05-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1800,
+      "MSRP": 1800,
+      "WholesalePrice": 1260.01
+    }
   },
   {
     "productTitle": "Sunset Overdrive",
-    "productId": "9NNLBL0T2Z43"
+    "productId": "9NNLBL0T2Z43",
+    "releaseDate": "2018-11-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 131,
+      "MSRP": 524,
+      "WholesalePrice": 77.71
+    }
   },
   {
     "productTitle": "Super Fantasy Kingdom (Game Preview)",
-    "productId": "9MZ8B96NDG1T"
+    "productId": "9MZ8B96NDG1T",
+    "releaseDate": "2025-10-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 599,
+      "MSRP": 599,
+      "WholesalePrice": 419.31
+    }
   },
   {
     "productTitle": "Super Lucky's Tale",
-    "productId": "9PLMGFWCFZ9G"
+    "productId": "9PLMGFWCFZ9G",
+    "releaseDate": "2017-11-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Super Meat Boy 3D",
-    "productId": "9NJ67TQQ51Z0"
+    "productId": "9NJ67TQQ51Z0",
+    "releaseDate": "2026-03-31",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1869,
+      "MSRP": 1869,
+      "WholesalePrice": 1308.31
+    }
   },
   {
     "productTitle": "Superball",
-    "productId": "9N4M72L6KGC8"
+    "productId": "9N4M72L6KGC8",
+    "releaseDate": "2025-10-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "SUPERHOT: MIND CONTROL DELETE",
-    "productId": "9NRH78B682L8"
+    "productId": "9NRH78B682L8",
+    "releaseDate": "2020-07-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 399.6,
+      "MSRP": 999,
+      "WholesalePrice": 279.72
+    }
   },
   {
     "productTitle": "Superliminal",
-    "productId": "9NVR4ZQKNBSB"
+    "productId": "9NVR4ZQKNBSB",
+    "releaseDate": "2020-07-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 519.6,
+      "MSRP": 1299,
+      "WholesalePrice": 308.23
+    }
   },
   {
     "productTitle": "Supermarket Simulator",
-    "productId": "9NR0GCBSLDW4"
+    "productId": "9NR0GCBSLDW4",
+    "releaseDate": "2025-10-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 874,
+      "MSRP": 874,
+      "WholesalePrice": 611.8
+    }
   },
   {
     "productTitle": "SWORN",
-    "productId": "9MWDJRQ1BXTC"
+    "productId": "9MWDJRQ1BXTC",
+    "releaseDate": "2025-09-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1248.5,
+      "MSRP": 2497,
+      "WholesalePrice": 873.95
+    }
   },
   {
     "productTitle": "Symphonia 𝄞",
-    "productId": "9NBLHDB0WLHZ"
+    "productId": "9NBLHDB0WLHZ",
+    "releaseDate": "2024-12-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "TCG Card Shop Simulator (Game Preview)",
-    "productId": "9P9GX5D8H9DW"
+    "productId": "9P9GX5D8H9DW",
+    "releaseDate": "2025-10-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
+    }
   },
   {
     "productTitle": "Teamfight Tactics",
-    "productId": "9N464X6CT772"
+    "productId": "9N464X6CT772",
+    "releaseDate": "2022-12-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Techtonica (Game Preview)",
-    "productId": "9NR1RVDK9T78"
+    "productId": "9NR1RVDK9T78",
+    "releaseDate": "2023-07-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 406,
+      "MSRP": 1624,
+      "WholesalePrice": 284.2
+    }
   },
   {
     "productTitle": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
-    "productId": "9NS3673HVH41"
+    "productId": "9NS3673HVH41",
+    "releaseDate": "2022-06-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1349,
+      "MSRP": 1349,
+      "WholesalePrice": 944.3
+    }
   },
   {
     "productTitle": "Tell Me Why: Chapters 1-3",
-    "productId": "9NF83PRZK6K3"
+    "productId": "9NF83PRZK6K3",
+    "releaseDate": "2020-08-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 324.75,
+      "MSRP": 1299,
+      "WholesalePrice": 192.65
+    }
   },
   {
     "productTitle": "Tempopo",
-    "productId": "9P6X0VL8BXZF"
+    "productId": "9P6X0VL8BXZF",
+    "releaseDate": "2025-04-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "Terminull Brigade™",
-    "productId": "9MW1V43D3VZN"
+    "productId": "9MW1V43D3VZN",
+    "releaseDate": "2025-12-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "TerraTech Legion",
-    "productId": "9NG66K0Z31LH"
+    "productId": "9NG66K0Z31LH",
+    "releaseDate": "2026-04-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 749,
+      "MSRP": 749,
+      "WholesalePrice": 524.31
+    }
   },
   {
     "productTitle": "The Alters",
-    "productId": "9N0P25WJHM8C"
+    "productId": "9N0P25WJHM8C",
+    "releaseDate": "2025-06-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1899,
+      "MSRP": 1899,
+      "WholesalePrice": 1329.3
+    }
   },
   {
     "productTitle": "The Bard's Tale ARPG : Remastered and Resnarkled",
-    "productId": "9PN3VDFTB5HZ"
+    "productId": "9PN3VDFTB5HZ",
+    "releaseDate": "2020-06-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 104.8,
+      "MSRP": 524,
+      "WholesalePrice": 62.17
+    }
   },
   {
     "productTitle": "The Bard's Tale IV: Director's Cut",
-    "productId": "C2B4T86TXLRS"
+    "productId": "C2B4T86TXLRS",
+    "releaseDate": "2019-08-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 664.8,
+      "MSRP": 3324,
+      "WholesalePrice": 465.36
+    }
   },
   {
     "productTitle": "The Bard's Tale Trilogy",
-    "productId": "9MVN4ND41DD3"
+    "productId": "9MVN4ND41DD3",
+    "releaseDate": "2019-08-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 113.5,
+      "MSRP": 454,
+      "WholesalePrice": 67.33
+    }
   },
   {
     "productTitle": "The Casting of Frank Stone™",
-    "productId": "9PG0PMB5Q0GT"
+    "productId": "9PG0PMB5Q0GT",
+    "releaseDate": "2024-09-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 445.17,
+      "MSRP": 1349,
+      "WholesalePrice": 311.61
+    }
   },
   {
     "productTitle": "The Crew Motorfest",
-    "productId": "9NKBNRKJ9FXS"
+    "productId": "9NKBNRKJ9FXS",
+    "releaseDate": "2025-07-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 699.8,
+      "MSRP": 3499,
+      "WholesalePrice": 489.86
+    }
   },
   {
     "productTitle": "The Crew® 2",
-    "productId": "9NXTFRQJGZ43"
+    "productId": "9NXTFRQJGZ43",
+    "releaseDate": "2025-07-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 629.7,
+      "MSRP": 2099,
+      "WholesalePrice": 440.79
+    }
   },
   {
     "productTitle": "The Elder Scrolls Adventures: Redguard",
-    "productId": "9PFXKRLVWJ0B"
+    "productId": "9PFXKRLVWJ0B",
+    "releaseDate": "2022-08-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 279,
+      "MSRP": 279,
+      "WholesalePrice": 195.3
+    }
   },
   {
     "productTitle": "The Elder Scrolls III: Morrowind Game of the Year Edition (PC)",
-    "productId": "9PP7XSG5LDH1"
+    "productId": "9PP7XSG5LDH1",
+    "releaseDate": "2021-03-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 574,
+      "MSRP": 574,
+      "WholesalePrice": 401.8
+    }
   },
   {
     "productTitle": "The Elder Scrolls IV: Oblivion Game of the Year Edition (PC) – 2009",
-    "productId": "9P2J5D12GJL5"
+    "productId": "9P2J5D12GJL5",
+    "releaseDate": "2021-03-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 574,
+      "MSRP": 574,
+      "WholesalePrice": 401.8
+    }
   },
   {
     "productTitle": "The Elder Scrolls IV: Oblivion Remastered",
-    "productId": "9NQR437K7PQH"
+    "productId": "9NQR437K7PQH",
+    "releaseDate": "2025-04-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3659.2,
+      "MSRP": 4574,
+      "WholesalePrice": 2561.44
+    }
   },
   {
     "productTitle": "The Elder Scrolls V: Skyrim Special Edition (PC)",
-    "productId": "9P03JGQ4S1GC"
+    "productId": "9P03JGQ4S1GC",
+    "releaseDate": "2021-03-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 449.75,
+      "MSRP": 1799,
+      "WholesalePrice": 314.82
+    }
   },
   {
     "productTitle": "The Evil Within (PC)",
-    "productId": "9MX8R81JW1B5"
+    "productId": "9MX8R81JW1B5",
+    "releaseDate": "2021-03-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 387.25,
+      "MSRP": 1549,
+      "WholesalePrice": 271.07
+    }
   },
   {
     "productTitle": "The Evil Within® 2 (PC)",
-    "productId": "9NT0NT8JQMQN"
+    "productId": "9NT0NT8JQMQN",
+    "releaseDate": "2021-06-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499.8,
+      "MSRP": 2499,
+      "WholesalePrice": 349.86
+    }
   },
   {
     "productTitle": "THE FINALS",
-    "productId": "9PGD71CMDS0Z"
+    "productId": "9PGD71CMDS0Z",
+    "releaseDate": "2023-12-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "The First Descendant",
-    "productId": "9P8FBXKMCLWC"
+    "productId": "9P8FBXKMCLWC",
+    "releaseDate": "2024-06-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "The Gunk",
-    "productId": "9P008L2LS87F"
+    "productId": "9P008L2LS87F",
+    "releaseDate": "2021-12-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1674,
+      "MSRP": 1674,
+      "WholesalePrice": 993.05
+    }
   },
   {
     "productTitle": "The Long Dark",
-    "productId": "9NFKN56ZBMR0"
+    "productId": "9NFKN56ZBMR0",
+    "releaseDate": "2017-11-02",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1480,
+      "MSRP": 1480,
+      "WholesalePrice": 877.97
+    }
   },
   {
     "productTitle": "The Outer Worlds 2",
-    "productId": "9P8RMKXRML7D"
+    "productId": "9P8RMKXRML7D",
+    "releaseDate": "2025-10-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3299.4,
+      "MSRP": 5499,
+      "WholesalePrice": 1957.27
+    }
   },
   {
     "productTitle": "The Outer Worlds: Spacer’s Choice Edition",
-    "productId": "9NG2F1Q062VV"
+    "productId": "9NG2F1Q062VV",
+    "releaseDate": "2023-03-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2499,
+      "MSRP": 2499,
+      "WholesalePrice": 1482.46
+    }
   },
   {
     "productTitle": "The Rogue Prince of Persia™",
-    "productId": "9P1WJCK9B8S6"
+    "productId": "9P1WJCK9B8S6",
+    "releaseDate": "2025-08-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "The Settlers: New Allies",
-    "productId": "9N10HHMXFFC5"
+    "productId": "9N10HHMXFFC5",
+    "releaseDate": "2023-07-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "The Talos Principle 2",
-    "productId": "9N7P8GVMF6SS"
+    "productId": "9N7P8GVMF6SS",
+    "releaseDate": "2023-11-02",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1624,
+      "MSRP": 1624,
+      "WholesalePrice": 1136.8
+    }
   },
   {
     "productTitle": "The Thaumaturge",
-    "productId": "9MZZZCHZ26NK"
+    "productId": "9MZZZCHZ26NK",
+    "releaseDate": "2024-12-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1899,
+      "MSRP": 1899,
+      "WholesalePrice": 1329.3
+    }
   },
   {
     "productTitle": "theHunter: Call of the Wild™ - Windows 10",
-    "productId": "9NQV7C0G1040"
+    "productId": "9NQV7C0G1040",
+    "releaseDate": "2021-11-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1624,
+      "MSRP": 1624,
+      "WholesalePrice": 1136.8
+    }
   },
   {
     "productTitle": "Tiny Bookshop",
-    "productId": "9ND19JDMBS3R"
+    "productId": "9ND19JDMBS3R",
+    "releaseDate": "2026-04-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
+    }
   },
   {
     "productTitle": "to a T",
-    "productId": "9NM6NMBJ7ZK4"
+    "productId": "9NM6NMBJ7ZK4",
+    "releaseDate": "2025-05-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 899,
+      "MSRP": 899,
+      "WholesalePrice": 629.3
+    }
   },
   {
     "productTitle": "Tom Clancy's Ghost Recon® Breakpoint",
-    "productId": "9MVR1G75VX22"
+    "productId": "9MVR1G75VX22",
+    "releaseDate": "2025-05-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 599.8,
+      "MSRP": 2999,
+      "WholesalePrice": 419.86
+    }
   },
   {
     "productTitle": "Tom Clancy's Rainbow Six® Siege - Elite Edition",
-    "productId": "9NCZ8W65H33V"
+    "productId": "9NCZ8W65H33V",
+    "releaseDate": "2025-12-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 709.5,
+      "MSRP": 1419,
+      "WholesalePrice": 496.65
+    }
   },
   {
     "productTitle": "Tom Clancy's The Division",
-    "productId": "9NDJPHS21XXG"
+    "productId": "9NDJPHS21XXG",
+    "releaseDate": "2016-03-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Tom Clancy’s Ghost Recon Wildlands",
-    "productId": "9PJ1PLJQ7QPN"
+    "productId": "9PJ1PLJQ7QPN",
+    "releaseDate": "2025-05-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499.8,
+      "MSRP": 2499,
+      "WholesalePrice": 349.86
+    }
   },
   {
     "productTitle": "Tom Clancy’s Rainbow Six® Extraction",
-    "productId": "9NK1FQJ1SMCB"
+    "productId": "9NK1FQJ1SMCB",
+    "releaseDate": "2022-01-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1999,
+      "MSRP": 1999,
+      "WholesalePrice": 1399.3
+    }
   },
   {
     "productTitle": "Tom Clancy’s The Division 2",
-    "productId": "9NRXKRVCGRNM"
+    "productId": "9NRXKRVCGRNM",
+    "releaseDate": "2025-05-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 524.75,
+      "MSRP": 2099,
+      "WholesalePrice": 367.32
+    }
   },
   {
     "productTitle": "Tomb Raider: Definitive Edition",
-    "productId": "BQXTS0SX4W0N"
+    "productId": "BQXTS0SX4W0N",
+    "releaseDate": "2014-09-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 224.85,
+      "MSRP": 1499,
+      "WholesalePrice": 133.38
+    }
   },
   {
     "productTitle": "Tony Hawk's™ Pro Skater™ 3 + 4 - Cross-Gen Edition",
-    "productId": "9N926481VT1Z"
+    "productId": "9N926481VT1Z",
+    "releaseDate": "2025-07-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4499,
+      "MSRP": 4499,
+      "WholesalePrice": 3149.31
+    }
   },
   {
     "productTitle": "Torment: Tides of Numenera",
-    "productId": "9NC0071DJ6XC"
+    "productId": "9NC0071DJ6XC",
+    "releaseDate": "2019-06-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499.75,
+      "MSRP": 1999,
+      "WholesalePrice": 296.46
+    }
   },
   {
     "productTitle": "Total Chaos",
-    "productId": "9PHTX5QZ035T"
+    "productId": "9PHTX5QZ035T",
+    "releaseDate": "2025-11-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1869,
+      "MSRP": 1869,
+      "WholesalePrice": 1308.31
+    }
   },
   {
     "productTitle": "Totally Accurate Battle Simulator",
-    "productId": "9PC4RWP34M2D"
+    "productId": "9PC4RWP34M2D",
+    "releaseDate": "2019-12-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 454.65,
+      "MSRP": 1299,
+      "WholesalePrice": 269.7
+    }
   },
   {
     "productTitle": "Totally Reliable Delivery Service",
-    "productId": "9NZG72SH3H4W"
+    "productId": "9NZG72SH3H4W",
+    "releaseDate": "2020-04-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 824,
+      "MSRP": 824,
+      "WholesalePrice": 576.8
+    }
   },
   {
     "productTitle": "Towerborne",
-    "productId": "9P7TLX79S7N7"
+    "productId": "9P7TLX79S7N7",
+    "releaseDate": "2025-04-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1120,
+      "MSRP": 1600,
+      "WholesalePrice": 664.41
+    }
   },
   {
     "productTitle": "Trackmania Turbo",
-    "productId": "9N2SB04LKPFP"
+    "productId": "9N2SB04LKPFP",
+    "releaseDate": "2016-03-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Trailmakers",
-    "productId": "9NSFGM8J6MBJ"
+    "productId": "9NSFGM8J6MBJ",
+    "releaseDate": "2019-09-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1974,
+      "MSRP": 1974,
+      "WholesalePrice": 1171.02
+    }
   },
   {
     "productTitle": "Train Sim World® 5: Standard Edition",
-    "productId": "9N9FR8CSZP56"
+    "productId": "9N9FR8CSZP56",
+    "releaseDate": "2024-09-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2749,
+      "MSRP": 2749,
+      "WholesalePrice": 1924.3
+    }
   },
   {
     "productTitle": "Trepang2",
-    "productId": "9NCDMPCPDTQF"
+    "productId": "9NCDMPCPDTQF",
+    "releaseDate": "2023-10-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 791.67,
+      "MSRP": 2399,
+      "WholesalePrice": 554.16
+    }
   },
   {
     "productTitle": "Trials Fusion",
-    "productId": "9P1VK0ZCQGND"
+    "productId": "9P1VK0ZCQGND",
+    "releaseDate": "2025-10-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "TRIALS of MANA",
-    "productId": "9NHMR19TS1M0"
+    "productId": "9NHMR19TS1M0",
+    "releaseDate": "2024-09-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 899.7,
+      "MSRP": 2999,
+      "WholesalePrice": 533.72
+    }
   },
   {
     "productTitle": "TRIALS OF THE BLOOD DRAGON",
-    "productId": "9PG0ZSTFBL1T"
+    "productId": "9PG0ZSTFBL1T",
+    "releaseDate": "2016-06-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Trials Rising",
-    "productId": "9N3F9256SF8K"
+    "productId": "9N3F9256SF8K",
+    "releaseDate": "2019-02-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "TUNIC",
-    "productId": "9NLRT31Z4RWM"
+    "productId": "9NLRT31Z4RWM",
+    "releaseDate": "2022-03-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1974,
+      "MSRP": 1974,
+      "WholesalePrice": 1171.02
+    }
   },
   {
     "productTitle": "Ultimate Chicken Horse",
-    "productId": "BNNMLWZRNQF6"
+    "productId": "BNNMLWZRNQF6",
+    "releaseDate": "2017-12-15",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 690,
+      "MSRP": 690,
+      "WholesalePrice": 409.33
+    }
   },
   {
     "productTitle": "Ultimate Sheep Raccoon",
-    "productId": "9P1H8K2V0NNP"
+    "productId": "9P1H8K2V0NNP",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "UNO®",
-    "productId": "9NWS5S7ZGD9T"
+    "productId": "9NWS5S7ZGD9T",
+    "releaseDate": "2016-08-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Unpacking",
-    "productId": "9NH5HN11FG4M"
+    "productId": "9NH5HN11FG4M",
+    "releaseDate": "2021-11-02",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099,
+      "MSRP": 1099,
+      "WholesalePrice": 769.3
+    }
   },
   {
     "productTitle": "Valiant Hearts: The Great War",
-    "productId": "9N9GCWL14F1N"
+    "productId": "9N9GCWL14F1N",
+    "releaseDate": "2025-10-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "VALORANT PC",
-    "productId": "9NKCCHCFTHV2"
+    "productId": "9NKCCHCFTHV2",
+    "releaseDate": "2022-12-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
-    "productId": "9NMPVJ7TCFD0"
+    "productId": "9NMPVJ7TCFD0",
+    "releaseDate": "2026-04-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499,
+      "MSRP": 499,
+      "WholesalePrice": 349.31
+    }
   },
   {
     "productTitle": "Vampire Survivors",
-    "productId": "9PD5BM2Z8C4L"
+    "productId": "9PD5BM2Z8C4L",
+    "releaseDate": "2022-10-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 249,
+      "MSRP": 249,
+      "WholesalePrice": 174.3
+    }
   },
   {
     "productTitle": "Visions of Mana",
-    "productId": "9NJ5WV40PD08"
+    "productId": "9NJ5WV40PD08",
+    "releaseDate": "2024-09-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1599.6,
+      "MSRP": 3999,
+      "WholesalePrice": 948.91
+    }
   },
   {
     "productTitle": "VOID/BREAKER (Game Preview)",
-    "productId": "9N9K5QP9G3GL"
+    "productId": "9N9K5QP9G3GL",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 875,
+      "MSRP": 875,
+      "WholesalePrice": 612.51
+    }
   },
   {
     "productTitle": "Voidtrain",
-    "productId": "9NQMVR9WL9FW"
+    "productId": "9NQMVR9WL9FW",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1184.4,
+      "MSRP": 1974,
+      "WholesalePrice": 702.61
+    }
   },
   {
     "productTitle": "Volcano Princess",
-    "productId": "9PLNGNZVB1ZP"
+    "productId": "9PLNGNZVB1ZP",
+    "releaseDate": "2025-06-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 599,
+      "MSRP": 599,
+      "WholesalePrice": 419.3
+    }
   },
   {
     "productTitle": "War Thunder",
-    "productId": "BX1DTCBD1HXJ"
+    "productId": "BX1DTCBD1HXJ",
+    "releaseDate": "2018-10-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "Warcraft® I: Remastered",
-    "productId": "9PK7TLLPD7GV"
+    "productId": "9PK7TLLPD7GV",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Warcraft® II: Remastered",
-    "productId": "9NM7J25GMDHP"
+    "productId": "9NM7J25GMDHP",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Warcraft® III: Reforged",
-    "productId": "9NWB9PL1L2PQ"
+    "productId": "9NWB9PL1L2PQ",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Warhammer 40,000: Darktide",
-    "productId": "9NT3WC6RKBVQ"
+    "productId": "9NT3WC6RKBVQ",
+    "releaseDate": "2023-10-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2199,
+      "MSRP": 2199,
+      "WholesalePrice": 1539.3
+    }
   },
   {
     "productTitle": "Warhammer 40,000: Rogue Trader",
-    "productId": "9P30BFHZ1BKN"
+    "productId": "9P30BFHZ1BKN",
+    "releaseDate": "2023-12-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2049,
+      "MSRP": 2049,
+      "WholesalePrice": 1434.3
+    }
   },
   {
     "productTitle": "Warhammer 40,000: Space Marine - Master Crafted Edition",
-    "productId": "9NDS24HS4N02"
+    "productId": "9NDS24HS4N02",
+    "releaseDate": "2025-06-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3199,
+      "MSRP": 3199,
+      "WholesalePrice": 1897.72
+    }
   },
   {
     "productTitle": "Warhammer 40,000: Space Marine 2",
-    "productId": "9N9PCZWHVP2L"
+    "productId": "9N9PCZWHVP2L",
+    "releaseDate": "2024-09-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4799,
+      "MSRP": 4799,
+      "WholesalePrice": 3359.3
+    }
   },
   {
     "productTitle": "Wartales",
-    "productId": "9NWQ686JB33G"
+    "productId": "9NWQ686JB33G",
+    "releaseDate": "2023-10-31",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2174,
+      "MSRP": 2174,
+      "WholesalePrice": 1521.8
+    }
   },
   {
     "productTitle": "Wasteland 2: Director's Cut",
-    "productId": "C521HDXRTS7F"
+    "productId": "C521HDXRTS7F",
+    "releaseDate": "2015-10-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 174.75,
+      "MSRP": 699,
+      "WholesalePrice": 122.32
+    }
   },
   {
     "productTitle": "Wasteland 3 (PC)",
-    "productId": "9NLT5XR52ZS7"
+    "productId": "9NLT5XR52ZS7",
+    "releaseDate": "2020-08-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 749.7,
+      "MSRP": 2499,
+      "WholesalePrice": 524.79
+    }
   },
   {
     "productTitle": "Wasteland Remastered",
-    "productId": "9NGH1FK0RJGL"
+    "productId": "9NGH1FK0RJGL",
+    "releaseDate": "2020-02-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 113.5,
+      "MSRP": 454,
+      "WholesalePrice": 67.33
+    }
   },
   {
     "productTitle": "Watch Dogs®: Legion",
-    "productId": "9NW7G97J9S6X"
+    "productId": "9NW7G97J9S6X",
+    "releaseDate": "2020-10-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 449.85,
+      "MSRP": 2999,
+      "WholesalePrice": 314.89
+    }
   },
   {
     "productTitle": "Watch Dogs®2",
-    "productId": "9PCKZH7M40CK"
+    "productId": "9PCKZH7M40CK",
+    "releaseDate": "2025-05-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 449.85,
+      "MSRP": 2999,
+      "WholesalePrice": 314.89
+    }
   },
   {
     "productTitle": "WATCH_DOGS",
-    "productId": "9P76M1N37K6K"
+    "productId": "9P76M1N37K6K",
+    "releaseDate": "2014-05-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "We Happy Few",
-    "productId": "9NBLGGH5342P"
+    "productId": "9NBLGGH5342P",
+    "releaseDate": "2018-08-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3990,
+      "MSRP": 3990,
+      "WholesalePrice": 2793
+    }
   },
   {
     "productTitle": "Wheel World",
-    "productId": "9NGCFDHR2MV3"
+    "productId": "9NGCFDHR2MV3",
+    "releaseDate": "2025-07-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 899,
+      "MSRP": 899,
+      "WholesalePrice": 629.3
+    }
   },
   {
     "productTitle": "Whiskerwood (Game Preview)",
-    "productId": "9NM2T0DMP4XV"
+    "productId": "9NM2T0DMP4XV",
+    "releaseDate": "2025-11-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999,
+      "MSRP": 999,
+      "WholesalePrice": 699.31
+    }
   },
   {
     "productTitle": "Wildgate",
-    "productId": "9N6VS1BMZ3BW"
+    "productId": "9N6VS1BMZ3BW",
+    "releaseDate": "2025-07-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1299,
+      "MSRP": 1299,
+      "WholesalePrice": 909.3
+    }
   },
   {
     "productTitle": "Winter Burrow",
-    "productId": "9ND3HTTQ0GKB"
+    "productId": "9ND3HTTQ0GKB",
+    "releaseDate": "2025-11-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
+    }
   },
   {
     "productTitle": "Wobbly Life",
-    "productId": "9NS86BQ33SPX"
+    "productId": "9NS86BQ33SPX",
+    "releaseDate": "2021-07-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1171.8,
+      "MSRP": 1674,
+      "WholesalePrice": 695.13
+    }
   },
   {
     "productTitle": "Wolfenstein 3D",
-    "productId": "9P7Z1D3N8KR7"
+    "productId": "9P7Z1D3N8KR7",
+    "releaseDate": "2022-08-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 229,
+      "MSRP": 229,
+      "WholesalePrice": 160.3
+    }
   },
   {
     "productTitle": "Wolfenstein II: Standard Edition",
-    "productId": "9NDBKK9G0FHL"
+    "productId": "9NDBKK9G0FHL",
+    "releaseDate": "2019-06-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 299.85,
+      "MSRP": 1999,
+      "WholesalePrice": 209.89
+    }
   },
   {
     "productTitle": "Wolfenstein: The New Order (PC)",
-    "productId": "9P75CBJ9WT9W"
+    "productId": "9P75CBJ9WT9W",
+    "releaseDate": "2021-03-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 293.5,
+      "MSRP": 1174,
+      "WholesalePrice": 205.45
+    }
   },
   {
     "productTitle": "Wolfenstein: The Old Blood (PC)",
-    "productId": "9PBB4QHMSDKR"
+    "productId": "9PBB4QHMSDKR",
+    "releaseDate": "2021-03-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 141.25,
+      "MSRP": 565,
+      "WholesalePrice": 98.87
+    }
   },
   {
     "productTitle": "Wolfenstein: Youngblood (PC)",
-    "productId": "9PHFTS44F99K"
+    "productId": "9PHFTS44F99K",
+    "releaseDate": "2020-02-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 249.75,
+      "MSRP": 999,
+      "WholesalePrice": 174.82
+    }
   },
   {
     "productTitle": "World of Tanks: HEAT",
-    "productId": "9N11JM7F5CXK"
+    "productId": "9N11JM7F5CXK",
+    "releaseDate": "2026-05-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "World of Warships",
-    "productId": "9NK9K07FDPJV"
+    "productId": "9NK9K07FDPJV",
+    "releaseDate": "2017-11-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "World of Warships: Legends",
-    "productId": "C1ZT6N30L1WH"
+    "productId": "C1ZT6N30L1WH",
+    "releaseDate": "2019-08-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "World War Z: Aftermath",
-    "productId": "9PBF1FL7K192"
+    "productId": "9PBF1FL7K192",
+    "releaseDate": "2021-09-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1087,
+      "MSRP": 2174,
+      "WholesalePrice": 760.9
+    }
   },
   {
     "productTitle": "Wreckfest",
-    "productId": "9NG06CSMM97P"
+    "productId": "9NG06CSMM97P",
+    "releaseDate": "2021-02-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 402.15,
+      "MSRP": 1149,
+      "WholesalePrice": 281.5
+    }
   },
   {
     "productTitle": "WUCHANG: Fallen Feathers",
-    "productId": "9N6WN0ZHZQ6W"
+    "productId": "9N6WN0ZHZQ6W",
+    "releaseDate": "2025-07-24",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2999,
+      "MSRP": 2999,
+      "WholesalePrice": 2099.31
+    }
   },
   {
     "productTitle": "Young Suns (Game Preview)",
-    "productId": "9N3KQH8183GD"
+    "productId": "9N3KQH8183GD",
+    "releaseDate": "2025-11-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 899,
+      "MSRP": 899,
+      "WholesalePrice": 629.31
+    }
   },
   {
     "productTitle": "Zenless Zone Zero",
-    "productId": "9N4X0WFZ2STM"
+    "productId": "9N4X0WFZ2STM",
+    "releaseDate": "2025-06-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
   },
   {
     "productTitle": "ZOMBI",
-    "productId": "9NLZH0VNVSKR"
+    "productId": "9NLZH0VNVSKR",
+    "releaseDate": "2015-08-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Zombie Army 4: Dead War",
-    "productId": "9PLSCHRN5715"
+    "productId": "9PLSCHRN5715",
+    "releaseDate": "2020-02-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2724,
+      "MSRP": 2724,
+      "WholesalePrice": 1906.8
+    }
   },
   {
     "productTitle": "Zoo Tycoon: Ultimate Animal Collection",
-    "productId": "9PJ06TZX4NMH"
+    "productId": "9PJ06TZX4NMH",
+    "releaseDate": "2017-10-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 329.7,
+      "MSRP": 1099,
+      "WholesalePrice": 195.58
+    }
   }
 ]

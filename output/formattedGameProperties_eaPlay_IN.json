@@ -1,362 +1,992 @@
 [
   {
     "productTitle": "NHL 26 Xbox Series X|S",
-    "productId": "9PC1KTWW5PB5"
+    "productId": "9PC1KTWW5PB5",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "F1® 25",
-    "productId": "9NWPW7F19FS5"
+    "productId": "9NWPW7F19FS5",
+    "releaseDate": "2025-05-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4999,
+      "MSRP": 4999,
+      "WholesalePrice": 3499.3
+    }
   },
   {
     "productTitle": "EA SPORTS™ College Football 26",
-    "productId": "9NLKS78C4F3Z"
+    "productId": "9NLKS78C4F3Z",
+    "releaseDate": "2025-07-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4999,
+      "MSRP": 4999,
+      "WholesalePrice": 3499.3
+    }
   },
   {
     "productTitle": "EA SPORTS™ Madden NFL 26",
-    "productId": "9NVD16NP4J8T"
+    "productId": "9NVD16NP4J8T",
+    "releaseDate": "2025-08-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4999,
+      "MSRP": 4999,
+      "WholesalePrice": 3499.31
+    }
   },
   {
     "productTitle": "Dragon Age™: The Veilguard",
-    "productId": "BSDX4FNNC0DK"
+    "productId": "BSDX4FNNC0DK",
+    "releaseDate": "2024-10-31",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1749.65,
+      "MSRP": 4999,
+      "WholesalePrice": 1224.75
+    }
   },
   {
     "productTitle": "EA SPORTS FC™ 25 Xbox One",
-    "productId": "9N436FQM30HX"
+    "productId": "9N436FQM30HX",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "EA SPORTS FC™ 25 Xbox Series X|S",
-    "productId": "9NNPSTWT06VM"
+    "productId": "9NNPSTWT06VM",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Tales of Kenzera™: ZAU",
-    "productId": "9NNNMBXFFG4W"
+    "productId": "9NNNMBXFFG4W",
+    "releaseDate": "2024-04-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 299.8,
+      "MSRP": 1499,
+      "WholesalePrice": 209.86
+    }
   },
   {
     "productTitle": "NHL 25 Xbox Series X|S",
-    "productId": "9PB3GGBSG27C"
+    "productId": "9PB3GGBSG27C",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "EA SPORTS™ College Football 25",
-    "productId": "9NSDM7MBGG8L"
+    "productId": "9NSDM7MBGG8L",
+    "releaseDate": "2024-07-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "F1® 24",
-    "productId": "9PLVVTDHS1P0"
+    "productId": "9PLVVTDHS1P0",
+    "releaseDate": "2024-05-31",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Madden NFL 25 Xbox Series X|S",
-    "productId": "9N0FWWQ94X62"
+    "productId": "9N0FWWQ94X62",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Madden NFL 25 Xbox One",
-    "productId": "9NL9QN69HCL7"
+    "productId": "9NL9QN69HCL7",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "STAR WARS Jedi: Survivor™ Xbox One",
-    "productId": "9PLRP6PHV6XP"
+    "productId": "9PLRP6PHV6XP",
+    "releaseDate": "2024-09-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999.75,
+      "MSRP": 3999,
+      "WholesalePrice": 699.82
+    }
   },
   {
     "productTitle": "UFC® 5",
-    "productId": "9NH8K4B707H0"
+    "productId": "9NH8K4B707H0",
+    "releaseDate": "2023-10-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4499,
+      "MSRP": 4499,
+      "WholesalePrice": 3149.3
+    }
   },
   {
     "productTitle": "EA SPORTS™ WRC",
-    "productId": "9N9PDJ7Z8S2R"
+    "productId": "9N9PDJ7Z8S2R",
+    "releaseDate": "2023-11-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "EA SPORTS FC™ 24 Xbox Series X|S",
-    "productId": "9NN6QW1NPCKN"
+    "productId": "9NN6QW1NPCKN",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "EA SPORTS FC™ 24 Xbox One",
-    "productId": "9P5H37NXML9D"
+    "productId": "9P5H37NXML9D",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Immortals of Aveum™",
-    "productId": "9NSD4HTWM8HT"
+    "productId": "9NSD4HTWM8HT",
+    "releaseDate": "2023-08-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 449.9,
+      "MSRP": 4499,
+      "WholesalePrice": 314.93
+    }
   },
   {
     "productTitle": "STAR WARS Jedi: Survivor™",
-    "productId": "9PGC82V0DXFS"
+    "productId": "9PGC82V0DXFS",
+    "releaseDate": "2023-04-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 674.85,
+      "MSRP": 4499,
+      "WholesalePrice": 472.39
+    }
   },
   {
     "productTitle": "EA SPORTS™ PGA TOUR™",
-    "productId": "9P822XLW9PB8"
+    "productId": "9P822XLW9PB8",
+    "releaseDate": "2023-04-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 449.9,
+      "MSRP": 4499,
+      "WholesalePrice": 314.93
+    }
   },
   {
     "productTitle": "Super Mega Baseball™ 4",
-    "productId": "9N93V5M3TG4N"
+    "productId": "9N93V5M3TG4N",
+    "releaseDate": "2023-06-02",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 349.9,
+      "MSRP": 3499,
+      "WholesalePrice": 244.93
+    }
   },
   {
     "productTitle": "WILD HEARTS™ Standard Edition",
-    "productId": "9NTFPTBXDDT3"
+    "productId": "9NTFPTBXDDT3",
+    "releaseDate": "2023-02-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 449.9,
+      "MSRP": 4499,
+      "WholesalePrice": 314.93
+    }
   },
   {
     "productTitle": "Dead Space",
-    "productId": "9NLB6V0GNC9P"
+    "productId": "9NLB6V0GNC9P",
+    "releaseDate": "2023-01-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1124.75,
+      "MSRP": 4499,
+      "WholesalePrice": 787.32
+    }
   },
   {
     "productTitle": "Need for Speed™ Unbound",
-    "productId": "9PP837L3Q75D"
+    "productId": "9PP837L3Q75D",
+    "releaseDate": "2022-12-02",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 674.85,
+      "MSRP": 4499,
+      "WholesalePrice": 472.39
+    }
   },
   {
     "productTitle": "Battlefield™ 2042 Xbox Series X|S",
-    "productId": "9P0T51BDDWVT"
+    "productId": "9P0T51BDDWVT",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Battlefield™ 2042 Xbox One",
-    "productId": "9PD5BFNZ4V7K"
+    "productId": "9PD5BFNZ4V7K",
+    "releaseDate": "2021-11-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 199.95,
+      "MSRP": 3999,
+      "WholesalePrice": 139.96
+    }
   },
   {
     "productTitle": "The Sims™ 4 EA Play Edition",
-    "productId": "9PLFD17M47K3"
+    "productId": "9PLFD17M47K3",
+    "releaseDate": "2022-10-18",
+    "pricing": {
+      "currencyCode": "USD",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "GRID Legends",
-    "productId": "9NCT9L7NFHX7"
+    "productId": "9NCT9L7NFHX7",
+    "releaseDate": "2022-02-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1199.7,
+      "MSRP": 3999,
+      "WholesalePrice": 839.79
+    }
   },
   {
     "productTitle": "Lost in Random™",
-    "productId": "9NVRJS95FLM9"
+    "productId": "9NVRJS95FLM9",
+    "releaseDate": "2021-09-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 398,
+      "MSRP": 1990,
+      "WholesalePrice": 278.6
+    }
   },
   {
     "productTitle": "Super Mega Baseball 3",
-    "productId": "9NP6V9LFVJ87"
+    "productId": "9NP6V9LFVJ87",
+    "releaseDate": "2020-05-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2449,
+      "MSRP": 2449,
+      "WholesalePrice": 1714.3
+    }
   },
   {
     "productTitle": "Mass Effect™ Legendary Edition",
-    "productId": "9PKWHT7G60WQ"
+    "productId": "9PKWHT7G60WQ",
+    "releaseDate": "2021-05-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 798,
+      "MSRP": 3990,
+      "WholesalePrice": 558.6
+    }
   },
   {
     "productTitle": "It Takes Two - Digital Version",
-    "productId": "9NXVC0482QS5"
+    "productId": "9NXVC0482QS5",
+    "releaseDate": "2021-03-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 875,
+      "MSRP": 2500,
+      "WholesalePrice": 612.5
+    }
   },
   {
     "productTitle": "DIRT 5",
-    "productId": "9PJGM0T0827V"
+    "productId": "9PJGM0T0827V",
+    "releaseDate": "2020-11-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1139.7,
+      "MSRP": 3799,
+      "WholesalePrice": 797.79
+    }
   },
   {
     "productTitle": "DiRT Rally 2.0",
-    "productId": "BRPGP6H8P26F"
+    "productId": "BRPGP6H8P26F",
+    "releaseDate": "2019-02-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1624,
+      "MSRP": 1624,
+      "WholesalePrice": 1136.8
+    }
   },
   {
     "productTitle": "UFC® 4",
-    "productId": "BPBV3PCB0X44"
+    "productId": "BPBV3PCB0X44",
+    "releaseDate": "2020-08-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3990,
+      "MSRP": 3990,
+      "WholesalePrice": 2793
+    }
   },
   {
     "productTitle": "Need for Speed™ Hot Pursuit Remastered",
-    "productId": "9NMBJQ0265ZK"
+    "productId": "9NMBJQ0265ZK",
+    "releaseDate": "2020-11-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 500,
+      "MSRP": 2500,
+      "WholesalePrice": 350
+    }
   },
   {
     "productTitle": "Battlefield™ 1 Revolution",
-    "productId": "BPL68T0XK96W"
+    "productId": "BPL68T0XK96W",
+    "releaseDate": "2017-08-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 125,
+      "MSRP": 2500,
+      "WholesalePrice": 87.5
+    }
   },
   {
     "productTitle": "STAR WARS™: Squadrons",
-    "productId": "BV9CWVQWNS4P"
+    "productId": "BV9CWVQWNS4P",
+    "releaseDate": "2020-10-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 250,
+      "MSRP": 2500,
+      "WholesalePrice": 175
+    }
   },
   {
     "productTitle": "NHL™ 94 REWIND",
-    "productId": "9PDGC1Z6ZHTP"
+    "productId": "9PDGC1Z6ZHTP",
+    "releaseDate": "2021-11-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 850,
+      "MSRP": 850,
+      "WholesalePrice": 595
+    }
   },
   {
     "productTitle": "STAR WARS Jedi: Fallen Order™",
-    "productId": "C2CSDTSCBZ0C"
+    "productId": "C2CSDTSCBZ0C",
+    "releaseDate": "2019-11-15",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 698,
+      "MSRP": 3490,
+      "WholesalePrice": 488.6
+    }
   },
   {
     "productTitle": "Need for Speed™ Heat",
-    "productId": "BRZZLBF5T245"
+    "productId": "BRZZLBF5T245",
+    "releaseDate": "2019-11-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 399,
+      "MSRP": 3990,
+      "WholesalePrice": 279.3
+    }
   },
   {
     "productTitle": "Skate 3",
-    "productId": "BNKDKQXMXRR2"
+    "productId": "BNKDKQXMXRR2",
+    "releaseDate": "2014-09-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999,
+      "MSRP": 999,
+      "WholesalePrice": 699.3
+    }
   },
   {
     "productTitle": "Titanfall™ 2",
-    "productId": "C0X2HNVH08FB"
+    "productId": "C0X2HNVH08FB",
+    "releaseDate": "2016-10-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 300,
+      "MSRP": 1500,
+      "WholesalePrice": 210
+    }
   },
   {
     "productTitle": "Battlefield™ V",
-    "productId": "BZ2N7TQ0XCF2"
+    "productId": "BZ2N7TQ0XCF2",
+    "releaseDate": "2018-11-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "A Way Out",
-    "productId": "BWVBNCMF22ZK"
+    "productId": "BWVBNCMF22ZK",
+    "releaseDate": "2018-03-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 597,
+      "MSRP": 1990,
+      "WholesalePrice": 417.9
+    }
   },
   {
     "productTitle": "Peggle 2",
-    "productId": "BNCZHKWRZ7BR"
+    "productId": "BNCZHKWRZ7BR",
+    "releaseDate": "2014-09-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 832,
+      "MSRP": 832,
+      "WholesalePrice": 582.4
+    }
   },
   {
     "productTitle": "Crysis® 3",
-    "productId": "BNKKJL1VRR5P"
+    "productId": "BNKKJL1VRR5P",
+    "releaseDate": "2013-05-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Crysis",
-    "productId": "BNN7BPDZ6GQB"
+    "productId": "BNN7BPDZ6GQB",
+    "releaseDate": "2011-10-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1500,
+      "MSRP": 1500,
+      "WholesalePrice": 1050
+    }
   },
   {
     "productTitle": "Plants vs. Zombies™ Garden Warfare 2",
-    "productId": "BNRH7BRC1D02"
+    "productId": "BNRH7BRC1D02",
+    "releaseDate": "2016-02-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 450,
+      "MSRP": 1500,
+      "WholesalePrice": 315
+    }
   },
   {
     "productTitle": "Battlefield 4",
-    "productId": "BP15SF17LH13"
+    "productId": "BP15SF17LH13",
+    "releaseDate": "2014-09-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 75,
+      "MSRP": 1500,
+      "WholesalePrice": 52.5
+    }
   },
   {
     "productTitle": "Dead Space™ 3",
-    "productId": "BP73LMGB1DFD"
+    "productId": "BP73LMGB1DFD",
+    "releaseDate": "2013-02-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1500,
+      "MSRP": 1500,
+      "WholesalePrice": 1050
+    }
   },
   {
     "productTitle": "Mirror's Edge™",
-    "productId": "BP96WRTVD7C1"
+    "productId": "BP96WRTVD7C1",
+    "releaseDate": "2010-06-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 940,
+      "MSRP": 940,
+      "WholesalePrice": 658
+    }
   },
   {
     "productTitle": "Feeding Frenzy 2",
-    "productId": "BQ192SFB694X"
+    "productId": "BQ192SFB694X",
+    "releaseDate": "2008-09-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 450,
+      "MSRP": 450,
+      "WholesalePrice": 315
+    }
   },
   {
     "productTitle": "Crysis 2",
-    "productId": "BQBTGDT4P54J"
+    "productId": "BQBTGDT4P54J",
+    "releaseDate": "2011-03-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1500,
+      "MSRP": 1500,
+      "WholesalePrice": 1050
+    }
   },
   {
     "productTitle": "FIGHT NIGHT CHAMPION",
-    "productId": "BQG162F04T2L"
+    "productId": "BQG162F04T2L",
+    "releaseDate": "2011-11-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 300,
+      "MSRP": 1500,
+      "WholesalePrice": 210
+    }
   },
   {
     "productTitle": "Burnout™ Paradise Remastered",
-    "productId": "BQMQ3K1BLV1T"
+    "productId": "BQMQ3K1BLV1T",
+    "releaseDate": "2018-03-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 375,
+      "MSRP": 1500,
+      "WholesalePrice": 262.5
+    }
   },
   {
     "productTitle": "Plants vs. Zombies",
-    "productId": "BR1D9CR82ZM8"
+    "productId": "BR1D9CR82ZM8",
+    "releaseDate": "2010-07-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 700,
+      "MSRP": 700,
+      "WholesalePrice": 490
+    }
   },
   {
     "productTitle": "Bejeweled 3",
-    "productId": "BR7QJW8V9L2S"
+    "productId": "BR7QJW8V9L2S",
+    "releaseDate": "2011-10-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 700,
+      "MSRP": 700,
+      "WholesalePrice": 490
+    }
   },
   {
     "productTitle": "Zuma's Revenge!",
-    "productId": "BR9MPWXFBCRC"
+    "productId": "BR9MPWXFBCRC",
+    "releaseDate": "2012-07-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 450,
+      "MSRP": 450,
+      "WholesalePrice": 315
+    }
   },
   {
     "productTitle": "Dead Space (2008)",
-    "productId": "BRJLJ6RPLQTJ"
+    "productId": "BRJLJ6RPLQTJ",
+    "releaseDate": "2010-08-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 940,
+      "MSRP": 940,
+      "WholesalePrice": 658
+    }
   },
   {
     "productTitle": "Battlefield 3™",
-    "productId": "BRN6BHDHB58J"
+    "productId": "BRN6BHDHB58J",
+    "releaseDate": "2011-11-01",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "STAR WARS™ Battlefront™",
-    "productId": "BRXTM276DLPR"
+    "productId": "BRXTM276DLPR",
+    "releaseDate": "2015-11-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Dragon Age: Origins",
-    "productId": "BS9SX4Q6XJRF"
+    "productId": "BS9SX4Q6XJRF",
+    "releaseDate": "2010-08-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 940,
+      "MSRP": 940,
+      "WholesalePrice": 658
+    }
   },
   {
     "productTitle": "Peggle",
-    "productId": "BSCCQL7DZ9KD"
+    "productId": "BSCCQL7DZ9KD",
+    "releaseDate": "2009-03-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 450,
+      "MSRP": 450,
+      "WholesalePrice": 315
+    }
   },
   {
     "productTitle": "Alice: Madness Returns",
-    "productId": "BSNZHRCKC13J"
+    "productId": "BSNZHRCKC13J",
+    "releaseDate": "2011-12-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1120,
+      "MSRP": 1120,
+      "WholesalePrice": 784
+    }
   },
   {
     "productTitle": "BLACK™",
-    "productId": "BTCS0LP052HL"
+    "productId": "BTCS0LP052HL",
+    "releaseDate": "2008-04-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499,
+      "MSRP": 499,
+      "WholesalePrice": 349.3
+    }
   },
   {
     "productTitle": "Plants vs. Zombies Garden Warfare",
-    "productId": "BTJ0T8C04ZBV"
+    "productId": "BTJ0T8C04ZBV",
+    "releaseDate": "2014-09-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 450,
+      "MSRP": 1500,
+      "WholesalePrice": 315
+    }
   },
   {
     "productTitle": "SSX",
-    "productId": "BWK0Q0RQMH7V"
+    "productId": "BWK0Q0RQMH7V",
+    "releaseDate": "2012-09-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1900,
+      "MSRP": 1900,
+      "WholesalePrice": 1330
+    }
   },
   {
     "productTitle": "Need for Speed™",
-    "productId": "BXWJNW4170RM"
+    "productId": "BXWJNW4170RM",
+    "releaseDate": "2015-11-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 450,
+      "MSRP": 1500,
+      "WholesalePrice": 315
+    }
   },
   {
     "productTitle": "Heavy Weapon",
-    "productId": "BZ910SG8ML8X"
+    "productId": "BZ910SG8ML8X",
+    "releaseDate": "2007-01-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 940,
+      "MSRP": 940,
+      "WholesalePrice": 658
+    }
   },
   {
     "productTitle": "Battlefield™ Hardline",
-    "productId": "BZKZFMQG2K2K"
+    "productId": "BZKZFMQG2K2K",
+    "releaseDate": "2015-03-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Mass Effect™: Andromeda",
-    "productId": "BZPR04V49BMH"
+    "productId": "BZPR04V49BMH",
+    "releaseDate": "2017-03-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
   },
   {
     "productTitle": "Fe",
-    "productId": "BZW2R4STVDNK"
+    "productId": "BZW2R4STVDNK",
+    "releaseDate": "2018-02-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1500,
+      "MSRP": 1500,
+      "WholesalePrice": 1050
+    }
   },
   {
     "productTitle": "Mass Effect™ 3",
-    "productId": "C040H652PD98"
+    "productId": "C040H652PD98",
+    "releaseDate": "2012-03-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1500,
+      "MSRP": 1500,
+      "WholesalePrice": 1050
+    }
   },
   {
     "productTitle": "STAR WARS™ Battlefront™ II",
-    "productId": "C0GWTPD0S8S1"
+    "productId": "C0GWTPD0S8S1",
+    "releaseDate": "2017-11-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 375,
+      "MSRP": 1500,
+      "WholesalePrice": 262.5
+    }
   },
   {
     "productTitle": "Dante's Inferno™",
-    "productId": "C0X6N5963CTW"
+    "productId": "C0X6N5963CTW",
+    "releaseDate": "2010-04-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 940,
+      "MSRP": 940,
+      "WholesalePrice": 658
+    }
   },
   {
     "productTitle": "Mass Effect 2",
-    "productId": "C0Z1N477W100"
+    "productId": "C0Z1N477W100",
+    "releaseDate": "2010-01-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1524,
+      "MSRP": 1524,
+      "WholesalePrice": 1066.8
+    }
   },
   {
     "productTitle": "Unravel",
-    "productId": "C11KKHB5H7QJ"
+    "productId": "C11KKHB5H7QJ",
+    "releaseDate": "2016-02-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1500,
+      "MSRP": 1500,
+      "WholesalePrice": 1050
+    }
   },
   {
     "productTitle": "Dead Space™ 2",
-    "productId": "C2PB7STLJGS0"
+    "productId": "C2PB7STLJGS0",
+    "releaseDate": "2011-01-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1500,
+      "MSRP": 1500,
+      "WholesalePrice": 1050
+    }
   },
   {
     "productTitle": "Need for Speed™ Payback",
-    "productId": "C355T88BBX1S"
+    "productId": "C355T88BBX1S",
+    "releaseDate": "2017-11-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 398,
+      "MSRP": 1990,
+      "WholesalePrice": 278.6
+    }
   },
   {
     "productTitle": "Need for Speed™ Rivals",
-    "productId": "C3VM0TMWNZ5M"
+    "productId": "C3VM0TMWNZ5M",
+    "releaseDate": "2014-09-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 450,
+      "MSRP": 1500,
+      "WholesalePrice": 315
+    }
   },
   {
     "productTitle": "Sea of Solitude",
-    "productId": "C4060P46HH4D"
+    "productId": "C4060P46HH4D",
+    "releaseDate": "2019-07-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1500,
+      "MSRP": 1500,
+      "WholesalePrice": 1050
+    }
   },
   {
     "productTitle": "Medal of Honor Airborne",
-    "productId": "C43H00X6KZRJ"
+    "productId": "C43H00X6KZRJ",
+    "releaseDate": "2010-05-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1500,
+      "MSRP": 1500,
+      "WholesalePrice": 1050
+    }
   },
   {
     "productTitle": "Mirror's Edge™ Catalyst",
-    "productId": "C48LBRJJCP2L"
+    "productId": "C48LBRJJCP2L",
+    "releaseDate": "2016-06-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 300,
+      "MSRP": 1500,
+      "WholesalePrice": 210
+    }
   },
   {
     "productTitle": "Dragon Age™ 2",
-    "productId": "C4G76555T4QN"
+    "productId": "C4G76555T4QN",
+    "releaseDate": "2011-03-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1120,
+      "MSRP": 1120,
+      "WholesalePrice": 784
+    }
   },
   {
     "productTitle": "Dead Space™ Ignition",
-    "productId": "C4GQQJJSZSZJ"
+    "productId": "C4GQQJJSZSZJ",
+    "releaseDate": "2010-10-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 225,
+      "MSRP": 225,
+      "WholesalePrice": 157.5
+    }
   },
   {
     "productTitle": "Plants vs. Zombies: Battle for Neighborville™",
-    "productId": "C4HZC7LJG6PX"
+    "productId": "C4HZC7LJG6PX",
+    "releaseDate": "2019-10-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 639.6,
+      "MSRP": 1599,
+      "WholesalePrice": 447.72
+    }
   },
   {
     "productTitle": "Zuma",
-    "productId": "C4SG06H48738"
+    "productId": "C4SG06H48738",
+    "releaseDate": "2005-10-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 225,
+      "MSRP": 225,
+      "WholesalePrice": 157.5
+    }
   },
   {
     "productTitle": "Unravel Two",
-    "productId": "C4VKLMG1HLZW"
+    "productId": "C4VKLMG1HLZW",
+    "releaseDate": "2018-06-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 375,
+      "MSRP": 1500,
+      "WholesalePrice": 262.5
+    }
   }
 ]
