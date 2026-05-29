@@ -36,7 +36,7 @@
 			}
 		},
 		"releaseDate": {
-			"enabled": false,
+			"enabled": true,
 			"format": "date"
 		},
 		"userRating": {
@@ -45,7 +45,7 @@
 			"format": "percentage"
 		},
 		"pricing": {
-			"enabled": false,
+			"enabled": true,
 			"priceTypes": [
 				"ListPrice",
 				"MSRP",
