@@ -1,11 +1,10 @@
 {
 	"$schema": "config.schema.json",
 	"markets": [
-		"US"
+		"IN"
 	],
-	"language": "en-us",
+	"language": "en-in",
 	"platformsToFetch": [
-		"console",
 		"pc",
 		"eaPlay"
 	],
@@ -14,7 +13,7 @@
 	"keepCompleteProperties": false,
 	"includedProperties": {
 		"productTitle": true,
-		"productId": false,
+		"productId": true,
 		"developerName": false,
 		"publisherName": false,
 		"categories": false,
