@@ -88,17 +88,6 @@
     }
   },
   {
-    "productTitle": "Against the Storm",
-    "productId": "9NRLRJPV4HWL",
-    "releaseDate": "2023-12-08",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 649.35,
-      "MSRP": 999,
-      "WholesalePrice": 454.54
-    }
-  },
-  {
     "productTitle": "Age of Empires Definitive Edition",
     "productId": "9NJWTJSVGVLJ",
     "releaseDate": "2019-08-19",
@@ -1111,17 +1100,6 @@
     }
   },
   {
-    "productTitle": "Crypt Custodian",
-    "productId": "9PLG24BMTP3T",
-    "releaseDate": "2024-08-27",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1099,
-      "MSRP": 1099,
-      "WholesalePrice": 769.3
-    }
-  },
-  {
     "productTitle": "Day of the Tentacle Remastered",
     "productId": "9NKK6CX54183",
     "releaseDate": "2020-10-29",
@@ -1848,6 +1826,17 @@
     }
   },
   {
+    "productTitle": "FINAL FANTASY VI",
+    "productId": "9N255K81XBD3",
+    "releaseDate": "2024-09-26",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 889.24
+    }
+  },
+  {
     "productTitle": "Firefighting Simulator - The Squad",
     "productId": "9NBZ7Z3JRXQ8",
     "releaseDate": "2022-12-06",
@@ -2530,6 +2519,17 @@
     }
   },
   {
+    "productTitle": "Jurassic World Evolution 3",
+    "productId": "9NX7HCWL13Z9",
+    "releaseDate": "2025-10-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2974,
+      "MSRP": 2974,
+      "WholesalePrice": 2081.8
+    }
+  },
+  {
     "productTitle": "Kabuto Park",
     "productId": "9NM4WQ7TTH3J",
     "releaseDate": "2026-05-28",
@@ -2868,17 +2868,6 @@
       "ListPrice": 1499,
       "MSRP": 1499,
       "WholesalePrice": 1049.31
-    }
-  },
-  {
-    "productTitle": "Metaphor: ReFantazio",
-    "productId": "9N5DV8310XP7",
-    "releaseDate": "2024-10-11",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 5699,
-      "MSRP": 5699,
-      "WholesalePrice": 3380.77
     }
   },
   {
@@ -3473,17 +3462,6 @@
       "ListPrice": 649.5,
       "MSRP": 1299,
       "WholesalePrice": 385.3
-    }
-  },
-  {
-    "productTitle": "Persona 4 Golden",
-    "productId": "9PK4B09SMN5C",
-    "releaseDate": "2023-01-19",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1664,
-      "MSRP": 1664,
-      "WholesalePrice": 987.12
     }
   },
   {
@@ -4235,17 +4213,6 @@
     }
   },
   {
-    "productTitle": "Spray Paint Simulator",
-    "productId": "9NDKXPQBBNJN",
-    "releaseDate": "2025-05-29",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 824,
-      "MSRP": 824,
-      "WholesalePrice": 576.8
-    }
-  },
-  {
     "productTitle": "Spyro™ Reignited Trilogy",
     "productId": "9NLD3ZRWF8DT",
     "releaseDate": "2024-04-11",
@@ -4339,9 +4306,9 @@
     "releaseDate": "2026-02-11",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2071.3,
+      "ListPrice": 2959,
       "MSRP": 2959,
-      "WholesalePrice": 1449.91
+      "WholesalePrice": 2071.31
     }
   },
   {
