@@ -2843,9 +2843,9 @@
     "releaseDate": "2021-05-27",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 766.52,
+      "ListPrice": 1916.31,
       "MSRP": 1916.31,
-      "WholesalePrice": 454.72
+      "WholesalePrice": 1136.8
     }
   },
   {
@@ -4515,9 +4515,9 @@
     "releaseDate": "2020-08-27",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 324.75,
+      "ListPrice": 0,
       "MSRP": 1299,
-      "WholesalePrice": 192.65
+      "WholesalePrice": 0
     }
   },
   {
@@ -4672,6 +4672,17 @@
       "ListPrice": 3659.2,
       "MSRP": 4574,
       "WholesalePrice": 2561.44
+    }
+  },
+  {
+    "productTitle": "The Elder Scrolls Online: Standard Edition",
+    "productId": "BRKX5CRMRTC2",
+    "releaseDate": "2017-06-06",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 400,
+      "MSRP": 1600,
+      "WholesalePrice": 280
     }
   },
   {
