@@ -1226,9 +1226,9 @@
     "releaseDate": "2019-05-07",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1300,
+      "ListPrice": 325,
       "MSRP": 1300,
-      "WholesalePrice": 910
+      "WholesalePrice": 227.5
     }
   },
   {
@@ -1237,9 +1237,9 @@
     "releaseDate": "9998-12-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1624,
+      "ListPrice": 1136.8,
       "MSRP": 1624,
-      "WholesalePrice": 1136.8
+      "WholesalePrice": 795.76
     }
   },
   {
@@ -2755,9 +2755,9 @@
     "releaseDate": "2025-10-07",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1099,
+      "ListPrice": 769.3,
       "MSRP": 1099,
-      "WholesalePrice": 769.3
+      "WholesalePrice": 538.51
     }
   },
   {
