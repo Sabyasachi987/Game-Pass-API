@@ -2266,6 +2266,17 @@
     }
   },
   {
+    "productTitle": "Hellblade II: Senua's Saga",
+    "productId": "9PMBB7NGHV95",
+    "releaseDate": "2024-05-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1099.75,
+      "MSRP": 4399,
+      "WholesalePrice": 652.39
+    }
+  },
+  {
     "productTitle": "Hellblade: Senua's Sacrifice",
     "productId": "9NCLP4LV5K7Z",
     "releaseDate": "2018-04-10",
@@ -4015,17 +4026,6 @@
     }
   },
   {
-    "productTitle": "Senua’s Saga: Hellblade II",
-    "productId": "9PMBB7NGHV95",
-    "releaseDate": "2024-05-21",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1099.75,
-      "MSRP": 4399,
-      "WholesalePrice": 652.39
-    }
-  },
-  {
     "productTitle": "Shadow of the Tomb Raider Definitive Edition",
     "productId": "BNQQ3WVBNZCQ",
     "releaseDate": "2019-11-05",
@@ -5464,6 +5464,17 @@
       "ListPrice": 1499,
       "MSRP": 1499,
       "WholesalePrice": 1049.31
+    }
+  },
+  {
+    "productTitle": "Wo Long: Fallen Dynasty",
+    "productId": "9N9X9PC8V9CP",
+    "releaseDate": "2023-03-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1224.5,
+      "MSRP": 2449,
+      "WholesalePrice": 726.4
     }
   },
   {
