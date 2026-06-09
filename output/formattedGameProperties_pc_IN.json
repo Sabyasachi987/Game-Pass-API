@@ -1061,9 +1061,9 @@
     "releaseDate": "2026-05-28",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 287.2,
+      "ListPrice": 359,
       "MSRP": 359,
-      "WholesalePrice": 201.04
+      "WholesalePrice": 251.31
     }
   },
   {
@@ -3487,6 +3487,17 @@
     }
   },
   {
+    "productTitle": "Persona 5 Royal",
+    "productId": "9NZDHXL9SJJ8",
+    "releaseDate": "2022-10-20",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3498,
+      "MSRP": 3498,
+      "WholesalePrice": 2075.09
+    }
+  },
+  {
     "productTitle": "Phoenix Point",
     "productId": "9P1P5Q3BNM7J",
     "releaseDate": "2019-12-19",
@@ -4144,6 +4155,17 @@
       "ListPrice": 479.6,
       "MSRP": 1199,
       "WholesalePrice": 335.72
+    }
+  },
+  {
+    "productTitle": "Solarpunk",
+    "productId": "9N8BRH7PGJMJ",
+    "releaseDate": "2026-06-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1719,
+      "MSRP": 1719,
+      "WholesalePrice": 1203.31
     }
   },
   {
@@ -5134,6 +5156,17 @@
       "ListPrice": 1099,
       "MSRP": 1099,
       "WholesalePrice": 769.3
+    }
+  },
+  {
+    "productTitle": "Undisputed",
+    "productId": "9NQ6Z171XZX8",
+    "releaseDate": "2024-10-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1664.8,
+      "MSRP": 4162,
+      "WholesalePrice": 1165.36
     }
   },
   {
