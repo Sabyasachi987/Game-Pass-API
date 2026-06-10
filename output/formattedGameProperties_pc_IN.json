@@ -16,9 +16,9 @@
     "releaseDate": "9998-12-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1099,
+      "ListPrice": 549.5,
       "MSRP": 1099,
-      "WholesalePrice": 769.3
+      "WholesalePrice": 384.65
     }
   },
   {
@@ -638,6 +638,17 @@
     }
   },
   {
+    "productTitle": "Beatdown City Survivors",
+    "productId": "9N4X39HZ1CSQ",
+    "releaseDate": "2026-06-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 749,
+      "MSRP": 749,
+      "WholesalePrice": 524.31
+    }
+  },
+  {
     "productTitle": "Ben 10: Power Trip",
     "productId": "9NJWFF2KHL6H",
     "releaseDate": "2020-10-09",
@@ -1226,9 +1237,9 @@
     "releaseDate": "2019-05-07",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 325,
+      "ListPrice": 1300,
       "MSRP": 1300,
-      "WholesalePrice": 227.5
+      "WholesalePrice": 910
     }
   },
   {
@@ -1237,9 +1248,9 @@
     "releaseDate": "9998-12-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1136.8,
+      "ListPrice": 1624,
       "MSRP": 1624,
-      "WholesalePrice": 795.76
+      "WholesalePrice": 1136.8
     }
   },
   {
@@ -2777,9 +2788,9 @@
     "releaseDate": "2025-10-07",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 769.3,
+      "ListPrice": 1099,
       "MSRP": 1099,
-      "WholesalePrice": 538.51
+      "WholesalePrice": 769.3
     }
   },
   {
