@@ -566,9 +566,9 @@
     "releaseDate": "2019-10-15",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3214.31,
+      "ListPrice": 1125,
       "MSRP": 3214.31,
-      "WholesalePrice": 1906.8
+      "WholesalePrice": 667.38
     }
   },
   {
@@ -1149,9 +1149,9 @@
     "releaseDate": "2019-10-31",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1159,
+      "ListPrice": 463.6,
       "MSRP": 1159,
-      "WholesalePrice": 811.3
+      "WholesalePrice": 324.52
     }
   },
   {
@@ -2563,14 +2563,14 @@
     }
   },
   {
-    "productTitle": "Jurassic World Evolution 2",
-    "productId": "9MWHMJ0SRBXV",
-    "releaseDate": "2021-11-09",
+    "productTitle": "Junkster",
+    "productId": "9NZPKBFF0CV9",
+    "releaseDate": "2026-06-16",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2974,
-      "MSRP": 2974,
-      "WholesalePrice": 2081.8
+      "ListPrice": 749,
+      "MSRP": 749,
+      "WholesalePrice": 524.31
     }
   },
   {
@@ -2816,17 +2816,6 @@
     }
   },
   {
-    "productTitle": "Lost in Random: The Eternal Die",
-    "productId": "9N72G399183F",
-    "releaseDate": "2025-06-17",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1349,
-      "MSRP": 1349,
-      "WholesalePrice": 944.3
-    }
-  },
-  {
     "productTitle": "Lost Records: Bloom & Rage",
     "productId": "9N3F1LW9HC6C",
     "releaseDate": "2025-02-18",
@@ -2942,9 +2931,9 @@
     "releaseDate": "2022-11-11",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1399.65,
+      "ListPrice": 3999,
       "MSRP": 3999,
-      "WholesalePrice": 830.3
+      "WholesalePrice": 2372.29
     }
   },
   {
@@ -2953,9 +2942,9 @@
     "releaseDate": "2024-11-19",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3750,
+      "ListPrice": 5000,
       "MSRP": 5000,
-      "WholesalePrice": 2224.58
+      "WholesalePrice": 2966.11
     }
   },
   {
@@ -3129,9 +3118,9 @@
     "releaseDate": "2018-05-29",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1099,
+      "ListPrice": 109.9,
       "MSRP": 1099,
-      "WholesalePrice": 769.3
+      "WholesalePrice": 76.93
     }
   },
   {
@@ -4048,17 +4037,6 @@
     }
   },
   {
-    "productTitle": "Scott Pilgrim vs. The World™: The Game – Complete Edition",
-    "productId": "9N51RG58SFS8",
-    "releaseDate": "2021-01-14",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 0,
-      "MSRP": 0,
-      "WholesalePrice": null
-    }
-  },
-  {
     "productTitle": "Sea of Thieves: 2026 Edition",
     "productId": "9P2N57MC619K",
     "releaseDate": "2018-03-19",
@@ -4576,17 +4554,6 @@
     }
   },
   {
-    "productTitle": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
-    "productId": "9NS3673HVH41",
-    "releaseDate": "2022-06-16",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1349,
-      "MSRP": 1349,
-      "WholesalePrice": 944.3
-    }
-  },
-  {
     "productTitle": "Tell Me Why: Chapters 1-3",
     "productId": "9NF83PRZK6K3",
     "releaseDate": "2020-08-27",
@@ -4680,9 +4647,9 @@
     "releaseDate": "2024-09-03",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1349,
+      "ListPrice": 269.8,
       "MSRP": 1349,
-      "WholesalePrice": 944.3
+      "WholesalePrice": 188.86
     }
   },
   {
@@ -5387,17 +5354,6 @@
       "ListPrice": 2049,
       "MSRP": 2049,
       "WholesalePrice": 1434.3
-    }
-  },
-  {
-    "productTitle": "Warhammer 40,000: Space Marine - Master Crafted Edition",
-    "productId": "9NDS24HS4N02",
-    "releaseDate": "2025-06-10",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 3199,
-      "MSRP": 3199,
-      "WholesalePrice": 1897.72
     }
   },
   {
