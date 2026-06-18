@@ -16,9 +16,9 @@
     "releaseDate": "2026-06-11",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 549.5,
+      "ListPrice": 1099,
       "MSRP": 1099,
-      "WholesalePrice": 384.65
+      "WholesalePrice": 769.3
     }
   },
   {
@@ -82,9 +82,9 @@
     "releaseDate": "2026-02-17",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1499,
+      "ListPrice": 749.5,
       "MSRP": 1499,
-      "WholesalePrice": 1049.31
+      "WholesalePrice": 524.65
     }
   },
   {
@@ -214,9 +214,9 @@
     "releaseDate": "2019-04-19",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2999,
+      "ListPrice": 749.75,
       "MSRP": 2999,
-      "WholesalePrice": 2099.3
+      "WholesalePrice": 524.82
     }
   },
   {
@@ -258,9 +258,9 @@
     "releaseDate": "2023-11-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3895.37,
+      "ListPrice": 973.84,
       "MSRP": 3895.37,
-      "WholesalePrice": 2726.76
+      "WholesalePrice": 681.69
     }
   },
   {
@@ -855,6 +855,17 @@
       "ListPrice": 5599,
       "MSRP": 5599,
       "WholesalePrice": 3919.3
+    }
+  },
+  {
+    "productTitle": "Call of Duty®: Vanguard - Standard Edition",
+    "productId": "9N0SNSC9PK4D",
+    "releaseDate": "2026-04-15",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 5399,
+      "MSRP": 5399,
+      "WholesalePrice": 3779.31
     }
   },
   {
@@ -1512,9 +1523,9 @@
     "releaseDate": "2024-07-18",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1149,
+      "ListPrice": 344.7,
       "MSRP": 1149,
-      "WholesalePrice": 804.31
+      "WholesalePrice": 241.29
     }
   },
   {
@@ -1919,9 +1930,9 @@
     "releaseDate": "2024-12-12",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1229,
+      "ListPrice": 430.15,
       "MSRP": 1229,
-      "WholesalePrice": 860.3
+      "WholesalePrice": 301.1
     }
   },
   {
@@ -2469,9 +2480,9 @@
     "releaseDate": "2017-05-12",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 799,
+      "ListPrice": 239.7,
       "MSRP": 799,
-      "WholesalePrice": 559.3
+      "WholesalePrice": 167.79
     }
   },
   {
@@ -2491,9 +2502,9 @@
     "releaseDate": "2025-06-25",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1099,
+      "ListPrice": 769.3,
       "MSRP": 1099,
-      "WholesalePrice": 769.3
+      "WholesalePrice": 538.51
     }
   },
   {
@@ -2546,9 +2557,9 @@
     "releaseDate": "2023-04-10",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1099,
+      "ListPrice": 329.7,
       "MSRP": 1099,
-      "WholesalePrice": 769.3
+      "WholesalePrice": 230.79
     }
   },
   {
@@ -2579,9 +2590,9 @@
     "releaseDate": "2025-10-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2974,
+      "ListPrice": 2081.8,
       "MSRP": 2974,
-      "WholesalePrice": 2081.8
+      "WholesalePrice": 1457.26
     }
   },
   {
@@ -3569,9 +3580,9 @@
     "releaseDate": "2024-11-06",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3524,
+      "ListPrice": 1409.6,
       "MSRP": 3524,
-      "WholesalePrice": 2466.8
+      "WholesalePrice": 986.72
     }
   },
   {
@@ -3822,9 +3833,9 @@
     "releaseDate": "2026-02-10",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1119,
+      "ListPrice": 839.25,
       "MSRP": 1119,
-      "WholesalePrice": 783.31
+      "WholesalePrice": 587.48
     }
   },
   {
@@ -4955,9 +4966,9 @@
     "releaseDate": "2022-01-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1999,
+      "ListPrice": 499.75,
       "MSRP": 1999,
-      "WholesalePrice": 1399.3
+      "WholesalePrice": 349.82
     }
   },
   {
