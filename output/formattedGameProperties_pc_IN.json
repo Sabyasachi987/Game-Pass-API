@@ -2200,7 +2200,7 @@
     }
   },
   {
-    "productTitle": "Grounded 2",
+    "productTitle": "Grounded 2 (Game Preview)",
     "productId": "9P77PG7DK0W2",
     "releaseDate": "2025-07-29",
     "pricing": {
@@ -5186,9 +5186,9 @@
     "releaseDate": "2024-10-11",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1664.8,
+      "ListPrice": 4162,
       "MSRP": 4162,
-      "WholesalePrice": 1165.36
+      "WholesalePrice": 2913.41
     }
   },
   {
@@ -5633,7 +5633,7 @@
   },
   {
     "productTitle": "World War Z: Aftermath",
-    "productId": "9PBF1FL7K192",
+    "productId": "9PLCL2VB2SC0",
     "releaseDate": "2021-09-21",
     "pricing": {
       "currencyCode": "INR",

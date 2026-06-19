@@ -1,5 +1,38 @@
 [
   {
+    "productTitle": "EA SPORTS FC™ 26 Standard Edition Xbox One & Xbox Series X|S",
+    "productId": "9MXZBTLG26VX",
+    "releaseDate": "2025-09-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999.8,
+      "MSRP": 4999,
+      "WholesalePrice": 699.86
+    }
+  },
+  {
+    "productTitle": "EA SPORTS FC™ 26 Xbox One",
+    "productId": "9NK13T4QFPQW",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
+  },
+  {
+    "productTitle": "EA SPORTS FC™ 26 Xbox Series X|S",
+    "productId": "9P9FTXPKQ35P",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
+  },
+  {
     "productTitle": "NHL 26 Xbox Series X|S",
     "productId": "9PC1KTWW5PB5",
     "releaseDate": "9998-12-30",
