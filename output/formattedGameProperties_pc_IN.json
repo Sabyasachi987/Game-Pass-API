@@ -77,6 +77,17 @@
     }
   },
   {
+    "productTitle": "Abyssus",
+    "productId": "9P8NKVVB0XQJ",
+    "releaseDate": "2026-06-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1100,
+      "MSRP": 1100,
+      "WholesalePrice": 770.01
+    }
+  },
+  {
     "productTitle": "Aerial_Knight's DropShot",
     "productId": "9P59J86GHDGL",
     "releaseDate": "2026-02-17",
@@ -1501,9 +1512,9 @@
     "releaseDate": "2023-03-29",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 799.6,
+      "ListPrice": 1999,
       "MSRP": 1999,
-      "WholesalePrice": 559.72
+      "WholesalePrice": 1399.3
     }
   },
   {
@@ -3560,7 +3571,7 @@
       "currencyCode": "INR",
       "ListPrice": 3249,
       "MSRP": 3249,
-      "WholesalePrice": 2274.3
+      "WholesalePrice": 1927.38
     }
   },
   {
