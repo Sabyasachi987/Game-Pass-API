@@ -555,9 +555,9 @@
     "releaseDate": "2025-07-18",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1174,
+      "ListPrice": 939.2,
       "MSRP": 1174,
-      "WholesalePrice": 821.8
+      "WholesalePrice": 657.44
     }
   },
   {
@@ -1556,9 +1556,9 @@
     "releaseDate": "2026-05-27",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1869,
+      "ListPrice": 1682.1,
       "MSRP": 1869,
-      "WholesalePrice": 1308.31
+      "WholesalePrice": 1177.47
     }
   },
   {
@@ -4180,7 +4180,7 @@
     }
   },
   {
-    "productTitle": "SnowRunner (Windows 10)",
+    "productTitle": "SnowRunner - Windows",
     "productId": "9NP6WL1XQDBW",
     "releaseDate": "2021-05-18",
     "pricing": {
