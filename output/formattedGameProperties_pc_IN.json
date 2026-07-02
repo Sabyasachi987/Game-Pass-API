@@ -500,9 +500,9 @@
     "releaseDate": "2019-02-06",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1499,
+      "ListPrice": 374.75,
       "MSRP": 1499,
-      "WholesalePrice": 889.24
+      "WholesalePrice": 222.31
     }
   },
   {
@@ -1006,9 +1006,9 @@
     "releaseDate": "2023-11-08",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1296.81,
+      "ListPrice": 259.36,
       "MSRP": 1296.81,
-      "WholesalePrice": 769.3
+      "WholesalePrice": 153.86
     }
   },
   {
@@ -1105,9 +1105,9 @@
     "releaseDate": "2026-05-28",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 359,
+      "ListPrice": 251.3,
       "MSRP": 359,
-      "WholesalePrice": 251.31
+      "WholesalePrice": 175.91
     }
   },
   {
@@ -1248,9 +1248,9 @@
     "releaseDate": "2020-05-13",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 699,
+      "ListPrice": 209.7,
       "MSRP": 699,
-      "WholesalePrice": 489.3
+      "WholesalePrice": 146.79
     }
   },
   {
@@ -1424,9 +1424,9 @@
     "releaseDate": "2025-12-09",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1349,
+      "ListPrice": 1011.75,
       "MSRP": 1349,
-      "WholesalePrice": 944.31
+      "WholesalePrice": 708.23
     }
   },
   {
@@ -1886,9 +1886,9 @@
     "releaseDate": "2022-12-06",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1624,
+      "ListPrice": 535.92,
       "MSRP": 1624,
-      "WholesalePrice": 1136.8
+      "WholesalePrice": 375.14
     }
   },
   {
@@ -2678,9 +2678,9 @@
     "releaseDate": "2025-02-04",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3999,
+      "ListPrice": 1599.6,
       "MSRP": 3999,
-      "WholesalePrice": 2799.3
+      "WholesalePrice": 1119.72
     }
   },
   {
@@ -2879,17 +2879,6 @@
       "ListPrice": 2249,
       "MSRP": 2249,
       "WholesalePrice": 1574.31
-    }
-  },
-  {
-    "productTitle": "Mecha BREAK",
-    "productId": "9N1BZS0V3K0C",
-    "releaseDate": "2025-07-02",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 0,
-      "MSRP": 0,
-      "WholesalePrice": 0
     }
   },
   {
@@ -3613,9 +3602,9 @@
     "releaseDate": "2024-02-15",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1099,
+      "ListPrice": 329.7,
       "MSRP": 1099,
-      "WholesalePrice": 769.3
+      "WholesalePrice": 230.79
     }
   },
   {
@@ -3971,17 +3960,6 @@
     }
   },
   {
-    "productTitle": "Rise of the Tomb Raider",
-    "productId": "9NBLGGH6CRSZ",
-    "releaseDate": "2016-01-22",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1999,
-      "MSRP": 1999,
-      "WholesalePrice": 1185.85
-    }
-  },
-  {
     "productTitle": "RoadCraft",
     "productId": "9N4J937WLFPZ",
     "releaseDate": "2025-05-19",
@@ -4147,17 +4125,6 @@
     }
   },
   {
-    "productTitle": "Slay The Spire",
-    "productId": "9MZQR8317S3B",
-    "releaseDate": "2019-06-09",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1349,
-      "MSRP": 1349,
-      "WholesalePrice": 944.3
-    }
-  },
-  {
     "productTitle": "Sledding Game",
     "productId": "9N9C1TB18R3B",
     "releaseDate": "9998-12-30",
@@ -4185,9 +4152,9 @@
     "releaseDate": "2025-01-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3249,
+      "ListPrice": 1624.5,
       "MSRP": 3249,
-      "WholesalePrice": 2274.3
+      "WholesalePrice": 1137.15
     }
   },
   {
@@ -4592,9 +4559,9 @@
     "releaseDate": "2020-08-27",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 0,
+      "ListPrice": 1299,
       "MSRP": 1299,
-      "WholesalePrice": 0
+      "WholesalePrice": 770.6
     }
   },
   {
@@ -5005,17 +4972,6 @@
     }
   },
   {
-    "productTitle": "Tomb Raider: Definitive Edition",
-    "productId": "BQXTS0SX4W0N",
-    "releaseDate": "2014-09-23",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1499,
-      "MSRP": 1499,
-      "WholesalePrice": 889.24
-    }
-  },
-  {
     "productTitle": "Tony Hawk's™ Pro Skater™ 3 + 4 - Cross-Gen Edition",
     "productId": "9N926481VT1Z",
     "releaseDate": "2025-07-11",
@@ -5043,9 +4999,9 @@
     "releaseDate": "2025-11-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1869,
+      "ListPrice": 1308.3,
       "MSRP": 1869,
-      "WholesalePrice": 1308.31
+      "WholesalePrice": 915.81
     }
   },
   {
@@ -5065,9 +5021,9 @@
     "releaseDate": "2020-04-01",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 824,
+      "ListPrice": 164.8,
       "MSRP": 824,
-      "WholesalePrice": 576.8
+      "WholesalePrice": 115.36
     }
   },
   {
@@ -5181,17 +5137,6 @@
     }
   },
   {
-    "productTitle": "Ultimate Chicken Horse",
-    "productId": "BNNMLWZRNQF6",
-    "releaseDate": "2017-12-15",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 690,
-      "MSRP": 690,
-      "WholesalePrice": 409.33
-    }
-  },
-  {
     "productTitle": "Ultimate Sheep Raccoon",
     "productId": "9P1H8K2V0NNP",
     "releaseDate": "9998-12-30",
@@ -5222,17 +5167,6 @@
       "ListPrice": 0,
       "MSRP": 0,
       "WholesalePrice": null
-    }
-  },
-  {
-    "productTitle": "Unpacking",
-    "productId": "9NH5HN11FG4M",
-    "releaseDate": "2021-11-02",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1099,
-      "MSRP": 1099,
-      "WholesalePrice": 769.3
     }
   },
   {
@@ -5310,17 +5244,6 @@
       "ListPrice": 1974,
       "MSRP": 1974,
       "WholesalePrice": 1171.02
-    }
-  },
-  {
-    "productTitle": "Volcano Princess",
-    "productId": "9PLNGNZVB1ZP",
-    "releaseDate": "2025-06-24",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 599,
-      "MSRP": 599,
-      "WholesalePrice": 419.3
     }
   },
   {
