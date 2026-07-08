@@ -815,8 +815,8 @@
   },
   {
     "productTitle": "Call of Duty®: Black Ops 6 - Standard Edition (Windows)",
-    "productId": "9PNCL2R6G8D0",
-    "releaseDate": "2024-11-01",
+    "productId": "9MZ1RZTJTZKB",
+    "releaseDate": "2026-07-07",
     "pricing": {
       "currencyCode": "INR",
       "ListPrice": 5599,
@@ -2018,9 +2018,9 @@
     "releaseDate": "2024-09-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1224.5,
+      "ListPrice": 2449,
       "MSRP": 2449,
-      "WholesalePrice": 857.15
+      "WholesalePrice": 1714.3
     }
   },
   {
@@ -2997,9 +2997,9 @@
     "releaseDate": "2025-07-09",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 269,
+      "ListPrice": 188.3,
       "MSRP": 269,
-      "WholesalePrice": 188.3
+      "WholesalePrice": 131.81
     }
   },
   {
@@ -5552,6 +5552,17 @@
       "ListPrice": 999,
       "MSRP": 999,
       "WholesalePrice": 699.3
+    }
+  },
+  {
+    "productTitle": "World of Tanks Modern Armor",
+    "productId": "C57L9GR0HHB7",
+    "releaseDate": "2015-07-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
     }
   },
   {
