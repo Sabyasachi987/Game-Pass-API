@@ -814,6 +814,17 @@
     }
   },
   {
+    "productTitle": "Buckshot Roulette",
+    "productId": "9P5B8CPQ9S7F",
+    "releaseDate": "2026-07-08",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 154,
+      "MSRP": 154,
+      "WholesalePrice": 107.81
+    }
+  },
+  {
     "productTitle": "Call of Duty®: Black Ops 6 - Standard Edition (Windows)",
     "productId": "9MZ1RZTJTZKB",
     "releaseDate": "2026-07-07",
@@ -4521,6 +4532,17 @@
     }
   },
   {
+    "productTitle": "Tamashika",
+    "productId": "9P43RGDPJ62T",
+    "releaseDate": "2026-04-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 409,
+      "MSRP": 409,
+      "WholesalePrice": 286.31
+    }
+  },
+  {
     "productTitle": "TCG Card Shop Simulator (Game Preview)",
     "productId": "9P9GX5D8H9DW",
     "releaseDate": "2025-10-28",
@@ -4603,9 +4625,9 @@
     "releaseDate": "2025-06-13",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1899,
+      "ListPrice": 949.5,
       "MSRP": 1899,
-      "WholesalePrice": 1329.3
+      "WholesalePrice": 664.65
     }
   },
   {
