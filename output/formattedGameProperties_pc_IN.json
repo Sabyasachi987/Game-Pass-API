@@ -1919,9 +1919,9 @@
     "releaseDate": "2025-11-04",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2249.5,
+      "ListPrice": 4499,
       "MSRP": 4499,
-      "WholesalePrice": 1574.65
+      "WholesalePrice": 3149.31
     }
   },
   {
@@ -1930,9 +1930,9 @@
     "releaseDate": "2025-11-04",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2249.5,
+      "ListPrice": 4499,
       "MSRP": 4499,
-      "WholesalePrice": 1574.65
+      "WholesalePrice": 3149.31
     }
   },
   {
@@ -3498,7 +3498,7 @@
     }
   },
   {
-    "productTitle": "Palworld (Game Preview)",
+    "productTitle": "Palworld",
     "productId": "9NKV34XDW014",
     "releaseDate": "2024-01-19",
     "pricing": {
@@ -5651,6 +5651,17 @@
       "ListPrice": 2999,
       "MSRP": 2999,
       "WholesalePrice": 2099.31
+    }
+  },
+  {
+    "productTitle": "Wuthering Waves",
+    "productId": "9P41GS5W1C6L",
+    "releaseDate": "2026-07-09",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
     }
   },
   {
