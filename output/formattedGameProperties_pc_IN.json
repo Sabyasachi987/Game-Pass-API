@@ -308,6 +308,17 @@
     }
   },
   {
+    "productTitle": "Ascend to ZERO",
+    "productId": "9NHCT85MKHCV",
+    "releaseDate": "2026-07-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 899,
+      "MSRP": 899,
+      "WholesalePrice": 629.31
+    }
+  },
+  {
     "productTitle": "Asphalt Legends",
     "productId": "9NZQPT0MWTD0",
     "releaseDate": "2018-07-18",
@@ -3520,6 +3531,17 @@
     }
   },
   {
+    "productTitle": "PBA Pro Bowling 2026",
+    "productId": "9PJRQHMCFQGS",
+    "releaseDate": "2025-12-18",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2999,
+      "MSRP": 2999,
+      "WholesalePrice": 2099.31
+    }
+  },
+  {
     "productTitle": "Pentiment",
     "productId": "9NX6K9HN4F4K",
     "releaseDate": "2022-11-15",
@@ -3602,9 +3624,9 @@
     "releaseDate": "2026-03-05",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1499,
+      "ListPrice": 1124.25,
       "MSRP": 1499,
-      "WholesalePrice": 1049.31
+      "WholesalePrice": 786.98
     }
   },
   {
