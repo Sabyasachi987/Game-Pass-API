@@ -1562,17 +1562,6 @@
     }
   },
   {
-    "productTitle": "Dungeons Of Hinterberg",
-    "productId": "9PGX472J0RJP",
-    "releaseDate": "2024-07-18",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1149,
-      "MSRP": 1149,
-      "WholesalePrice": 804.31
-    }
-  },
-  {
     "productTitle": "Easy Delivery Co.",
     "productId": "9PDC8J1BSV8B",
     "releaseDate": "2026-03-26",
@@ -2200,17 +2189,6 @@
     }
   },
   {
-    "productTitle": "Golf With Your Friends (Windows Version)",
-    "productId": "9MVK5W0HMRP7",
-    "releaseDate": "2020-07-23",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 149.9,
-      "MSRP": 1499,
-      "WholesalePrice": 104.93
-    }
-  },
-  {
     "productTitle": "Great God Grove",
     "productId": "9N36BLQF3FX6",
     "releaseDate": "2024-11-15",
@@ -2711,9 +2689,9 @@
     "releaseDate": "2025-02-04",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1599.6,
+      "ListPrice": 3999,
       "MSRP": 3999,
-      "WholesalePrice": 1119.72
+      "WholesalePrice": 2799.3
     }
   },
   {
@@ -2915,6 +2893,17 @@
     }
   },
   {
+    "productTitle": "MAVRIX by Matt Jones",
+    "productId": "9NZX67J81X6F",
+    "releaseDate": "2026-07-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2999,
+      "MSRP": 2999,
+      "WholesalePrice": 2099.31
+    }
+  },
+  {
     "productTitle": "MechWarrior 5: Clans",
     "productId": "9P9FJCK32PMT",
     "releaseDate": "2024-10-17",
@@ -3022,17 +3011,6 @@
       "ListPrice": 0,
       "MSRP": 0,
       "WholesalePrice": null
-    }
-  },
-  {
-    "productTitle": "Minami Lane",
-    "productId": "9NRL00D96M3R",
-    "releaseDate": "2025-07-09",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 188.3,
-      "MSRP": 269,
-      "WholesalePrice": 131.81
     }
   },
   {
@@ -3663,17 +3641,6 @@
     }
   },
   {
-    "productTitle": "PowerWash Simulator",
-    "productId": "9NHDJC0NW20M",
-    "releaseDate": "2022-07-14",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 2080,
-      "MSRP": 2080,
-      "WholesalePrice": 1233.9
-    }
-  },
-  {
     "productTitle": "PowerWash Simulator 2",
     "productId": "9P45GGDTFNSM",
     "releaseDate": "2025-10-23",
@@ -4103,17 +4070,6 @@
     }
   },
   {
-    "productTitle": "Shadow of the Tomb Raider Definitive Edition",
-    "productId": "BNQQ3WVBNZCQ",
-    "releaseDate": "2019-11-05",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 374.85,
-      "MSRP": 2499,
-      "WholesalePrice": 222.36
-    }
-  },
-  {
     "productTitle": "Shadowrun Returns PC",
     "productId": "9NF0RBL8SZL6",
     "releaseDate": "2023-05-09",
@@ -4279,17 +4235,6 @@
     }
   },
   {
-    "productTitle": "SPLITGATE: Arena Reloaded",
-    "productId": "9PF5Q1B0FHSL",
-    "releaseDate": "2025-05-22",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 0,
-      "MSRP": 0,
-      "WholesalePrice": 0
-    }
-  },
-  {
     "productTitle": "SpongeBob SquarePants™: The Patrick Star Game",
     "productId": "9NMF3KXT4P4G",
     "releaseDate": "2024-10-03",
@@ -4433,17 +4378,6 @@
     }
   },
   {
-    "productTitle": "Stellaris",
-    "productId": "9NXQPGMR917R",
-    "releaseDate": "2019-10-09",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 3749,
-      "MSRP": 3749,
-      "WholesalePrice": 2624.31
-    }
-  },
-  {
     "productTitle": "Subnautica 2 (Game Preview)",
     "productId": "9PJPCB188SVG",
     "releaseDate": "2026-05-14",
@@ -4463,17 +4397,6 @@
       "ListPrice": 131,
       "MSRP": 524,
       "WholesalePrice": 77.71
-    }
-  },
-  {
-    "productTitle": "Super Fantasy Kingdom (Game Preview)",
-    "productId": "9MZ8B96NDG1T",
-    "releaseDate": "2025-10-24",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 299.5,
-      "MSRP": 599,
-      "WholesalePrice": 209.65
     }
   },
   {
@@ -4595,17 +4518,6 @@
       "ListPrice": 0,
       "MSRP": 0,
       "WholesalePrice": null
-    }
-  },
-  {
-    "productTitle": "Techtonica (Game Preview)",
-    "productId": "9NR1RVDK9T78",
-    "releaseDate": "2023-07-18",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 406,
-      "MSRP": 1624,
-      "WholesalePrice": 284.2
     }
   },
   {
@@ -5054,9 +4966,9 @@
     "releaseDate": "2025-11-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1308.3,
+      "ListPrice": 1869,
       "MSRP": 1869,
-      "WholesalePrice": 915.81
+      "WholesalePrice": 1308.31
     }
   },
   {
@@ -5076,9 +4988,9 @@
     "releaseDate": "2020-04-01",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 164.8,
+      "ListPrice": 824,
       "MSRP": 824,
-      "WholesalePrice": 115.36
+      "WholesalePrice": 576.8
     }
   },
   {
