@@ -1925,6 +1925,28 @@
     }
   },
   {
+    "productTitle": "FixForce",
+    "productId": "9N7MVHP2R7VP",
+    "releaseDate": "2026-07-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 599,
+      "MSRP": 599,
+      "WholesalePrice": 419.31
+    }
+  },
+  {
+    "productTitle": "Fogpiercer",
+    "productId": "9P2PP895LSBJ",
+    "releaseDate": "2026-07-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 599,
+      "MSRP": 599,
+      "WholesalePrice": 419.31
+    }
+  },
+  {
     "productTitle": "Football Manager 26",
     "productId": "9PD0Z90216RJ",
     "releaseDate": "2025-11-04",
