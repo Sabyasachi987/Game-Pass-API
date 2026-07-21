@@ -4818,6 +4818,17 @@
     }
   },
   {
+    "productTitle": "The Planet Crafter",
+    "productId": "9N072VV7MFK7",
+    "releaseDate": "2026-07-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 990,
+      "MSRP": 1100,
+      "WholesalePrice": 693
+    }
+  },
+  {
     "productTitle": "The Rogue Prince of Persia™",
     "productId": "9P1WJCK9B8S6",
     "releaseDate": "2025-08-20",
