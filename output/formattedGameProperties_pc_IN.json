@@ -390,9 +390,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2999,
+      "ListPrice": 449.85,
       "MSRP": 2999,
-      "WholesalePrice": 2099.31
+      "WholesalePrice": 314.89
     }
   },
   {
@@ -445,9 +445,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2999,
+      "ListPrice": 449.85,
       "MSRP": 2999,
-      "WholesalePrice": 2099.31
+      "WholesalePrice": 314.89
     }
   },
   {
@@ -456,9 +456,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2999,
+      "ListPrice": 749.75,
       "MSRP": 2999,
-      "WholesalePrice": 2099.31
+      "WholesalePrice": 524.82
     }
   },
   {
@@ -500,9 +500,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2499,
+      "ListPrice": 999.6,
       "MSRP": 2499,
-      "WholesalePrice": 1749.31
+      "WholesalePrice": 699.72
     }
   },
   {
@@ -544,9 +544,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3499,
+      "ListPrice": 2099.4,
       "MSRP": 3499,
-      "WholesalePrice": 2449.31
+      "WholesalePrice": 1469.58
     }
   },
   {
@@ -723,6 +723,17 @@
       "ListPrice": 2358.81,
       "MSRP": 2358.81,
       "WholesalePrice": 1399.3
+    }
+  },
+  {
+    "productTitle": "BLiNX: The Time Sweeper",
+    "productId": "BRG51C5MWFSG",
+    "releaseDate": "2018-04-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499,
+      "MSRP": 499,
+      "WholesalePrice": 349.31
     }
   },
   {
@@ -1056,6 +1067,17 @@
     }
   },
   {
+    "productTitle": "Conker: Live and Reloaded",
+    "productId": "BVFB8CBS75R6",
+    "releaseDate": "2018-04-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499,
+      "MSRP": 499,
+      "WholesalePrice": 349.31
+    }
+  },
+  {
     "productTitle": "Construction Simulator",
     "productId": "9NLFZVMSQ7CC",
     "releaseDate": "2022-09-20",
@@ -1152,6 +1174,17 @@
       "ListPrice": 2249,
       "MSRP": 2249,
       "WholesalePrice": 1574.31
+    }
+  },
+  {
+    "productTitle": "Crimson Skies®: High Road to Revenge™",
+    "productId": "C4B8XR1LCXR5",
+    "releaseDate": "2007-12-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499,
+      "MSRP": 499,
+      "WholesalePrice": 349.3
     }
   },
   {
@@ -1743,9 +1776,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1399,
+      "ListPrice": 279.8,
       "MSRP": 1399,
-      "WholesalePrice": 979.31
+      "WholesalePrice": 195.86
     }
   },
   {
@@ -1765,9 +1798,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1499,
+      "ListPrice": 149.9,
       "MSRP": 1499,
-      "WholesalePrice": 1049.31
+      "WholesalePrice": 104.93
     }
   },
   {
@@ -1776,9 +1809,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2249,
+      "ListPrice": 449.8,
       "MSRP": 2249,
-      "WholesalePrice": 1574.31
+      "WholesalePrice": 314.86
     }
   },
   {
@@ -1787,9 +1820,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2499,
+      "ListPrice": 374.85,
       "MSRP": 2499,
-      "WholesalePrice": 1749.31
+      "WholesalePrice": 262.39
     }
   },
   {
@@ -1798,9 +1831,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2999,
+      "ListPrice": 449.85,
       "MSRP": 2999,
-      "WholesalePrice": 2099.31
+      "WholesalePrice": 314.89
     }
   },
   {
@@ -1809,9 +1842,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2999,
+      "ListPrice": 749.75,
       "MSRP": 2999,
-      "WholesalePrice": 2099.31
+      "WholesalePrice": 524.82
     }
   },
   {
@@ -2076,6 +2109,17 @@
       "ListPrice": 199.8,
       "MSRP": 999,
       "WholesalePrice": 118.52
+    }
+  },
+  {
+    "productTitle": "Fuzion Frenzy®",
+    "productId": "C2P985H1H42H",
+    "releaseDate": "2007-12-05",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 124.75,
+      "MSRP": 499,
+      "WholesalePrice": 87.32
     }
   },
   {
@@ -2403,9 +2447,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 699,
+      "ListPrice": 174.75,
       "MSRP": 699,
-      "WholesalePrice": 489.31
+      "WholesalePrice": 122.32
     }
   },
   {
@@ -2414,9 +2458,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 699,
+      "ListPrice": 174.75,
       "MSRP": 699,
-      "WholesalePrice": 489.31
+      "WholesalePrice": 122.32
     }
   },
   {
@@ -2557,9 +2601,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2799,
+      "ListPrice": 559.8,
       "MSRP": 2799,
-      "WholesalePrice": 1959.31
+      "WholesalePrice": 391.86
     }
   },
   {
@@ -3690,9 +3734,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2799,
+      "ListPrice": 839.7,
       "MSRP": 2799,
-      "WholesalePrice": 1959.31
+      "WholesalePrice": 587.79
     }
   },
   {
@@ -3976,9 +4020,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1999,
+      "ListPrice": 199.9,
       "MSRP": 1999,
-      "WholesalePrice": 1399.31
+      "WholesalePrice": 139.93
     }
   },
   {
@@ -4125,6 +4169,17 @@
     }
   },
   {
+    "productTitle": "Shift At Midnight",
+    "productId": "9N0WDPMXNHWN",
+    "releaseDate": "2026-07-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 749,
+      "MSRP": 749,
+      "WholesalePrice": 524.31
+    }
+  },
+  {
     "productTitle": "Sifu",
     "productId": "9P7PF6ZP3958",
     "releaseDate": "2023-03-28",
@@ -4141,9 +4196,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2799,
+      "ListPrice": 279.9,
       "MSRP": 2799,
-      "WholesalePrice": 1959.31
+      "WholesalePrice": 195.93
     }
   },
   {
@@ -4240,9 +4295,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2099,
+      "ListPrice": 419.8,
       "MSRP": 2099,
-      "WholesalePrice": 1469.31
+      "WholesalePrice": 293.86
     }
   },
   {
@@ -4295,9 +4350,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 4899,
+      "ListPrice": 1224.75,
       "MSRP": 4899,
-      "WholesalePrice": 3429.31
+      "WholesalePrice": 857.32
     }
   },
   {
@@ -4394,9 +4449,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1499,
+      "ListPrice": 224.85,
       "MSRP": 1499,
-      "WholesalePrice": 1049.31
+      "WholesalePrice": 157.39
     }
   },
   {
@@ -4543,6 +4598,17 @@
     }
   },
   {
+    "productTitle": "Tears of Metal (Game Preview)",
+    "productId": "9PN8M16GG8M4",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1159,
+      "MSRP": 1159,
+      "WholesalePrice": 811.31
+    }
+  },
+  {
     "productTitle": "Tell Me Why: Chapters 1-3",
     "productId": "9NF83PRZK6K3",
     "releaseDate": "2020-08-27",
@@ -4647,9 +4713,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3499,
+      "ListPrice": 699.8,
       "MSRP": 3499,
-      "WholesalePrice": 2449.31
+      "WholesalePrice": 489.86
     }
   },
   {
@@ -4658,9 +4724,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2099,
+      "ListPrice": 419.8,
       "MSRP": 2099,
-      "WholesalePrice": 1469.31
+      "WholesalePrice": 293.86
     }
   },
   {
@@ -4955,9 +5021,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1999,
+      "ListPrice": 499.75,
       "MSRP": 1999,
-      "WholesalePrice": 1399.31
+      "WholesalePrice": 349.82
     }
   },
   {
@@ -4966,9 +5032,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2099,
+      "ListPrice": 524.75,
       "MSRP": 2099,
-      "WholesalePrice": 1469.31
+      "WholesalePrice": 367.32
     }
   },
   {
@@ -5373,9 +5439,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2999,
+      "ListPrice": 449.85,
       "MSRP": 2999,
-      "WholesalePrice": 2099.31
+      "WholesalePrice": 314.89
     }
   },
   {
