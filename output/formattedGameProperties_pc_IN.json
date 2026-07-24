@@ -2398,6 +2398,17 @@
     }
   },
   {
+    "productTitle": "Hell is Us",
+    "productId": "9N9097G0XZMB",
+    "releaseDate": "2025-09-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3499,
+      "MSRP": 3499,
+      "WholesalePrice": 2449.3
+    }
+  },
+  {
     "productTitle": "Hellblade II: Senua's Saga",
     "productId": "9PMBB7NGHV95",
     "releaseDate": "2024-05-21",
