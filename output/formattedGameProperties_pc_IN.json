@@ -1468,9 +1468,9 @@
     "releaseDate": "2022-09-06",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2174,
+      "ListPrice": 1521.8,
       "MSRP": 2174,
-      "WholesalePrice": 1521.8
+      "WholesalePrice": 1065.26
     }
   },
   {
@@ -2362,6 +2362,17 @@
       "ListPrice": 464,
       "MSRP": 464,
       "WholesalePrice": 275.26
+    }
+  },
+  {
+    "productTitle": "Halo: Campaign Evolved - Standard Edition",
+    "productId": "9N6J4RNFPKKL",
+    "releaseDate": "2026-07-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4999,
+      "MSRP": 4999,
+      "WholesalePrice": 2965.51
     }
   },
   {
