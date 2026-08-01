@@ -1111,6 +1111,17 @@
     }
   },
   {
+    "productTitle": "Corsair Cove",
+    "productId": "9PHS0189K408",
+    "releaseDate": "2026-07-31",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
+    }
+  },
+  {
     "productTitle": "Crackdown 3",
     "productId": "9NXR6469DM2P",
     "releaseDate": "2019-02-14",
