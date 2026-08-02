@@ -561,17 +561,6 @@
     }
   },
   {
-    "productTitle": "Back to the Dawn",
-    "productId": "9PKWJSJ4NWC7",
-    "releaseDate": "2025-07-18",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1174,
-      "MSRP": 1174,
-      "WholesalePrice": 821.8
-    }
-  },
-  {
     "productTitle": "Balatro",
     "productId": "9PK087LNGJC5",
     "releaseDate": "2024-02-20",
@@ -968,17 +957,6 @@
     }
   },
   {
-    "productTitle": "Celeste",
-    "productId": "BWMQL2RPWBHB",
-    "releaseDate": "2018-01-26",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 899,
-      "MSRP": 899,
-      "WholesalePrice": 533.31
-    }
-  },
-  {
     "productTitle": "Child of Light",
     "productId": "9NP1LC5MX609",
     "releaseDate": "2014-04-30",
@@ -1196,17 +1174,6 @@
       "ListPrice": 499,
       "MSRP": 499,
       "WholesalePrice": 349.3
-    }
-  },
-  {
-    "productTitle": "Crusader Kings III",
-    "productId": "9N7GG222GTTH",
-    "releaseDate": "2020-09-01",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 2724,
-      "MSRP": 2724,
-      "WholesalePrice": 1906.8
     }
   },
   {
@@ -3300,17 +3267,6 @@
     }
   },
   {
-    "productTitle": "Mount & Blade II: Bannerlord",
-    "productId": "9PDHWZ7X3P03",
-    "releaseDate": "2022-10-25",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 2449,
-      "MSRP": 2449,
-      "WholesalePrice": 1452.8
-    }
-  },
-  {
     "productTitle": "Moving Out 2",
     "productId": "9P88K6NQW12H",
     "releaseDate": "2023-08-14",
@@ -3341,17 +3297,6 @@
       "ListPrice": 2174,
       "MSRP": 2174,
       "WholesalePrice": 1521.8
-    }
-  },
-  {
-    "productTitle": "My Friendly Neighborhood",
-    "productId": "9MWV1MV9LWF4",
-    "releaseDate": "2025-07-17",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1299,
-      "MSRP": 1299,
-      "WholesalePrice": 909.3
     }
   },
   {
@@ -3894,17 +3839,6 @@
     }
   },
   {
-    "productTitle": "Rain World",
-    "productId": "9PNPFBPLGCMW",
-    "releaseDate": "2023-07-11",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1124,
-      "MSRP": 1124,
-      "WholesalePrice": 786.81
-    }
-  },
-  {
     "productTitle": "RAYMAN LEGENDS",
     "productId": "9NQ4M2DG11L0",
     "releaseDate": "2013-08-29",
@@ -4265,17 +4199,6 @@
       "ListPrice": 0,
       "MSRP": 0,
       "WholesalePrice": 0
-    }
-  },
-  {
-    "productTitle": "Sniper Elite: Resistance",
-    "productId": "9MXRG5GCRPXZ",
-    "releaseDate": "2025-01-30",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 3249,
-      "MSRP": 3249,
-      "WholesalePrice": 2274.3
     }
   },
   {
@@ -5530,17 +5453,6 @@
       "ListPrice": 899,
       "MSRP": 899,
       "WholesalePrice": 629.3
-    }
-  },
-  {
-    "productTitle": "Whiskerwood (Game Preview)",
-    "productId": "9NM2T0DMP4XV",
-    "releaseDate": "2025-11-06",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 999,
-      "MSRP": 999,
-      "WholesalePrice": 699.31
     }
   },
   {
