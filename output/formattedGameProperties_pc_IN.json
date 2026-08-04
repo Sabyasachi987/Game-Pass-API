@@ -38,9 +38,9 @@
     "releaseDate": "2025-12-09",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 269,
+      "ListPrice": 188.3,
       "MSRP": 269,
-      "WholesalePrice": 188.3
+      "WholesalePrice": 131.81
     }
   },
   {
@@ -214,9 +214,9 @@
     "releaseDate": "2023-09-22",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1049,
+      "ListPrice": 524.5,
       "MSRP": 1049,
-      "WholesalePrice": 734.3
+      "WholesalePrice": 367.15
     }
   },
   {
@@ -646,6 +646,17 @@
       "ListPrice": 1099,
       "MSRP": 1099,
       "WholesalePrice": 651.95
+    }
+  },
+  {
+    "productTitle": "Beast of Reincarnation",
+    "productId": "9NXWSWBM4H6T",
+    "releaseDate": "2026-08-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4499,
+      "MSRP": 4499,
+      "WholesalePrice": 3149.31
     }
   },
   {
@@ -1138,9 +1149,9 @@
     "releaseDate": "2026-05-28",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 359,
+      "ListPrice": 233.35,
       "MSRP": 359,
-      "WholesalePrice": 251.31
+      "WholesalePrice": 163.35
     }
   },
   {
@@ -1281,9 +1292,9 @@
     "releaseDate": "2020-05-13",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 699,
+      "ListPrice": 209.7,
       "MSRP": 699,
-      "WholesalePrice": 489.3
+      "WholesalePrice": 146.79
     }
   },
   {
@@ -2062,9 +2073,9 @@
     "releaseDate": "2026-06-11",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 599,
+      "ListPrice": 449.25,
       "MSRP": 599,
-      "WholesalePrice": 419.31
+      "WholesalePrice": 314.48
     }
   },
   {
@@ -2106,9 +2117,9 @@
     "releaseDate": "2019-03-27",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 899,
+      "ListPrice": 359.6,
       "MSRP": 899,
-      "WholesalePrice": 629.31
+      "WholesalePrice": 251.72
     }
   },
   {
@@ -2238,9 +2249,9 @@
     "releaseDate": "2024-11-15",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1099,
+      "ListPrice": 549.5,
       "MSRP": 1099,
-      "WholesalePrice": 769.3
+      "WholesalePrice": 384.65
     }
   },
   {
@@ -2623,9 +2634,9 @@
     "releaseDate": "2024-05-17",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1349,
+      "ListPrice": 539.6,
       "MSRP": 1349,
-      "WholesalePrice": 944.3
+      "WholesalePrice": 377.72
     }
   },
   {
@@ -2645,9 +2656,9 @@
     "releaseDate": "2023-04-10",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1099,
+      "ListPrice": 329.7,
       "MSRP": 1099,
-      "WholesalePrice": 769.3
+      "WholesalePrice": 230.79
     }
   },
   {
@@ -3228,9 +3239,9 @@
     "releaseDate": "2018-05-29",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1099,
+      "ListPrice": 164.85,
       "MSRP": 1099,
-      "WholesalePrice": 769.3
+      "WholesalePrice": 115.39
     }
   },
   {
@@ -3701,9 +3712,9 @@
     "releaseDate": "2025-10-23",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1000,
+      "ListPrice": 750,
       "MSRP": 1000,
-      "WholesalePrice": 700.01
+      "WholesalePrice": 525
     }
   },
   {
@@ -3888,9 +3899,9 @@
     "releaseDate": "2026-02-10",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1119,
+      "ListPrice": 783.3,
       "MSRP": 1119,
-      "WholesalePrice": 783.31
+      "WholesalePrice": 548.31
     }
   },
   {
@@ -3910,9 +3921,9 @@
     "releaseDate": "2023-07-25",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2724,
+      "ListPrice": 681,
       "MSRP": 2724,
-      "WholesalePrice": 1906.8
+      "WholesalePrice": 476.7
     }
   },
   {
@@ -4218,9 +4229,9 @@
     "releaseDate": "2026-06-08",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1719,
+      "ListPrice": 1375.2,
       "MSRP": 1719,
-      "WholesalePrice": 1203.31
+      "WholesalePrice": 962.64
     }
   },
   {
@@ -4493,9 +4504,9 @@
     "releaseDate": "2020-07-06",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1299,
+      "ListPrice": 519.6,
       "MSRP": 1299,
-      "WholesalePrice": 770.59
+      "WholesalePrice": 308.23
     }
   },
   {
