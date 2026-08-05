@@ -544,9 +544,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3499,
-      "MSRP": 3499,
-      "WholesalePrice": 2449.31
+      "ListPrice": 2099,
+      "MSRP": 2099,
+      "WholesalePrice": 1469.31
     }
   },
   {
@@ -4867,9 +4867,9 @@
     "releaseDate": "2026-07-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 990,
+      "ListPrice": 1100,
       "MSRP": 1100,
-      "WholesalePrice": 693
+      "WholesalePrice": 770.01
     }
   },
   {
