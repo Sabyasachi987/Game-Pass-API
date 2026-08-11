@@ -1188,6 +1188,17 @@
     }
   },
   {
+    "productTitle": "Date Everything!",
+    "productId": "9N0CCPMBLJQ8",
+    "releaseDate": "2025-06-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1999,
+      "MSRP": 1999,
+      "WholesalePrice": 1399.31
+    }
+  },
+  {
     "productTitle": "Day of the Tentacle Remastered",
     "productId": "9NKK6CX54183",
     "releaseDate": "2020-10-29",
@@ -2645,9 +2656,9 @@
     "releaseDate": "2026-04-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 999,
-      "MSRP": 999,
-      "WholesalePrice": 699.31
+      "ListPrice": 1480,
+      "MSRP": 1480,
+      "WholesalePrice": 1036.01
     }
   },
   {
