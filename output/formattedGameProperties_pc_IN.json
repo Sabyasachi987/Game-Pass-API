@@ -962,9 +962,9 @@
     "releaseDate": "2023-06-01",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1624,
+      "ListPrice": 487.2,
       "MSRP": 1624,
-      "WholesalePrice": 1136.8
+      "WholesalePrice": 341.04
     }
   },
   {
@@ -984,9 +984,9 @@
     "releaseDate": "2021-06-08",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2174,
+      "ListPrice": 434.8,
       "MSRP": 2174,
-      "WholesalePrice": 1521.8
+      "WholesalePrice": 304.36
     }
   },
   {
@@ -1166,14 +1166,25 @@
     }
   },
   {
+    "productTitle": "Cricket 26 - The Official Game of the Ashes",
+    "productId": "9N6JF50HZFW9",
+    "releaseDate": "2025-11-19",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4399,
+      "MSRP": 4399,
+      "WholesalePrice": 3079.31
+    }
+  },
+  {
     "productTitle": "Crime Scene Cleaner",
     "productId": "9NGZ1M3N98P2",
     "releaseDate": "2025-04-17",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2249,
+      "ListPrice": 1461.85,
       "MSRP": 2249,
-      "WholesalePrice": 1574.31
+      "WholesalePrice": 1023.3
     }
   },
   {
@@ -2156,6 +2167,17 @@
     }
   },
   {
+    "productTitle": "Gears of War: E-Day Multiplayer Beta",
+    "productId": "9NHLZS3G6D8H",
+    "releaseDate": "2026-06-07",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
+  },
+  {
     "productTitle": "Gears of War: Reloaded",
     "productId": "9P8PS6993LSL",
     "releaseDate": "2025-08-26",
@@ -2414,9 +2436,9 @@
     "releaseDate": "2025-09-04",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3499,
+      "ListPrice": 1049.7,
       "MSRP": 3499,
-      "WholesalePrice": 2449.3
+      "WholesalePrice": 734.79
     }
   },
   {
@@ -3173,9 +3195,9 @@
     "releaseDate": "2026-07-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1682.1,
+      "ListPrice": 1869,
       "MSRP": 1869,
-      "WholesalePrice": 1177.47
+      "WholesalePrice": 1308.31
     }
   },
   {
