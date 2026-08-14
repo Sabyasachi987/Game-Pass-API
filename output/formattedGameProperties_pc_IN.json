@@ -122,13 +122,13 @@
   },
   {
     "productTitle": "Age of Empires III: Definitive Edition",
-    "productId": "9N1HF804QXN4",
-    "releaseDate": "2020-10-15",
+    "productId": "9P91FNMH1GG0",
+    "releaseDate": "2026-08-13",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1299,
-      "MSRP": 1299,
-      "WholesalePrice": 770.6
+      "ListPrice": 2099,
+      "MSRP": 2099,
+      "WholesalePrice": 1245.17
     }
   },
   {
@@ -4144,6 +4144,17 @@
       "ListPrice": 599,
       "MSRP": 599,
       "WholesalePrice": 419.31
+    }
+  },
+  {
+    "productTitle": "Sandustry (Game Preview)",
+    "productId": "9PPH71DV44T7",
+    "releaseDate": "2026-08-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 499,
+      "MSRP": 499,
+      "WholesalePrice": 349.31
     }
   },
   {
