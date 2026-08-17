@@ -176,17 +176,6 @@
     }
   },
   {
-    "productTitle": "Aliens: Fireteam Elite",
-    "productId": "9PG28RXDG9GQ",
-    "releaseDate": "2021-08-24",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 2449,
-      "MSRP": 2449,
-      "WholesalePrice": 1452.8
-    }
-  },
-  {
     "productTitle": "Among Us",
     "productId": "9NG07QJNK38J",
     "releaseDate": "2021-12-14",
@@ -514,17 +503,6 @@
       "ListPrice": 1499,
       "MSRP": 1499,
       "WholesalePrice": 889.24
-    }
-  },
-  {
-    "productTitle": "Atlas Fallen: Reign of Sand (Windows)",
-    "productId": "9NCGTG3KR2W9",
-    "releaseDate": "2024-08-22",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1899,
-      "MSRP": 1899,
-      "WholesalePrice": 1329.3
     }
   },
   {
@@ -1958,17 +1936,6 @@
     }
   },
   {
-    "productTitle": "Firewatch",
-    "productId": "BQQKG9H2STC0",
-    "releaseDate": "2016-09-21",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1769.99,
-      "MSRP": 1769.99,
-      "WholesalePrice": 1050
-    }
-  },
-  {
     "productTitle": "FixForce",
     "productId": "9N7MVHP2R7VP",
     "releaseDate": "2026-07-17",
@@ -3044,17 +3011,6 @@
       "ListPrice": 1899,
       "MSRP": 1899,
       "WholesalePrice": 1329.3
-    }
-  },
-  {
-    "productTitle": "MENACE (Game Preview)",
-    "productId": "9NQCJ397CQ6P",
-    "releaseDate": "2026-02-05",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1499,
-      "MSRP": 1499,
-      "WholesalePrice": 1049.31
     }
   },
   {
