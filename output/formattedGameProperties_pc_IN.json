@@ -2134,17 +2134,6 @@
     }
   },
   {
-    "productTitle": "Gears of War: E-Day Multiplayer Beta",
-    "productId": "9NHLZS3G6D8H",
-    "releaseDate": "2026-06-07",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 0,
-      "MSRP": 0,
-      "WholesalePrice": null
-    }
-  },
-  {
     "productTitle": "Gears of War: Reloaded",
     "productId": "9P8PS6993LSL",
     "releaseDate": "2025-08-26",
@@ -2403,9 +2392,9 @@
     "releaseDate": "2025-09-04",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1049.7,
+      "ListPrice": 3499,
       "MSRP": 3499,
-      "WholesalePrice": 734.79
+      "WholesalePrice": 2449.3
     }
   },
   {
