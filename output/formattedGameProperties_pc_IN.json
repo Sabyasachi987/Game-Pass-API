@@ -726,6 +726,17 @@
     }
   },
   {
+    "productTitle": "Blood Dungeon",
+    "productId": "9MSVBF0KZFVW",
+    "releaseDate": "2026-08-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 636.65,
+      "MSRP": 749,
+      "WholesalePrice": 445.66
+    }
+  },
+  {
     "productTitle": "Blue Prince",
     "productId": "9PFRTPRQ569Q",
     "releaseDate": "2025-04-10",
@@ -1963,9 +1974,9 @@
     "releaseDate": "2025-11-04",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1799.6,
+      "ListPrice": 4499,
       "MSRP": 4499,
-      "WholesalePrice": 1259.72
+      "WholesalePrice": 3149.31
     }
   },
   {
@@ -1974,9 +1985,9 @@
     "releaseDate": "2025-11-04",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1799.6,
+      "ListPrice": 4499,
       "MSRP": 4499,
-      "WholesalePrice": 1259.72
+      "WholesalePrice": 3149.31
     }
   },
   {
@@ -2843,9 +2854,9 @@
     "releaseDate": "2024-01-26",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1099.75,
+      "ListPrice": 4399,
       "MSRP": 4399,
-      "WholesalePrice": 652.39
+      "WholesalePrice": 2609.58
     }
   },
   {
@@ -2854,9 +2865,9 @@
     "releaseDate": "2025-02-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1199.75,
+      "ListPrice": 4799,
       "MSRP": 4799,
-      "WholesalePrice": 711.71
+      "WholesalePrice": 2846.87
     }
   },
   {
@@ -3443,6 +3454,17 @@
     }
   },
   {
+    "productTitle": "Once Human",
+    "productId": "9N0QWXC09MPT",
+    "releaseDate": "2026-08-25",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": 0
+    }
+  },
+  {
     "productTitle": "One Lonely Outpost",
     "productId": "9NRCM30L6GRQ",
     "releaseDate": "2025-03-06",
@@ -3591,9 +3613,9 @@
     "releaseDate": "2022-10-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1049.4,
+      "ListPrice": 3498,
       "MSRP": 3498,
-      "WholesalePrice": 622.52
+      "WholesalePrice": 2075.09
     }
   },
   {
