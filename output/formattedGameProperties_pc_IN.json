@@ -951,9 +951,9 @@
     "releaseDate": "2023-06-01",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 487.2,
+      "ListPrice": 1624,
       "MSRP": 1624,
-      "WholesalePrice": 341.04
+      "WholesalePrice": 1136.8
     }
   },
   {
@@ -973,9 +973,9 @@
     "releaseDate": "2021-06-08",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 434.8,
+      "ListPrice": 2174,
       "MSRP": 2174,
-      "WholesalePrice": 304.36
+      "WholesalePrice": 1521.8
     }
   },
   {
@@ -1171,9 +1171,9 @@
     "releaseDate": "2025-04-17",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1461.85,
+      "ListPrice": 2249,
       "MSRP": 2249,
-      "WholesalePrice": 1023.3
+      "WholesalePrice": 1574.31
     }
   },
   {
@@ -1974,9 +1974,9 @@
     "releaseDate": "2025-11-04",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 4499,
+      "ListPrice": 1799.6,
       "MSRP": 4499,
-      "WholesalePrice": 3149.31
+      "WholesalePrice": 1259.72
     }
   },
   {
@@ -1985,9 +1985,9 @@
     "releaseDate": "2025-11-04",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 4499,
+      "ListPrice": 1799.6,
       "MSRP": 4499,
-      "WholesalePrice": 3149.31
+      "WholesalePrice": 1259.72
     }
   },
   {
@@ -2854,9 +2854,9 @@
     "releaseDate": "2024-01-26",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 4399,
+      "ListPrice": 1099.75,
       "MSRP": 4399,
-      "WholesalePrice": 2609.58
+      "WholesalePrice": 652.39
     }
   },
   {
@@ -2865,9 +2865,9 @@
     "releaseDate": "2025-02-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 4799,
+      "ListPrice": 1199.75,
       "MSRP": 4799,
-      "WholesalePrice": 2846.87
+      "WholesalePrice": 711.71
     }
   },
   {
@@ -3613,9 +3613,9 @@
     "releaseDate": "2022-10-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3498,
+      "ListPrice": 1049.4,
       "MSRP": 3498,
-      "WholesalePrice": 2075.09
+      "WholesalePrice": 622.52
     }
   },
   {
@@ -3982,6 +3982,17 @@
     }
   },
   {
+    "productTitle": "Resonance: A Plague Tale Legacy",
+    "productId": "9PPBNCXP0096",
+    "releaseDate": "2026-08-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3490,
+      "MSRP": 3490,
+      "WholesalePrice": 2443.01
+    }
+  },
+  {
     "productTitle": "Retro Classics",
     "productId": "9MTVJ3HHTQGS",
     "releaseDate": "9998-12-30",
@@ -4042,9 +4053,9 @@
     "releaseDate": "9998-12-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 969,
-      "MSRP": 969,
-      "WholesalePrice": 678.31
+      "ListPrice": 719,
+      "MSRP": 719,
+      "WholesalePrice": 503.31
     }
   },
   {
@@ -4251,9 +4262,9 @@
     "releaseDate": "2025-10-07",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1274.15,
+      "ListPrice": 1499,
       "MSRP": 1499,
-      "WholesalePrice": 891.91
+      "WholesalePrice": 1049.31
     }
   },
   {
