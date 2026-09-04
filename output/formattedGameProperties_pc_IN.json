@@ -588,9 +588,9 @@
     "releaseDate": "2015-06-24",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 255,
+      "ListPrice": 1700,
       "MSRP": 1700,
-      "WholesalePrice": 178.5
+      "WholesalePrice": 1190
     }
   },
   {
@@ -742,9 +742,9 @@
     "releaseDate": "2023-11-16",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1349.4,
+      "ListPrice": 2249,
       "MSRP": 2249,
-      "WholesalePrice": 944.58
+      "WholesalePrice": 1574.31
     }
   },
   {
@@ -1402,9 +1402,9 @@
     "releaseDate": "2020-11-06",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1139.7,
+      "ListPrice": 3799,
       "MSRP": 3799,
-      "WholesalePrice": 797.79
+      "WholesalePrice": 2659.3
     }
   },
   {
@@ -2524,9 +2524,9 @@
     "releaseDate": "2023-02-09",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 659.85,
+      "ListPrice": 4399,
       "MSRP": 4399,
-      "WholesalePrice": 461.89
+      "WholesalePrice": 3079.3
     }
   },
   {
@@ -2689,9 +2689,9 @@
     "releaseDate": "2025-10-17",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1499,
-      "MSRP": 1499,
-      "WholesalePrice": 889.24
+      "ListPrice": 999,
+      "MSRP": 999,
+      "WholesalePrice": 592.63
     }
   },
   {
@@ -3228,9 +3228,9 @@
     "releaseDate": "2023-09-18",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 599.8,
+      "ListPrice": 2999,
       "MSRP": 2999,
-      "WholesalePrice": 419.86
+      "WholesalePrice": 2099.3
     }
   },
   {
@@ -3272,9 +3272,9 @@
     "releaseDate": "2021-10-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 652.2,
+      "ListPrice": 2174,
       "MSRP": 2174,
-      "WholesalePrice": 456.54
+      "WholesalePrice": 1521.8
     }
   },
   {
@@ -4268,6 +4268,17 @@
     }
   },
   {
+    "productTitle": "SpeedRunners 2: King of Speed",
+    "productId": "9PPKR9N31BW6",
+    "releaseDate": "2026-09-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 895.2,
+      "MSRP": 1119,
+      "WholesalePrice": 626.64
+    }
+  },
+  {
     "productTitle": "Spiritfarer®: Farewell Edition",
     "productId": "9NG5L58FD3X5",
     "releaseDate": "2020-08-18",
@@ -5010,9 +5021,9 @@
     "releaseDate": "2025-07-11",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2474.45,
+      "ListPrice": 4499,
       "MSRP": 4499,
-      "WholesalePrice": 1732.12
+      "WholesalePrice": 3149.31
     }
   },
   {
@@ -5032,9 +5043,9 @@
     "releaseDate": "2025-11-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1214.85,
+      "ListPrice": 1869,
       "MSRP": 1869,
-      "WholesalePrice": 850.4
+      "WholesalePrice": 1308.31
     }
   },
   {
