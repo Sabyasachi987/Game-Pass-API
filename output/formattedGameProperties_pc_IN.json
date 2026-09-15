@@ -1556,9 +1556,9 @@
     "releaseDate": "2025-05-15",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 5999,
-      "MSRP": 5999,
-      "WholesalePrice": 4199.3
+      "ListPrice": 3479,
+      "MSRP": 3479,
+      "WholesalePrice": 2435.31
     }
   },
   {
@@ -1578,9 +1578,9 @@
     "releaseDate": "2023-03-29",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1999,
+      "ListPrice": 799.6,
       "MSRP": 1999,
-      "WholesalePrice": 1399.3
+      "WholesalePrice": 559.72
     }
   },
   {
@@ -3635,9 +3635,9 @@
     "releaseDate": "2026-03-05",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1499,
+      "ListPrice": 1049.3,
       "MSRP": 1499,
-      "WholesalePrice": 1049.31
+      "WholesalePrice": 734.51
     }
   },
   {
@@ -4554,7 +4554,7 @@
     }
   },
   {
-    "productTitle": "TCG Card Shop Simulator (Game Preview)",
+    "productTitle": "TCG Card Shop Simulator",
     "productId": "9P9GX5D8H9DW",
     "releaseDate": "2026-09-15",
     "pricing": {
