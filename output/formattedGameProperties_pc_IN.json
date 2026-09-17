@@ -1045,17 +1045,6 @@
     }
   },
   {
-    "productTitle": "Commandos: Origins (Win)",
-    "productId": "9PDH7X3J5CZT",
-    "releaseDate": "2025-04-09",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 2724,
-      "MSRP": 2724,
-      "WholesalePrice": 1906.8
-    }
-  },
-  {
     "productTitle": "Conker: Live and Reloaded",
     "productId": "BVFB8CBS75R6",
     "releaseDate": "2018-04-13",
@@ -1155,17 +1144,6 @@
     }
   },
   {
-    "productTitle": "Cricket 24: The Official Game Of The Ashes",
-    "productId": "9NKF2SZ630ZH",
-    "releaseDate": "2024-06-26",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 2999,
-      "MSRP": 2999,
-      "WholesalePrice": 2099.3
-    }
-  },
-  {
     "productTitle": "Cricket 26 - The Official Game of the Ashes",
     "productId": "9N6JF50HZFW9",
     "releaseDate": "2025-11-19",
@@ -1243,17 +1221,6 @@
     }
   },
   {
-    "productTitle": "Dead Cells",
-    "productId": "9NKVX66J0ZSK",
-    "releaseDate": "2019-09-05",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1349,
-      "MSRP": 1349,
-      "WholesalePrice": 944.3
-    }
-  },
-  {
     "productTitle": "Dead Island 2 (Windows)",
     "productId": "9N92LSHFZ935",
     "releaseDate": "2024-10-31",
@@ -1281,9 +1248,9 @@
     "releaseDate": "2025-12-09",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1049.3,
+      "ListPrice": 1499,
       "MSRP": 1499,
-      "WholesalePrice": 734.51
+      "WholesalePrice": 1049.31
     }
   },
   {
@@ -1312,17 +1279,6 @@
     "productTitle": "Deep Rock Galactic",
     "productId": "9NHFVWX1V7QJ",
     "releaseDate": "2020-05-13",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 699,
-      "MSRP": 699,
-      "WholesalePrice": 489.3
-    }
-  },
-  {
-    "productTitle": "Deep Rock Galactic: Survivor",
-    "productId": "9PHGQPRBBSXK",
-    "releaseDate": "2025-09-17",
     "pricing": {
       "currencyCode": "INR",
       "ListPrice": 699,
@@ -1754,9 +1710,9 @@
     "releaseDate": "2020-07-09",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2499,
+      "ListPrice": 624.75,
       "MSRP": 2499,
-      "WholesalePrice": 1749.3
+      "WholesalePrice": 437.32
     }
   },
   {
@@ -2090,17 +2046,6 @@
     }
   },
   {
-    "productTitle": "Frostpunk 2",
-    "productId": "9N0KN24FWP6B",
-    "releaseDate": "2024-09-20",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1224.5,
-      "MSRP": 2449,
-      "WholesalePrice": 857.15
-    }
-  },
-  {
     "productTitle": "Full Throttle Remastered",
     "productId": "9P3ZRGNQVC7D",
     "releaseDate": "2020-10-29",
@@ -2227,9 +2172,9 @@
     "releaseDate": "2023-04-12",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3999,
+      "ListPrice": 999.75,
       "MSRP": 3999,
-      "WholesalePrice": 2799.3
+      "WholesalePrice": 699.82
     }
   },
   {
@@ -3278,17 +3223,6 @@
     }
   },
   {
-    "productTitle": "MULLET MADJACK",
-    "productId": "9PG8TV30NN9H",
-    "releaseDate": "2025-03-13",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1099,
-      "MSRP": 1099,
-      "WholesalePrice": 769.3
-    }
-  },
-  {
     "productTitle": "My Friend Peppa Pig",
     "productId": "9NDJLXD2X2DM",
     "releaseDate": "2021-10-21",
@@ -4119,9 +4053,9 @@
     "releaseDate": "2018-03-19",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3499,
+      "ListPrice": 1224.65,
       "MSRP": 3499,
-      "WholesalePrice": 2075.68
+      "WholesalePrice": 726.48
     }
   },
   {
@@ -4163,9 +4097,9 @@
     "releaseDate": "2026-09-01",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 299.2,
+      "ListPrice": 374,
       "MSRP": 374,
-      "WholesalePrice": 209.44
+      "WholesalePrice": 261.81
     }
   },
   {
@@ -4298,17 +4232,6 @@
       "ListPrice": 895.2,
       "MSRP": 1119,
       "WholesalePrice": 626.64
-    }
-  },
-  {
-    "productTitle": "Spiritfarer®: Farewell Edition",
-    "productId": "9NG5L58FD3X5",
-    "releaseDate": "2020-08-18",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1974,
-      "MSRP": 1974,
-      "WholesalePrice": 1171.02
     }
   },
   {
@@ -4521,17 +4444,6 @@
     }
   },
   {
-    "productTitle": "Superliminal",
-    "productId": "9NVR4ZQKNBSB",
-    "releaseDate": "2020-07-06",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1299,
-      "MSRP": 1299,
-      "WholesalePrice": 770.59
-    }
-  },
-  {
     "productTitle": "Supermarket Simulator",
     "productId": "9NR0GCBSLDW4",
     "releaseDate": "2025-10-08",
@@ -4658,9 +4570,9 @@
     "releaseDate": "2025-06-13",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 949.5,
+      "ListPrice": 1899,
       "MSRP": 1899,
-      "WholesalePrice": 664.65
+      "WholesalePrice": 1329.3
     }
   },
   {
@@ -4801,9 +4713,9 @@
     "releaseDate": "2021-03-12",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1549,
+      "ListPrice": 387.25,
       "MSRP": 1549,
-      "WholesalePrice": 1084.3
+      "WholesalePrice": 271.07
     }
   },
   {
@@ -4812,9 +4724,9 @@
     "releaseDate": "2021-06-13",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2499,
+      "ListPrice": 499.8,
       "MSRP": 2499,
-      "WholesalePrice": 1749.3
+      "WholesalePrice": 349.86
     }
   },
   {
@@ -4944,9 +4856,9 @@
     "releaseDate": "2024-12-04",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 664.65,
+      "ListPrice": 1899,
       "MSRP": 1899,
-      "WholesalePrice": 465.25
+      "WholesalePrice": 1329.3
     }
   },
   {
@@ -5134,17 +5046,6 @@
       "ListPrice": 1974,
       "MSRP": 1974,
       "WholesalePrice": 1171.02
-    }
-  },
-  {
-    "productTitle": "Train Sim World® 5: Standard Edition",
-    "productId": "9N9FR8CSZP56",
-    "releaseDate": "2024-09-17",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 2749,
-      "MSRP": 2749,
-      "WholesalePrice": 1924.3
     }
   },
   {
