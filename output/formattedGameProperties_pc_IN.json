@@ -2662,6 +2662,17 @@
     }
   },
   {
+    "productTitle": "Kernel Hearts",
+    "productId": "9NXSNQR7CM1Q",
+    "releaseDate": "2026-09-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 719,
+      "MSRP": 719,
+      "WholesalePrice": 503.31
+    }
+  },
+  {
     "productTitle": "KILL IT WITH FIRE! 2",
     "productId": "9MXHL3TT792F",
     "releaseDate": "2025-11-25",
@@ -3261,9 +3272,9 @@
     "releaseDate": "2023-03-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 870,
+      "ListPrice": 5800,
       "MSRP": 5800,
-      "WholesalePrice": 609
+      "WholesalePrice": 4060
     }
   },
   {
@@ -3338,9 +3349,9 @@
     "releaseDate": "2018-07-24",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1299.6,
+      "ListPrice": 3249,
       "MSRP": 3249,
-      "WholesalePrice": 909.72
+      "WholesalePrice": 2274.3
     }
   },
   {
@@ -4092,6 +4103,17 @@
     }
   },
   {
+    "productTitle": "Shape of Dreams",
+    "productId": "9PK0DZ68LGC0",
+    "releaseDate": "2026-09-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1495.2,
+      "MSRP": 1869,
+      "WholesalePrice": 1046.64
+    }
+  },
+  {
     "productTitle": "Shelldiver",
     "productId": "9N51NR4GX891",
     "releaseDate": "2026-09-01",
@@ -4229,9 +4251,9 @@
     "releaseDate": "2026-09-03",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 895.2,
+      "ListPrice": 1119,
       "MSRP": 1119,
-      "WholesalePrice": 626.64
+      "WholesalePrice": 783.31
     }
   },
   {
