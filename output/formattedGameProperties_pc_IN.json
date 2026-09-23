@@ -1562,6 +1562,17 @@
     }
   },
   {
+    "productTitle": "Dune: Awakening",
+    "productId": "9PJ6FV3130QZ",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 3749,
+      "MSRP": 3749,
+      "WholesalePrice": 2624.31
+    }
+  },
+  {
     "productTitle": "Easy Delivery Co.",
     "productId": "9PDC8J1BSV8B",
     "releaseDate": "2026-03-26",
@@ -2904,6 +2915,17 @@
     }
   },
   {
+    "productTitle": "Mad King Redemption",
+    "productId": "9N944N1WP67T",
+    "releaseDate": "2026-08-23",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1119,
+      "MSRP": 1119,
+      "WholesalePrice": 783.31
+    }
+  },
+  {
     "productTitle": "Manor Lords (Game Preview)",
     "productId": "9P5F966564FS",
     "releaseDate": "2023-10-25",
@@ -3591,9 +3613,9 @@
     "releaseDate": "2026-03-05",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1049.3,
+      "ListPrice": 1499,
       "MSRP": 1499,
-      "WholesalePrice": 734.51
+      "WholesalePrice": 1049.31
     }
   },
   {
@@ -5442,6 +5464,17 @@
       "ListPrice": 3990,
       "MSRP": 3990,
       "WholesalePrice": 2793
+    }
+  },
+  {
+    "productTitle": "Well Dweller",
+    "productId": "9PLH7R84GJWP",
+    "releaseDate": "2026-09-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1274.15,
+      "MSRP": 1499,
+      "WholesalePrice": 891.91
     }
   },
   {
