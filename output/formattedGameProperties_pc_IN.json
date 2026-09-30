@@ -1182,9 +1182,9 @@
     "releaseDate": "2025-06-16",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 659.67,
+      "ListPrice": 1999,
       "MSRP": 1999,
-      "WholesalePrice": 461.77
+      "WholesalePrice": 1399.31
     }
   },
   {
@@ -3069,6 +3069,17 @@
     }
   },
   {
+    "productTitle": "Minecraft Dungeons II",
+    "productId": "9PM3J18QM4Q3",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2399,
+      "MSRP": 2399,
+      "WholesalePrice": 1423.14
+    }
+  },
+  {
     "productTitle": "Minecraft Legends for Windows + Launcher",
     "productId": "9NM395CH685J",
     "releaseDate": "2023-04-18",
@@ -3143,17 +3154,6 @@
       "ListPrice": 899,
       "MSRP": 899,
       "WholesalePrice": 629.31
-    }
-  },
-  {
-    "productTitle": "MONOPOLY 2024",
-    "productId": "9NVH8SJNX20S",
-    "releaseDate": "2026-07-21",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 299.6,
-      "MSRP": 749,
-      "WholesalePrice": 209.72
     }
   },
   {
@@ -3250,9 +3250,9 @@
     "releaseDate": "2023-08-14",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 599.75,
+      "ListPrice": 2399,
       "MSRP": 2399,
-      "WholesalePrice": 419.82
+      "WholesalePrice": 1679.3
     }
   },
   {
@@ -3275,6 +3275,17 @@
       "ListPrice": 0,
       "MSRP": 0,
       "WholesalePrice": 0
+    }
+  },
+  {
+    "productTitle": "NEW MONOPOLY®",
+    "productId": "9NVH8SJNX20S",
+    "releaseDate": "2026-07-21",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 299.6,
+      "MSRP": 749,
+      "WholesalePrice": 209.72
     }
   },
   {
@@ -4504,9 +4515,9 @@
     "releaseDate": "2025-09-23",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 624.25,
+      "ListPrice": 2497,
       "MSRP": 2497,
-      "WholesalePrice": 436.97
+      "WholesalePrice": 1747.91
     }
   },
   {
@@ -5109,9 +5120,9 @@
     "releaseDate": "2023-10-01",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 599.75,
+      "ListPrice": 2399,
       "MSRP": 2399,
-      "WholesalePrice": 419.82
+      "WholesalePrice": 1679.3
     }
   },
   {
