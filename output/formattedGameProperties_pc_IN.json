@@ -506,17 +506,6 @@
     }
   },
   {
-    "productTitle": "Atomfall",
-    "productId": "9NC4WDL5KZBL",
-    "releaseDate": "2025-03-27",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 3249,
-      "MSRP": 3249,
-      "WholesalePrice": 2274.3
-    }
-  },
-  {
     "productTitle": "Avatar: Frontiers of Pandora",
     "productId": "9N21G14CVS5L",
     "releaseDate": "2026-07-21",
@@ -2750,17 +2739,6 @@
     }
   },
   {
-    "productTitle": "Lara Croft and the Guardian of Light (PC)",
-    "productId": "9NS37Q75LBCG",
-    "releaseDate": "2025-09-05",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 724,
-      "MSRP": 724,
-      "WholesalePrice": 506.8
-    }
-  },
-  {
     "productTitle": "Lara Croft and the Temple of Osiris",
     "productId": "C3553MB4P5TT",
     "releaseDate": "2014-12-09",
@@ -2868,28 +2846,6 @@
       "ListPrice": 1499,
       "MSRP": 1499,
       "WholesalePrice": 889.24
-    }
-  },
-  {
-    "productTitle": "Little Nightmares II Enhanced Edition - Windows",
-    "productId": "9PBM67RXX3V8",
-    "releaseDate": "2025-07-01",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1999,
-      "MSRP": 1999,
-      "WholesalePrice": 1185.85
-    }
-  },
-  {
-    "productTitle": "Little Rocket Lab",
-    "productId": "9N3M5D5ZSW34",
-    "releaseDate": "2025-10-07",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1099,
-      "MSRP": 1099,
-      "WholesalePrice": 769.3
     }
   },
   {
@@ -3503,9 +3459,9 @@
     "releaseDate": "2025-10-23",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 568.4,
+      "ListPrice": 1624,
       "MSRP": 1624,
-      "WholesalePrice": 397.88
+      "WholesalePrice": 1136.8
     }
   },
   {
@@ -3855,9 +3811,9 @@
     "releaseDate": "2025-06-19",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 539.6,
+      "ListPrice": 1349,
       "MSRP": 1349,
-      "WholesalePrice": 377.72
+      "WholesalePrice": 944.3
     }
   },
   {
@@ -4141,9 +4097,9 @@
     "releaseDate": "2026-09-17",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1495.2,
+      "ListPrice": 1869,
       "MSRP": 1869,
-      "WholesalePrice": 1046.64
+      "WholesalePrice": 1308.31
     }
   },
   {
@@ -4166,17 +4122,6 @@
       "ListPrice": 749,
       "MSRP": 749,
       "WholesalePrice": 524.31
-    }
-  },
-  {
-    "productTitle": "Sifu",
-    "productId": "9P7PF6ZP3958",
-    "releaseDate": "2023-03-28",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 543.5,
-      "MSRP": 2174,
-      "WholesalePrice": 380.45
     }
   },
   {
@@ -4232,17 +4177,6 @@
       "ListPrice": 1719,
       "MSRP": 1719,
       "WholesalePrice": 1203.31
-    }
-  },
-  {
-    "productTitle": "SOPA - Tale of the Stolen Potato",
-    "productId": "9N221ZTFGQB0",
-    "releaseDate": "2025-10-07",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1499,
-      "MSRP": 1499,
-      "WholesalePrice": 1049.31
     }
   },
   {
@@ -4510,17 +4444,6 @@
     }
   },
   {
-    "productTitle": "SWORN",
-    "productId": "9MWDJRQ1BXTC",
-    "releaseDate": "2025-09-23",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 2497,
-      "MSRP": 2497,
-      "WholesalePrice": 1747.91
-    }
-  },
-  {
     "productTitle": "Symphonia 𝄞",
     "productId": "9NBLHDB0WLHZ",
     "releaseDate": "2024-12-05",
@@ -4595,17 +4518,6 @@
       "ListPrice": 1099,
       "MSRP": 1099,
       "WholesalePrice": 769.3
-    }
-  },
-  {
-    "productTitle": "Terminull Brigade™",
-    "productId": "9MW1V43D3VZN",
-    "releaseDate": "2025-12-08",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 0,
-      "MSRP": 0,
-      "WholesalePrice": 0
     }
   },
   {
