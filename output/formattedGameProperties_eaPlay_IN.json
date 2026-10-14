@@ -1,5 +1,16 @@
 [
   {
+    "productTitle": "Battlefield™ 6",
+    "productId": "9P2FF14JZLL3",
+    "releaseDate": "2025-10-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1999.6,
+      "MSRP": 4999,
+      "WholesalePrice": 1399.72
+    }
+  },
+  {
     "productTitle": "EA SPORTS FC™ 26 Xbox One",
     "productId": "9NK13T4QFPQW",
     "releaseDate": "9998-12-30",

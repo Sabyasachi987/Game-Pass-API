@@ -1265,6 +1265,17 @@
     }
   },
   {
+    "productTitle": "Deep Dish Dungeon",
+    "productId": "9PPF72ZH6RP8",
+    "releaseDate": "2026-10-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1119,
+      "MSRP": 1119,
+      "WholesalePrice": 783.31
+    }
+  },
+  {
     "productTitle": "Deep Rock Galactic",
     "productId": "9NHFVWX1V7QJ",
     "releaseDate": "2020-05-13",
@@ -2777,9 +2788,9 @@
     "releaseDate": "2014-12-09",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1120,
+      "ListPrice": 112,
       "MSRP": 1120,
-      "WholesalePrice": 664.41
+      "WholesalePrice": 66.44
     }
   },
   {
@@ -4383,9 +4394,9 @@
     "releaseDate": "9998-12-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2249,
+      "ListPrice": 1461.85,
       "MSRP": 2249,
-      "WholesalePrice": 1574.31
+      "WholesalePrice": 1023.3
     }
   },
   {
@@ -5178,6 +5189,17 @@
       "ListPrice": 0,
       "MSRP": 0,
       "WholesalePrice": null
+    }
+  },
+  {
+    "productTitle": "Valor Mortis",
+    "productId": "9P861V1542BL",
+    "releaseDate": "2026-10-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2299,
+      "MSRP": 2299,
+      "WholesalePrice": 1609.31
     }
   },
   {
