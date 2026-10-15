@@ -60,9 +60,9 @@
     "releaseDate": "2025-07-22",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1199.2,
+      "ListPrice": 1499,
       "MSRP": 1499,
-      "WholesalePrice": 839.44
+      "WholesalePrice": 1049.3
     }
   },
   {
@@ -451,17 +451,6 @@
     }
   },
   {
-    "productTitle": "Assassin’s Creed Chronicles: India",
-    "productId": "9N0QFT016SGV",
-    "releaseDate": "2016-01-12",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 0,
-      "MSRP": 0,
-      "WholesalePrice": null
-    }
-  },
-  {
     "productTitle": "Assassin’s Creed IV Black Flag - Gold Edition",
     "productId": "9NVZ03XT8S2P",
     "releaseDate": "2026-07-21",
@@ -676,9 +665,9 @@
     "releaseDate": "2026-02-12",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1702.35,
+      "ListPrice": 2619,
       "MSRP": 2619,
-      "WholesalePrice": 1191.65
+      "WholesalePrice": 1833.31
     }
   },
   {
@@ -748,6 +737,17 @@
     }
   },
   {
+    "productTitle": "Bluey's Happy Snaps",
+    "productId": "9NQVHHW88XW9",
+    "releaseDate": "2026-10-14",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2499,
+      "MSRP": 2499,
+      "WholesalePrice": 1749.31
+    }
+  },
+  {
     "productTitle": "Bounty Star",
     "productId": "9P66TM1HLGLX",
     "releaseDate": "2025-10-23",
@@ -808,9 +808,9 @@
     "releaseDate": "2024-01-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 215.2,
+      "ListPrice": 269,
       "MSRP": 269,
-      "WholesalePrice": 150.64
+      "WholesalePrice": 188.3
     }
   },
   {
@@ -1028,9 +1028,9 @@
     "releaseDate": "2025-11-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 329.4,
+      "ListPrice": 549,
       "MSRP": 549,
-      "WholesalePrice": 230.58
+      "WholesalePrice": 384.3
     }
   },
   {
@@ -2579,9 +2579,9 @@
     "releaseDate": "2017-05-12",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 239.7,
+      "ListPrice": 799,
       "MSRP": 799,
-      "WholesalePrice": 167.79
+      "WholesalePrice": 559.3
     }
   },
   {
@@ -3173,9 +3173,9 @@
     "releaseDate": "2020-12-07",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1499,
+      "ListPrice": 374.75,
       "MSRP": 1499,
-      "WholesalePrice": 1049.3
+      "WholesalePrice": 262.32
     }
   },
   {
@@ -3217,9 +3217,9 @@
     "releaseDate": "2026-09-02",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1574.3,
+      "ListPrice": 1799.2,
       "MSRP": 2249,
-      "WholesalePrice": 1102.01
+      "WholesalePrice": 1259.44
     }
   },
   {
@@ -3778,9 +3778,9 @@
     "releaseDate": "2026-07-15",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1499,
+      "ListPrice": 974.35,
       "MSRP": 1499,
-      "WholesalePrice": 1049.31
+      "WholesalePrice": 682.05
     }
   },
   {
@@ -4196,9 +4196,9 @@
     "releaseDate": "9998-12-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 287.2,
+      "ListPrice": 359,
       "MSRP": 359,
-      "WholesalePrice": 201.04
+      "WholesalePrice": 251.31
     }
   },
   {
@@ -4592,9 +4592,9 @@
     "releaseDate": "2025-06-13",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1899,
+      "ListPrice": 854.55,
       "MSRP": 1899,
-      "WholesalePrice": 1329.3
+      "WholesalePrice": 598.18
     }
   },
   {
@@ -4867,9 +4867,9 @@
     "releaseDate": "2023-11-02",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 324.8,
+      "ListPrice": 1624,
       "MSRP": 1624,
-      "WholesalePrice": 227.36
+      "WholesalePrice": 1136.8
     }
   },
   {
@@ -5115,17 +5115,6 @@
     }
   },
   {
-    "productTitle": "TRIALS OF THE BLOOD DRAGON",
-    "productId": "9PG0ZSTFBL1T",
-    "releaseDate": "2016-06-13",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 0,
-      "MSRP": 0,
-      "WholesalePrice": null
-    }
-  },
-  {
     "productTitle": "Trials Rising",
     "productId": "9N3F9256SF8K",
     "releaseDate": "2019-02-26",
@@ -5219,9 +5208,9 @@
     "releaseDate": "2026-04-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 399.2,
+      "ListPrice": 499,
       "MSRP": 499,
-      "WholesalePrice": 279.44
+      "WholesalePrice": 349.31
     }
   },
   {
@@ -5230,9 +5219,9 @@
     "releaseDate": "2022-10-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 186.75,
+      "ListPrice": 249,
       "MSRP": 249,
-      "WholesalePrice": 130.72
+      "WholesalePrice": 174.3
     }
   },
   {
