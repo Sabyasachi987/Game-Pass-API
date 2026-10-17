@@ -44,17 +44,6 @@
     }
   },
   {
-    "productTitle": "A Plague Tale: Requiem - Windows",
-    "productId": "9N97RC576957",
-    "releaseDate": "2022-10-17",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1999,
-      "MSRP": 1999,
-      "WholesalePrice": 1399.3
-    }
-  },
-  {
     "productTitle": "Abiotic Factor",
     "productId": "9P4NV23Q6QC2",
     "releaseDate": "2025-07-22",
@@ -649,6 +638,17 @@
     }
   },
   {
+    "productTitle": "Beyond These Stars",
+    "productId": "9N4ZMKC3GX4M",
+    "releaseDate": "2026-10-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 999,
+      "MSRP": 999,
+      "WholesalePrice": 699.31
+    }
+  },
+  {
     "productTitle": "Black Jacket",
     "productId": "9NTXGKBW2HSM",
     "releaseDate": "2026-05-12",
@@ -1012,17 +1012,6 @@
     }
   },
   {
-    "productTitle": "Clair Obscur: Expedition 33",
-    "productId": "9PPT8K6GQHRZ",
-    "releaseDate": "2025-04-24",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 2724,
-      "MSRP": 2724,
-      "WholesalePrice": 1906.8
-    }
-  },
-  {
     "productTitle": "Clone Drone in the Danger Zone",
     "productId": "9NKHKBQJSSC3",
     "releaseDate": "2023-11-08",
@@ -1152,17 +1141,6 @@
       "ListPrice": 4399,
       "MSRP": 4399,
       "WholesalePrice": 3079.31
-    }
-  },
-  {
-    "productTitle": "Crime Scene Cleaner",
-    "productId": "9NGZ1M3N98P2",
-    "releaseDate": "2025-04-17",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 2249,
-      "MSRP": 2249,
-      "WholesalePrice": 1574.31
     }
   },
   {
@@ -1474,17 +1452,6 @@
     }
   },
   {
-    "productTitle": "Donut County",
-    "productId": "9N6V2181GHLM",
-    "releaseDate": "2018-12-18",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 699,
-      "MSRP": 699,
-      "WholesalePrice": 489.3
-    }
-  },
-  {
     "productTitle": "DOOM + DOOM II",
     "productId": "9P46M5JQ2PTF",
     "releaseDate": "2024-08-08",
@@ -1680,17 +1647,6 @@
       "ListPrice": 2249,
       "MSRP": 2249,
       "WholesalePrice": 1574.31
-    }
-  },
-  {
-    "productTitle": "Evil West (Windows)",
-    "productId": "9PC49MD70881",
-    "releaseDate": "2024-03-21",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 2299,
-      "MSRP": 2299,
-      "WholesalePrice": 1609.3
     }
   },
   {
@@ -3410,17 +3366,6 @@
     }
   },
   {
-    "productTitle": "Nova Roma (Game Preview)",
-    "productId": "9NBNFBQ546DT",
-    "releaseDate": "2026-03-26",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 999,
-      "MSRP": 999,
-      "WholesalePrice": 699.31
-    }
-  },
-  {
     "productTitle": "OddBallers™",
     "productId": "9N4WHFF9HJ7H",
     "releaseDate": "2023-01-26",
@@ -3517,17 +3462,6 @@
       "ListPrice": 0,
       "MSRP": 0,
       "WholesalePrice": null
-    }
-  },
-  {
-    "productTitle": "Pacific Drive",
-    "productId": "9PNKG0WBL61W",
-    "releaseDate": "2025-10-23",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1624,
-      "MSRP": 1624,
-      "WholesalePrice": 1136.8
     }
   },
   {
@@ -4477,17 +4411,6 @@
     }
   },
   {
-    "productTitle": "Superball",
-    "productId": "9N4M72L6KGC8",
-    "releaseDate": "2025-10-28",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 0,
-      "MSRP": 0,
-      "WholesalePrice": 0
-    }
-  },
-  {
     "productTitle": "SUPERHOT: MIND CONTROL DELETE",
     "productId": "9NRH78B682L8",
     "releaseDate": "2020-07-16",
@@ -4639,17 +4562,6 @@
       "ListPrice": 454,
       "MSRP": 454,
       "WholesalePrice": 269.33
-    }
-  },
-  {
-    "productTitle": "The Casting of Frank Stone™",
-    "productId": "9PG0PMB5Q0GT",
-    "releaseDate": "2024-09-03",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1349,
-      "MSRP": 1349,
-      "WholesalePrice": 944.3
     }
   },
   {
@@ -5021,9 +4933,9 @@
     "releaseDate": "2025-11-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1869,
+      "ListPrice": 1214.85,
       "MSRP": 1869,
-      "WholesalePrice": 1308.31
+      "WholesalePrice": 850.4
     }
   },
   {
