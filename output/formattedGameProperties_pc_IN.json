@@ -440,6 +440,17 @@
     }
   },
   {
+    "productTitle": "Assassin’s Creed Chronicles: India",
+    "productId": "9N0QFT016SGV",
+    "releaseDate": "2016-01-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
+  },
+  {
     "productTitle": "Assassin’s Creed IV Black Flag - Gold Edition",
     "productId": "9NVZ03XT8S2P",
     "releaseDate": "2026-07-21",
@@ -1270,9 +1281,9 @@
     "releaseDate": "2020-05-13",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 699,
+      "ListPrice": 209.7,
       "MSRP": 699,
-      "WholesalePrice": 489.3
+      "WholesalePrice": 146.79
     }
   },
   {
@@ -2986,9 +2997,9 @@
     "releaseDate": "2024-11-19",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 5000,
+      "ListPrice": 3500,
       "MSRP": 5000,
-      "WholesalePrice": 2966.11
+      "WholesalePrice": 2076.27
     }
   },
   {
@@ -4042,9 +4053,9 @@
     "releaseDate": "2026-08-13",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 499,
-      "MSRP": 499,
-      "WholesalePrice": 349.31
+      "ListPrice": 599,
+      "MSRP": 599,
+      "WholesalePrice": 419.31
     }
   },
   {
@@ -5035,6 +5046,17 @@
       "ListPrice": 2999,
       "MSRP": 2999,
       "WholesalePrice": 1779.07
+    }
+  },
+  {
+    "productTitle": "TRIALS OF THE BLOOD DRAGON",
+    "productId": "9PG0ZSTFBL1T",
+    "releaseDate": "2016-06-13",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
     }
   },
   {
