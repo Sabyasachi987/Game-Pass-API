@@ -522,9 +522,9 @@
     "releaseDate": "2019-10-15",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3214.31,
+      "ListPrice": 1125,
       "MSRP": 3214.31,
-      "WholesalePrice": 1906.8
+      "WholesalePrice": 667.38
     }
   },
   {
@@ -3371,9 +3371,9 @@
     "releaseDate": "2018-07-24",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3249,
+      "ListPrice": 1299.6,
       "MSRP": 3249,
-      "WholesalePrice": 2274.3
+      "WholesalePrice": 909.72
     }
   },
   {
@@ -4059,6 +4059,17 @@
     }
   },
   {
+    "productTitle": "Scramble Knights Online (Game Preview)",
+    "productId": "9NK039GWVTVC",
+    "releaseDate": "2025-12-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 484,
+      "MSRP": 484,
+      "WholesalePrice": 338.81
+    }
+  },
+  {
     "productTitle": "Sea of Thieves: 2026 Edition",
     "productId": "9P2N57MC619K",
     "releaseDate": "2018-03-19",
@@ -4196,9 +4207,9 @@
     "releaseDate": "2025-04-08",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1799,
+      "ListPrice": 1349.25,
       "MSRP": 1799,
-      "WholesalePrice": 1067.21
+      "WholesalePrice": 800.4
     }
   },
   {
