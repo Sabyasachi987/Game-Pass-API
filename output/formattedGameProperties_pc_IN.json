@@ -2997,9 +2997,9 @@
     "releaseDate": "2024-11-19",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3500,
+      "ListPrice": 5000,
       "MSRP": 5000,
-      "WholesalePrice": 2076.27
+      "WholesalePrice": 2966.11
     }
   },
   {
@@ -4793,6 +4793,17 @@
       "ListPrice": 734,
       "MSRP": 734,
       "WholesalePrice": 513.81
+    }
+  },
+  {
+    "productTitle": "The Séance of Blake Manor",
+    "productId": "9PNRLJNDPP4G",
+    "releaseDate": "2026-10-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1499,
+      "MSRP": 1499,
+      "WholesalePrice": 1049.31
     }
   },
   {
