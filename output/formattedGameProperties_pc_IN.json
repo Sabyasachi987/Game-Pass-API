@@ -1237,9 +1237,9 @@
     "releaseDate": "2024-11-07",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2499,
+      "ListPrice": 874.65,
       "MSRP": 2499,
-      "WholesalePrice": 1749.3
+      "WholesalePrice": 612.25
     }
   },
   {
@@ -1270,9 +1270,9 @@
     "releaseDate": "2020-05-13",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 209.7,
+      "ListPrice": 699,
       "MSRP": 699,
-      "WholesalePrice": 146.79
+      "WholesalePrice": 489.3
     }
   },
   {
@@ -1900,6 +1900,17 @@
       "ListPrice": 1499,
       "MSRP": 1499,
       "WholesalePrice": 889.24
+    }
+  },
+  {
+    "productTitle": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "productId": "9NRQVQ7ZRM7Z",
+    "releaseDate": "2026-01-22",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2999,
+      "MSRP": 2999,
+      "WholesalePrice": 1779.07
     }
   },
   {
