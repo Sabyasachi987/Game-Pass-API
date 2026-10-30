@@ -2997,9 +2997,9 @@
     "releaseDate": "2022-11-11",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3999,
+      "ListPrice": 1399.65,
       "MSRP": 3999,
-      "WholesalePrice": 2372.29
+      "WholesalePrice": 830.3
     }
   },
   {
@@ -3231,6 +3231,17 @@
       "ListPrice": 1499,
       "MSRP": 1499,
       "WholesalePrice": 1049.31
+    }
+  },
+  {
+    "productTitle": "Mouthwashing",
+    "productId": "9MVNCSJ14754",
+    "releaseDate": "2026-10-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 614,
+      "MSRP": 614,
+      "WholesalePrice": 429.81
     }
   },
   {
@@ -3745,9 +3756,9 @@
     "releaseDate": "2026-07-15",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 974.35,
+      "ListPrice": 1499,
       "MSRP": 1499,
-      "WholesalePrice": 682.05
+      "WholesalePrice": 1049.31
     }
   },
   {
@@ -4372,9 +4383,9 @@
     "releaseDate": "9998-12-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1461.85,
+      "ListPrice": 2249,
       "MSRP": 2249,
-      "WholesalePrice": 1023.3
+      "WholesalePrice": 1574.31
     }
   },
   {
@@ -4551,6 +4562,17 @@
       "ListPrice": 749,
       "MSRP": 749,
       "WholesalePrice": 524.31
+    }
+  },
+  {
+    "productTitle": "Terrible Lizards",
+    "productId": "9PKFL1XJT73S",
+    "releaseDate": "2026-10-29",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1495.2,
+      "MSRP": 1869,
+      "WholesalePrice": 1046.64
     }
   },
   {
