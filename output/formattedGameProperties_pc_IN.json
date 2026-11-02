@@ -1166,17 +1166,6 @@
     }
   },
   {
-    "productTitle": "Day of the Tentacle Remastered",
-    "productId": "9NKK6CX54183",
-    "releaseDate": "2020-10-29",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 999,
-      "MSRP": 999,
-      "WholesalePrice": 592.63
-    }
-  },
-  {
     "productTitle": "DayZ",
     "productId": "BSR9NLHVF1KL",
     "releaseDate": "2019-03-27",
@@ -1207,17 +1196,6 @@
       "ListPrice": 2999,
       "MSRP": 2999,
       "WholesalePrice": 2099.3
-    }
-  },
-  {
-    "productTitle": "Dead Static Drive",
-    "productId": "9MXWL7VJ2SJW",
-    "releaseDate": "2025-11-05",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 552.42,
-      "MSRP": 1674,
-      "WholesalePrice": 327.7
     }
   },
   {
@@ -1262,17 +1240,6 @@
       "ListPrice": 1119,
       "MSRP": 1119,
       "WholesalePrice": 783.31
-    }
-  },
-  {
-    "productTitle": "Deep Rock Galactic",
-    "productId": "9NHFVWX1V7QJ",
-    "releaseDate": "2020-05-13",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 699,
-      "MSRP": 699,
-      "WholesalePrice": 489.3
     }
   },
   {
@@ -2068,17 +2035,6 @@
     }
   },
   {
-    "productTitle": "Full Throttle Remastered",
-    "productId": "9P3ZRGNQVC7D",
-    "releaseDate": "2020-10-29",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 999,
-      "MSRP": 999,
-      "WholesalePrice": 592.63
-    }
-  },
-  {
     "productTitle": "Fuzion Frenzy®",
     "productId": "C2P985H1H42H",
     "releaseDate": "2007-12-05",
@@ -2772,17 +2728,6 @@
     }
   },
   {
-    "productTitle": "Lara Croft and the Temple of Osiris",
-    "productId": "C3553MB4P5TT",
-    "releaseDate": "2014-12-09",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 112,
-      "MSRP": 1120,
-      "WholesalePrice": 66.44
-    }
-  },
-  {
     "productTitle": "League of Legends",
     "productId": "9PB301R051CQ",
     "releaseDate": "2022-12-12",
@@ -2808,17 +2753,6 @@
     "productTitle": "Legends of Runeterra",
     "productId": "9P9XGNFNF11R",
     "releaseDate": "2022-12-12",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 0,
-      "MSRP": 0,
-      "WholesalePrice": null
-    }
-  },
-  {
-    "productTitle": "LEGO® Star Wars™: The Skywalker Saga",
-    "productId": "BRMKDCZT0C4L",
-    "releaseDate": "9998-12-30",
     "pricing": {
       "currencyCode": "INR",
       "ListPrice": 0,
@@ -4999,9 +4933,9 @@
     "releaseDate": "2025-11-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1214.85,
+      "ListPrice": 1869,
       "MSRP": 1869,
-      "WholesalePrice": 850.4
+      "WholesalePrice": 1308.31
     }
   },
   {
@@ -5346,17 +5280,6 @@
     }
   },
   {
-    "productTitle": "Wartales",
-    "productId": "9NWQ686JB33G",
-    "releaseDate": "2023-10-31",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 2174,
-      "MSRP": 2174,
-      "WholesalePrice": 1521.8
-    }
-  },
-  {
     "productTitle": "Wasteland 2: Director's Cut",
     "productId": "C521HDXRTS7F",
     "releaseDate": "2015-10-13",
@@ -5453,17 +5376,6 @@
       "ListPrice": 899,
       "MSRP": 899,
       "WholesalePrice": 629.3
-    }
-  },
-  {
-    "productTitle": "Wildgate",
-    "productId": "9N6VS1BMZ3BW",
-    "releaseDate": "2025-07-22",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 434,
-      "MSRP": 434,
-      "WholesalePrice": 303.81
     }
   },
   {
