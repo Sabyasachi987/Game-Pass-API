@@ -60,9 +60,9 @@
     "releaseDate": "2026-03-25",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1869,
+      "ListPrice": 1121.4,
       "MSRP": 1869,
-      "WholesalePrice": 1308.31
+      "WholesalePrice": 784.98
     }
   },
   {
@@ -71,9 +71,9 @@
     "releaseDate": "2026-06-25",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1100,
+      "ListPrice": 550,
       "MSRP": 1100,
-      "WholesalePrice": 770.01
+      "WholesalePrice": 385
     }
   },
   {
@@ -522,9 +522,9 @@
     "releaseDate": "2019-10-15",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1125,
+      "ListPrice": 3214.31,
       "MSRP": 3214.31,
-      "WholesalePrice": 667.38
+      "WholesalePrice": 1906.8
     }
   },
   {
@@ -1512,9 +1512,9 @@
     "releaseDate": "2026-01-28",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1719,
+      "ListPrice": 687.6,
       "MSRP": 1719,
-      "WholesalePrice": 1203.31
+      "WholesalePrice": 481.32
     }
   },
   {
@@ -1933,6 +1933,17 @@
       "ListPrice": 4499,
       "MSRP": 4499,
       "WholesalePrice": 3149.31
+    }
+  },
+  {
+    "productTitle": "Football Manager 27",
+    "productId": "9N4NKMXDZCX6",
+    "releaseDate": "2026-11-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
     }
   },
   {
@@ -2876,9 +2887,9 @@
     "releaseDate": "2025-12-01",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 2249,
+      "ListPrice": 1686.75,
       "MSRP": 2249,
-      "WholesalePrice": 1574.31
+      "WholesalePrice": 1180.73
     }
   },
   {
@@ -3327,9 +3338,9 @@
     "releaseDate": "2025-07-31",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1349,
+      "ListPrice": 674.5,
       "MSRP": 1349,
-      "WholesalePrice": 944.3
+      "WholesalePrice": 472.15
     }
   },
   {
@@ -3539,6 +3550,17 @@
       "ListPrice": 1999,
       "MSRP": 1999,
       "WholesalePrice": 1185.85
+    }
+  },
+  {
+    "productTitle": "PIT OF GOBLIN",
+    "productId": "9MW4MFG0192L",
+    "releaseDate": "2026-11-03",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 169,
+      "MSRP": 169,
+      "WholesalePrice": 118.31
     }
   },
   {
@@ -5197,9 +5219,9 @@
     "releaseDate": "2026-11-04",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1500,
+      "ListPrice": 900,
       "MSRP": 1500,
-      "WholesalePrice": 1050.01
+      "WholesalePrice": 630
     }
   },
   {
