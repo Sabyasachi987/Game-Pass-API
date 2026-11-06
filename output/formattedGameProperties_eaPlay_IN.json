@@ -1,13 +1,35 @@
 [
   {
+    "productTitle": "MySims™",
+    "productId": "9N74KFV7253H",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
+  },
+  {
+    "productTitle": "MySims™ Kingdom",
+    "productId": "9N8RS7CW8CGL",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
+  },
+  {
     "productTitle": "Plants vs. Zombies™: Replanted",
     "productId": "9PGSDFM3JD85",
     "releaseDate": "2025-10-23",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 959.4,
+      "ListPrice": 1599,
       "MSRP": 1599,
-      "WholesalePrice": 671.58
+      "WholesalePrice": 1119.31
     }
   },
   {
@@ -16,9 +38,9 @@
     "releaseDate": "2025-10-10",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1999.6,
+      "ListPrice": 4999,
       "MSRP": 4999,
-      "WholesalePrice": 1399.72
+      "WholesalePrice": 3499.31
     }
   },
   {
@@ -280,9 +302,9 @@
     "releaseDate": "2023-01-27",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 899.8,
+      "ListPrice": 4499,
       "MSRP": 4499,
-      "WholesalePrice": 629.86
+      "WholesalePrice": 3149.3
     }
   },
   {
@@ -368,9 +390,9 @@
     "releaseDate": "2021-05-13",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 997.5,
+      "ListPrice": 3990,
       "MSRP": 3990,
-      "WholesalePrice": 698.25
+      "WholesalePrice": 2793
     }
   },
   {
@@ -522,9 +544,9 @@
     "releaseDate": "2018-03-23",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 597,
+      "ListPrice": 1990,
       "MSRP": 1990,
-      "WholesalePrice": 417.9
+      "WholesalePrice": 1393
     }
   },
   {
@@ -566,9 +588,9 @@
     "releaseDate": "2016-02-25",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 450,
+      "ListPrice": 1500,
       "MSRP": 1500,
-      "WholesalePrice": 315
+      "WholesalePrice": 1050
     }
   },
   {
@@ -764,9 +786,9 @@
     "releaseDate": "2014-09-23",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 450,
+      "ListPrice": 1500,
       "MSRP": 1500,
-      "WholesalePrice": 315
+      "WholesalePrice": 1050
     }
   },
   {
@@ -984,9 +1006,9 @@
     "releaseDate": "2019-10-17",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 639.6,
+      "ListPrice": 1599,
       "MSRP": 1599,
-      "WholesalePrice": 447.72
+      "WholesalePrice": 1119.3
     }
   },
   {
