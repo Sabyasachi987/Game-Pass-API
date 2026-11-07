@@ -214,9 +214,9 @@
     "releaseDate": "2024-09-17",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 999.75,
+      "ListPrice": 3999,
       "MSRP": 3999,
-      "WholesalePrice": 699.82
+      "WholesalePrice": 2799.31
     }
   },
   {
@@ -258,9 +258,9 @@
     "releaseDate": "2023-04-28",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 899.8,
+      "ListPrice": 4499,
       "MSRP": 4499,
-      "WholesalePrice": 629.86
+      "WholesalePrice": 3149.3
     }
   },
   {
@@ -335,9 +335,9 @@
     "releaseDate": "2021-11-18",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 399.9,
+      "ListPrice": 3999,
       "MSRP": 3999,
-      "WholesalePrice": 279.93
+      "WholesalePrice": 2799.3
     }
   },
   {
@@ -401,9 +401,9 @@
     "releaseDate": "2021-03-25",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 750,
+      "ListPrice": 2500,
       "MSRP": 2500,
-      "WholesalePrice": 525
+      "WholesalePrice": 1750
     }
   },
   {
@@ -456,9 +456,9 @@
     "releaseDate": "2017-08-21",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 250,
+      "ListPrice": 2500,
       "MSRP": 2500,
-      "WholesalePrice": 175
+      "WholesalePrice": 1750
     }
   },
   {
@@ -489,9 +489,9 @@
     "releaseDate": "2019-11-15",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 698,
+      "ListPrice": 3490,
       "MSRP": 3490,
-      "WholesalePrice": 488.6
+      "WholesalePrice": 2443
     }
   },
   {
@@ -522,9 +522,9 @@
     "releaseDate": "2016-10-28",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 375,
+      "ListPrice": 1500,
       "MSRP": 1500,
-      "WholesalePrice": 262.5
+      "WholesalePrice": 1050
     }
   },
   {
@@ -599,9 +599,9 @@
     "releaseDate": "2014-09-23",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 150,
+      "ListPrice": 1500,
       "MSRP": 1500,
-      "WholesalePrice": 105
+      "WholesalePrice": 1050
     }
   },
   {
@@ -874,9 +874,9 @@
     "releaseDate": "2017-11-17",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 375,
+      "ListPrice": 1500,
       "MSRP": 1500,
-      "WholesalePrice": 262.5
+      "WholesalePrice": 1050
     }
   },
   {
