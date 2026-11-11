@@ -1963,9 +1963,20 @@
     "releaseDate": "2026-11-10",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 0,
-      "MSRP": 0,
-      "WholesalePrice": null
+      "ListPrice": 4499,
+      "MSRP": 4499,
+      "WholesalePrice": 3149.31
+    }
+  },
+  {
+    "productTitle": "Football Manager 27 Console",
+    "productId": "9N5DDTDLTWCL",
+    "releaseDate": "2026-11-10",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 4499,
+      "MSRP": 4499,
+      "WholesalePrice": 3149.31
     }
   },
   {
@@ -3017,6 +3028,17 @@
     "productTitle": "Microsoft Solitaire Collection",
     "productId": "9WZDNCRFHWD2",
     "releaseDate": "2012-07-28",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 0,
+      "MSRP": 0,
+      "WholesalePrice": null
+    }
+  },
+  {
+    "productTitle": "Microsoft Sudoku",
+    "productId": "9WZDNCRFHV60",
+    "releaseDate": "2014-03-06",
     "pricing": {
       "currencyCode": "INR",
       "ListPrice": 0,
@@ -4488,6 +4510,17 @@
     }
   },
   {
+    "productTitle": "TANUKI: Pon's Summer",
+    "productId": "9NRBW3FJSJWT",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 599,
+      "MSRP": 599,
+      "WholesalePrice": 419.31
+    }
+  },
+  {
     "productTitle": "TCG Card Shop Simulator",
     "productId": "9P9GX5D8H9DW",
     "releaseDate": "2026-09-15",
@@ -4691,9 +4724,9 @@
     "releaseDate": "2021-03-11",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1799,
+      "ListPrice": 359.8,
       "MSRP": 1799,
-      "WholesalePrice": 1259.3
+      "WholesalePrice": 251.86
     }
   },
   {
@@ -5332,6 +5365,17 @@
       "ListPrice": 4799,
       "MSRP": 4799,
       "WholesalePrice": 3359.3
+    }
+  },
+  {
+    "productTitle": "Warhammer Survivors",
+    "productId": "9MZZWGTF7V65",
+    "releaseDate": "9998-12-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 539.1,
+      "MSRP": 599,
+      "WholesalePrice": 377.37
     }
   },
   {
