@@ -27,9 +27,9 @@
     "releaseDate": "2025-08-14",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 599,
+      "ListPrice": 299.5,
       "MSRP": 599,
-      "WholesalePrice": 419.31
+      "WholesalePrice": 209.65
     }
   },
   {
@@ -1936,28 +1936,6 @@
     }
   },
   {
-    "productTitle": "Football Manager 26",
-    "productId": "9PD0Z90216RJ",
-    "releaseDate": "2025-11-04",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 4499,
-      "MSRP": 4499,
-      "WholesalePrice": 3149.31
-    }
-  },
-  {
-    "productTitle": "Football Manager 26 Console",
-    "productId": "9NMNZ4CK59DM",
-    "releaseDate": "2025-11-04",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 4499,
-      "MSRP": 4499,
-      "WholesalePrice": 3149.31
-    }
-  },
-  {
     "productTitle": "Football Manager 27",
     "productId": "9N4NKMXDZCX6",
     "releaseDate": "2026-11-10",
@@ -2563,6 +2541,17 @@
     }
   },
   {
+    "productTitle": "Hope in the City",
+    "productId": "9P1S707BPW6W",
+    "releaseDate": "2026-11-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 899,
+      "MSRP": 899,
+      "WholesalePrice": 629.31
+    }
+  },
+  {
     "productTitle": "House Flipper",
     "productId": "9NBFGKQLMV33",
     "releaseDate": "2020-02-26",
@@ -3129,9 +3118,9 @@
     "releaseDate": "2026-07-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1869,
+      "ListPrice": 1495.2,
       "MSRP": 1869,
-      "WholesalePrice": 1308.31
+      "WholesalePrice": 1046.64
     }
   },
   {
@@ -3393,9 +3382,9 @@
     "releaseDate": "2018-07-24",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1299.6,
+      "ListPrice": 3249,
       "MSRP": 3249,
-      "WholesalePrice": 909.72
+      "WholesalePrice": 2274.3
     }
   },
   {
@@ -4906,6 +4895,17 @@
     }
   },
   {
+    "productTitle": "Thronefall",
+    "productId": "9NWWL1CBWFCG",
+    "releaseDate": "2026-11-11",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 775.2,
+      "MSRP": 969,
+      "WholesalePrice": 542.64
+    }
+  },
+  {
     "productTitle": "Tiny Bookshop",
     "productId": "9ND19JDMBS3R",
     "releaseDate": "2026-04-10",
@@ -5153,9 +5153,9 @@
     "releaseDate": "9998-12-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1099,
+      "ListPrice": 824.25,
       "MSRP": 1099,
-      "WholesalePrice": 769.3
+      "WholesalePrice": 576.97
     }
   },
   {
