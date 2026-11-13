@@ -22,9 +22,9 @@
     }
   },
   {
-    "productTitle": "9 Kings (Game Preview)",
+    "productTitle": "9 Kings",
     "productId": "9NNM7PKZN3JF",
-    "releaseDate": "2025-08-14",
+    "releaseDate": "2026-11-12",
     "pricing": {
       "currencyCode": "INR",
       "ListPrice": 299.5,
@@ -940,9 +940,9 @@
     "releaseDate": "2023-08-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 406,
+      "ListPrice": 1624,
       "MSRP": 1624,
-      "WholesalePrice": 284.2
+      "WholesalePrice": 1136.8
     }
   },
   {
@@ -984,9 +984,9 @@
     "releaseDate": "2021-06-08",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 434.8,
+      "ListPrice": 2174,
       "MSRP": 2174,
-      "WholesalePrice": 304.36
+      "WholesalePrice": 1521.8
     }
   },
   {
@@ -1259,9 +1259,9 @@
     "releaseDate": "2019-05-07",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 325,
+      "ListPrice": 1300,
       "MSRP": 1300,
-      "WholesalePrice": 227.5
+      "WholesalePrice": 910
     }
   },
   {
@@ -2007,9 +2007,9 @@
     "releaseDate": "2021-11-08",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 3999,
+      "ListPrice": 1599.6,
       "MSRP": 3999,
-      "WholesalePrice": 2372.29
+      "WholesalePrice": 948.91
     }
   },
   {
@@ -2018,9 +2018,9 @@
     "releaseDate": "2026-05-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 5499,
+      "ListPrice": 4124.25,
       "MSRP": 5499,
-      "WholesalePrice": 3262.12
+      "WholesalePrice": 2446.59
     }
   },
   {
@@ -2029,9 +2029,9 @@
     "releaseDate": "2023-10-09",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 6499,
+      "ListPrice": 2599.6,
       "MSRP": 6499,
-      "WholesalePrice": 3855.35
+      "WholesalePrice": 1542.14
     }
   },
   {
@@ -2208,6 +2208,17 @@
       "ListPrice": 1874,
       "MSRP": 1874,
       "WholesalePrice": 1311.8
+    }
+  },
+  {
+    "productTitle": "Grabbed by the Ghoulies™",
+    "productId": "BTHC2G28X9H4",
+    "releaseDate": "2009-02-16",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 269,
+      "MSRP": 269,
+      "WholesalePrice": 188.3
     }
   },
   {
@@ -2648,6 +2659,17 @@
       "ListPrice": 1099,
       "MSRP": 1099,
       "WholesalePrice": 651.95
+    }
+  },
+  {
+    "productTitle": "John Carpenter's Toxic Commando",
+    "productId": "9MTGCZ84M503",
+    "releaseDate": "2026-03-12",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2499,
+      "MSRP": 2499,
+      "WholesalePrice": 1749.31
     }
   },
   {
@@ -4295,9 +4317,9 @@
     "releaseDate": "2024-09-03",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 472.15,
+      "ListPrice": 1349,
       "MSRP": 1349,
-      "WholesalePrice": 330.5
+      "WholesalePrice": 944.3
     }
   },
   {
@@ -4664,6 +4686,28 @@
     }
   },
   {
+    "productTitle": "The Elder Scrolls III: Morrowind",
+    "productId": "BXVCFBJBNS17",
+    "releaseDate": "2018-04-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 699,
+      "MSRP": 699,
+      "WholesalePrice": 489.3
+    }
+  },
+  {
+    "productTitle": "The Elder Scrolls III: Morrowind",
+    "productId": "BZ4WD43D8DTS",
+    "releaseDate": "2018-04-17",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 749,
+      "MSRP": 749,
+      "WholesalePrice": 524.3
+    }
+  },
+  {
     "productTitle": "The Elder Scrolls III: Morrowind Game of the Year Edition (PC)",
     "productId": "9PP7XSG5LDH1",
     "releaseDate": "2021-03-12",
@@ -4878,9 +4922,9 @@
     "releaseDate": "2024-12-04",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 569.7,
+      "ListPrice": 1899,
       "MSRP": 1899,
-      "WholesalePrice": 398.79
+      "WholesalePrice": 1329.3
     }
   },
   {
@@ -4889,9 +4933,9 @@
     "releaseDate": "2021-11-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 324.8,
+      "ListPrice": 1624,
       "MSRP": 1624,
-      "WholesalePrice": 227.36
+      "WholesalePrice": 1136.8
     }
   },
   {
@@ -5621,7 +5665,7 @@
     }
   },
   {
-    "productTitle": "World War Z: Aftermath",
+    "productTitle": "World War Z: Year 1 Edition",
     "productId": "9PLCL2VB2SC0",
     "releaseDate": "2021-09-21",
     "pricing": {
