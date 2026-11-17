@@ -1,16 +1,5 @@
 [
   {
-    "productTitle": "1000xRESIST",
-    "productId": "9NPDN9R45JX4",
-    "releaseDate": "2025-11-04",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1499,
-      "MSRP": 1499,
-      "WholesalePrice": 1049.31
-    }
-  },
-  {
     "productTitle": "33 Immortals",
     "productId": "9P8LR42PTRGJ",
     "releaseDate": "2026-06-11",
@@ -60,9 +49,9 @@
     "releaseDate": "2026-03-25",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1121.4,
+      "ListPrice": 1869,
       "MSRP": 1869,
-      "WholesalePrice": 784.98
+      "WholesalePrice": 1308.31
     }
   },
   {
@@ -71,9 +60,9 @@
     "releaseDate": "2026-06-25",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 660,
+      "ListPrice": 1100,
       "MSRP": 1100,
-      "WholesalePrice": 462
+      "WholesalePrice": 770.01
     }
   },
   {
@@ -547,17 +536,6 @@
       "ListPrice": 4399,
       "MSRP": 4399,
       "WholesalePrice": 3079.3
-    }
-  },
-  {
-    "productTitle": "Barbie™ Horse Trails",
-    "productId": "9N21ZCV0JW6V",
-    "releaseDate": "2025-10-09",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 2174,
-      "MSRP": 2174,
-      "WholesalePrice": 1521.8
     }
   },
   {
@@ -1512,9 +1490,9 @@
     "releaseDate": "2026-01-28",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1203.3,
+      "ListPrice": 1719,
       "MSRP": 1719,
-      "WholesalePrice": 842.31
+      "WholesalePrice": 1203.31
     }
   },
   {
@@ -1892,17 +1870,6 @@
     }
   },
   {
-    "productTitle": "Firefighting Simulator - The Squad",
-    "productId": "9NBZ7Z3JRXQ8",
-    "releaseDate": "2022-12-06",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 487.2,
-      "MSRP": 1624,
-      "WholesalePrice": 341.04
-    }
-  },
-  {
     "productTitle": "Firefighting Simulator: Ignite",
     "productId": "9N8RKWJT32L4",
     "releaseDate": "2025-09-09",
@@ -2230,17 +2197,6 @@
       "ListPrice": 1089,
       "MSRP": 1089,
       "WholesalePrice": 762.31
-    }
-  },
-  {
-    "productTitle": "Great God Grove",
-    "productId": "9N36BLQF3FX6",
-    "releaseDate": "2024-11-15",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1099,
-      "MSRP": 1099,
-      "WholesalePrice": 769.3
     }
   },
   {
@@ -2931,9 +2887,9 @@
     "releaseDate": "2025-12-01",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1686.75,
+      "ListPrice": 2249,
       "MSRP": 2249,
-      "WholesalePrice": 1180.73
+      "WholesalePrice": 1574.31
     }
   },
   {
@@ -3201,17 +3157,6 @@
     }
   },
   {
-    "productTitle": "Moonlighter",
-    "productId": "9P8XJRLCLH2P",
-    "releaseDate": "2018-05-29",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1099,
-      "MSRP": 1099,
-      "WholesalePrice": 769.3
-    }
-  },
-  {
     "productTitle": "Moonlighter 2: The Endless Vault",
     "productId": "9NDJX252Q5BW",
     "releaseDate": "2026-09-02",
@@ -3393,9 +3338,9 @@
     "releaseDate": "2025-07-31",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 674.5,
+      "ListPrice": 1349,
       "MSRP": 1349,
-      "WholesalePrice": 472.15
+      "WholesalePrice": 944.3
     }
   },
   {
@@ -3520,6 +3465,17 @@
     }
   },
   {
+    "productTitle": "PAW Patrol™: Dino World",
+    "productId": "9N3P3TRJGWV0",
+    "releaseDate": "2026-07-30",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 2999,
+      "MSRP": 2999,
+      "WholesalePrice": 2099.31
+    }
+  },
+  {
     "productTitle": "Pax Dei",
     "productId": "9PHGK0538TXM",
     "releaseDate": "2025-10-16",
@@ -3572,17 +3528,6 @@
       "ListPrice": 3249,
       "MSRP": 3249,
       "WholesalePrice": 2274.3
-    }
-  },
-  {
-    "productTitle": "Pigeon Simulator",
-    "productId": "9NRHQLZX3900",
-    "releaseDate": "2025-11-11",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1119,
-      "MSRP": 1119,
-      "WholesalePrice": 783.31
     }
   },
   {
@@ -3649,17 +3594,6 @@
       "ListPrice": 1099,
       "MSRP": 1099,
       "WholesalePrice": 769.3
-    }
-  },
-  {
-    "productTitle": "Police Simulator: Patrol Officers",
-    "productId": "9P0NPLQ9P1DB",
-    "releaseDate": "2022-11-10",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 487.2,
-      "MSRP": 1624,
-      "WholesalePrice": 341.04
     }
   },
   {
@@ -3836,17 +3770,6 @@
       "ListPrice": 3199,
       "MSRP": 3199,
       "WholesalePrice": 2239.3
-    }
-  },
-  {
-    "productTitle": "Relic Hunters Legend",
-    "productId": "9P81K2C8RBF4",
-    "releaseDate": "2025-08-14",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1299,
-      "MSRP": 1299,
-      "WholesalePrice": 909.3
     }
   },
   {
@@ -5060,17 +4983,6 @@
     }
   },
   {
-    "productTitle": "Total Chaos",
-    "productId": "9PHTX5QZ035T",
-    "releaseDate": "2025-11-20",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1869,
-      "MSRP": 1869,
-      "WholesalePrice": 1308.31
-    }
-  },
-  {
     "productTitle": "Totally Accurate Battle Simulator",
     "productId": "9PC4RWP34M2D",
     "releaseDate": "2019-12-20",
@@ -5533,17 +5445,6 @@
     }
   },
   {
-    "productTitle": "Winter Burrow",
-    "productId": "9ND3HTTQ0GKB",
-    "releaseDate": "2025-11-12",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1499,
-      "MSRP": 1499,
-      "WholesalePrice": 1049.31
-    }
-  },
-  {
     "productTitle": "Wo Long: Fallen Dynasty",
     "productId": "9N9X9PC8V9CP",
     "releaseDate": "2023-03-03",
@@ -5673,17 +5574,6 @@
       "ListPrice": 2174,
       "MSRP": 2174,
       "WholesalePrice": 1521.8
-    }
-  },
-  {
-    "productTitle": "Wreckfest",
-    "productId": "9NG06CSMM97P",
-    "releaseDate": "2021-02-18",
-    "pricing": {
-      "currencyCode": "INR",
-      "ListPrice": 1149,
-      "MSRP": 1149,
-      "WholesalePrice": 804.3
     }
   },
   {
