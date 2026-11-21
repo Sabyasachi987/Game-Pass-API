@@ -16,9 +16,9 @@
     "releaseDate": "2026-11-12",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 299.5,
+      "ListPrice": 599,
       "MSRP": 599,
-      "WholesalePrice": 209.65
+      "WholesalePrice": 419.31
     }
   },
   {
@@ -1028,9 +1028,9 @@
     "releaseDate": "2022-09-20",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 674.7,
+      "ListPrice": 2249,
       "MSRP": 2249,
-      "WholesalePrice": 472.29
+      "WholesalePrice": 1574.31
     }
   },
   {
@@ -1138,9 +1138,9 @@
     "releaseDate": "2025-06-16",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 799.6,
+      "ListPrice": 1999,
       "MSRP": 1999,
-      "WholesalePrice": 559.72
+      "WholesalePrice": 1399.31
     }
   },
   {
@@ -1776,9 +1776,9 @@
     "releaseDate": "2024-11-12",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1999,
-      "MSRP": 1999,
-      "WholesalePrice": 1399.31
+      "ListPrice": 1799,
+      "MSRP": 1799,
+      "WholesalePrice": 1259.31
     }
   },
   {
@@ -4394,9 +4394,9 @@
     "releaseDate": "2026-03-31",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1308.3,
+      "ListPrice": 1869,
       "MSRP": 1869,
-      "WholesalePrice": 915.81
+      "WholesalePrice": 1308.31
     }
   },
   {
@@ -4427,9 +4427,9 @@
     "releaseDate": "2024-12-05",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 439.6,
+      "ListPrice": 1099,
       "MSRP": 1099,
-      "WholesalePrice": 307.72
+      "WholesalePrice": 769.3
     }
   },
   {
@@ -4680,9 +4680,9 @@
     "releaseDate": "2021-03-11",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 359.8,
+      "ListPrice": 1799,
       "MSRP": 1799,
-      "WholesalePrice": 251.86
+      "WholesalePrice": 1259.3
     }
   },
   {
@@ -5054,9 +5054,9 @@
     "releaseDate": "2023-10-01",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 599.75,
+      "ListPrice": 2399,
       "MSRP": 2399,
-      "WholesalePrice": 419.82
+      "WholesalePrice": 1679.3
     }
   },
   {
