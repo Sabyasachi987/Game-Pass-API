@@ -3096,9 +3096,9 @@
     "releaseDate": "2026-07-30",
     "pricing": {
       "currencyCode": "INR",
-      "ListPrice": 1495.2,
+      "ListPrice": 1869,
       "MSRP": 1869,
-      "WholesalePrice": 1046.64
+      "WholesalePrice": 1308.31
     }
   },
   {
@@ -4144,6 +4144,17 @@
       "ListPrice": 0,
       "MSRP": 0,
       "WholesalePrice": 0
+    }
+  },
+  {
+    "productTitle": "Sniper Ghost Warrior Contracts 2",
+    "productId": "9NV8BWGH15GN",
+    "releaseDate": "2021-06-04",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 249.9,
+      "MSRP": 2499,
+      "WholesalePrice": 174.93
     }
   },
   {
