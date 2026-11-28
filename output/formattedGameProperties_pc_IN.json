@@ -253,6 +253,17 @@
     }
   },
   {
+    "productTitle": "Arkheron (Game Preview)",
+    "productId": "9NFZHXPSB473",
+    "releaseDate": "2026-11-27",
+    "pricing": {
+      "currencyCode": "INR",
+      "ListPrice": 1299,
+      "MSRP": 1299,
+      "WholesalePrice": 909.31
+    }
+  },
+  {
     "productTitle": "Arx Fatalis",
     "productId": "9NXQKPGMHH9G",
     "releaseDate": "2021-06-13",
@@ -5337,7 +5348,7 @@
   {
     "productTitle": "Warhammer Survivors",
     "productId": "9MZZWGTF7V65",
-    "releaseDate": "9998-12-30",
+    "releaseDate": "2026-11-10",
     "pricing": {
       "currencyCode": "INR",
       "ListPrice": 599,
